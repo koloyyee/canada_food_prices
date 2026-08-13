@@ -1,0 +1,2065 @@
+month,stage,protein,product,price_per_unit,uom,normalised_price,normalised_uom
+2019-01,farm,beef,Steers for slaughter [111111113],138.23,Dollars per hundredweight,3.05,Dollars per kg
+2019-01,farm,beef,Heifers for slaughter [111111114],135.02,Dollars per hundredweight,2.98,Dollars per kg
+2019-01,farm,pork,Hogs [111121],76.63,Dollars per hundredweight,1.69,Dollars per kg
+2019-01,farm,chicken,Chickens for meat [11113131],2.03,Dollars per kilogram,2.03,Dollars per kilogram
+2019-01,farm,milk,Unprocessed milk from bovine [11612111],734.27,Dollars per kilolitre,0.73,Dollars per litre
+2019-01,farm,egg,Eggs in shell [116111],1.55,Dollars per dozen,1.55,Dollars per dozen
+2019-01,retail,beef,"Beef stewing cuts, per kilogram",13.79,Dollars,13.79,Dollars
+2019-01,retail,beef,"Beef striploin cuts, per kilogram",18.72,Dollars,18.72,Dollars
+2019-01,retail,beef,"Beef top sirloin cuts, per kilogram",15.5,Dollars,15.5,Dollars
+2019-01,retail,beef,"Beef rib cuts, per kilogram",19.69,Dollars,19.69,Dollars
+2019-01,retail,beef,"Ground beef, per kilogram",8.57,Dollars,8.57,Dollars
+2019-01,retail,pork,"Pork loin cuts, per kilogram",7.8,Dollars,7.8,Dollars
+2019-01,retail,pork,"Pork rib cuts, per kilogram",6.3,Dollars,6.3,Dollars
+2019-01,retail,pork,"Pork shoulder cuts, per kilogram",3.88,Dollars,3.88,Dollars
+2019-01,retail,chicken,"Whole chicken, per kilogram",5.96,Dollars,5.96,Dollars
+2019-01,retail,chicken,"Chicken breasts, per kilogram",11.0,Dollars,11.0,Dollars
+2019-01,retail,chicken,"Chicken thigh, per kilogram",8.48,Dollars,8.48,Dollars
+2019-01,retail,chicken,"Chicken drumsticks, per kilogram",5.84,Dollars,5.84,Dollars
+2019-01,retail,pork,"Bacon, 500 grams",6.25,Dollars,12.5,Dollars per kg
+2019-01,retail,milk,"Milk, 1 litre",2.99,Dollars,2.99,Dollars per litre
+2019-01,retail,milk,"Milk, 2 litres",4.64,Dollars,2.32,Dollars per litre
+2019-01,retail,milk,"Milk, 4 litres",4.87,Dollars,1.22,Dollars per litre
+2019-01,retail,egg,"Eggs, 1 dozen",3.16,Dollars,3.16,Dollars
+2019-02,farm,beef,Steers for slaughter [111111113],142.87,Dollars per hundredweight,3.15,Dollars per kg
+2019-02,farm,beef,Heifers for slaughter [111111114],123.12,Dollars per hundredweight,2.71,Dollars per kg
+2019-02,farm,pork,Hogs [111121],74.31,Dollars per hundredweight,1.64,Dollars per kg
+2019-02,farm,chicken,Chickens for meat [11113131],2.03,Dollars per kilogram,2.03,Dollars per kilogram
+2019-02,farm,milk,Unprocessed milk from bovine [11612111],723.92,Dollars per kilolitre,0.72,Dollars per litre
+2019-02,farm,egg,Eggs in shell [116111],1.55,Dollars per dozen,1.55,Dollars per dozen
+2019-02,retail,beef,"Beef stewing cuts, per kilogram",13.32,Dollars,13.32,Dollars
+2019-02,retail,beef,"Beef striploin cuts, per kilogram",18.8,Dollars,18.8,Dollars
+2019-02,retail,beef,"Beef top sirloin cuts, per kilogram",13.44,Dollars,13.44,Dollars
+2019-02,retail,beef,"Beef rib cuts, per kilogram",23.44,Dollars,23.44,Dollars
+2019-02,retail,beef,"Ground beef, per kilogram",9.09,Dollars,9.09,Dollars
+2019-02,retail,pork,"Pork loin cuts, per kilogram",8.36,Dollars,8.36,Dollars
+2019-02,retail,pork,"Pork rib cuts, per kilogram",7.7,Dollars,7.7,Dollars
+2019-02,retail,pork,"Pork shoulder cuts, per kilogram",3.83,Dollars,3.83,Dollars
+2019-02,retail,chicken,"Whole chicken, per kilogram",5.16,Dollars,5.16,Dollars
+2019-02,retail,chicken,"Chicken breasts, per kilogram",10.2,Dollars,10.2,Dollars
+2019-02,retail,chicken,"Chicken thigh, per kilogram",10.27,Dollars,10.27,Dollars
+2019-02,retail,chicken,"Chicken drumsticks, per kilogram",7.09,Dollars,7.09,Dollars
+2019-02,retail,pork,"Bacon, 500 grams",5.86,Dollars,11.72,Dollars per kg
+2019-02,retail,milk,"Milk, 1 litre",3.02,Dollars,3.02,Dollars per litre
+2019-02,retail,milk,"Milk, 2 litres",4.6,Dollars,2.3,Dollars per litre
+2019-02,retail,milk,"Milk, 4 litres",4.87,Dollars,1.22,Dollars per litre
+2019-02,retail,egg,"Eggs, 1 dozen",3.21,Dollars,3.21,Dollars
+2019-03,farm,beef,Steers for slaughter [111111113],130.52,Dollars per hundredweight,2.88,Dollars per kg
+2019-03,farm,beef,Heifers for slaughter [111111114],128.49,Dollars per hundredweight,2.83,Dollars per kg
+2019-03,farm,pork,Hogs [111121],77.9,Dollars per hundredweight,1.72,Dollars per kg
+2019-03,farm,chicken,Chickens for meat [11113131],2.02,Dollars per kilogram,2.02,Dollars per kilogram
+2019-03,farm,milk,Unprocessed milk from bovine [11612111],737.95,Dollars per kilolitre,0.74,Dollars per litre
+2019-03,farm,egg,Eggs in shell [116111],1.55,Dollars per dozen,1.55,Dollars per dozen
+2019-03,retail,beef,"Beef stewing cuts, per kilogram",13.52,Dollars,13.52,Dollars
+2019-03,retail,beef,"Beef striploin cuts, per kilogram",21.55,Dollars,21.55,Dollars
+2019-03,retail,beef,"Beef top sirloin cuts, per kilogram",16.15,Dollars,16.15,Dollars
+2019-03,retail,beef,"Beef rib cuts, per kilogram",23.12,Dollars,23.12,Dollars
+2019-03,retail,beef,"Ground beef, per kilogram",8.66,Dollars,8.66,Dollars
+2019-03,retail,pork,"Pork loin cuts, per kilogram",7.32,Dollars,7.32,Dollars
+2019-03,retail,pork,"Pork rib cuts, per kilogram",7.68,Dollars,7.68,Dollars
+2019-03,retail,pork,"Pork shoulder cuts, per kilogram",5.48,Dollars,5.48,Dollars
+2019-03,retail,chicken,"Whole chicken, per kilogram",5.51,Dollars,5.51,Dollars
+2019-03,retail,chicken,"Chicken breasts, per kilogram",10.16,Dollars,10.16,Dollars
+2019-03,retail,chicken,"Chicken thigh, per kilogram",9.0,Dollars,9.0,Dollars
+2019-03,retail,chicken,"Chicken drumsticks, per kilogram",6.03,Dollars,6.03,Dollars
+2019-03,retail,pork,"Bacon, 500 grams",5.41,Dollars,10.82,Dollars per kg
+2019-03,retail,milk,"Milk, 1 litre",2.94,Dollars,2.94,Dollars per litre
+2019-03,retail,milk,"Milk, 2 litres",4.52,Dollars,2.26,Dollars per litre
+2019-03,retail,milk,"Milk, 4 litres",4.83,Dollars,1.21,Dollars per litre
+2019-03,retail,egg,"Eggs, 1 dozen",3.12,Dollars,3.12,Dollars
+2019-04,farm,beef,Steers for slaughter [111111113],142.53,Dollars per hundredweight,3.14,Dollars per kg
+2019-04,farm,beef,Heifers for slaughter [111111114],135.98,Dollars per hundredweight,3.0,Dollars per kg
+2019-04,farm,pork,Hogs [111121],103.3,Dollars per hundredweight,2.28,Dollars per kg
+2019-04,farm,chicken,Chickens for meat [11113131],2.03,Dollars per kilogram,2.03,Dollars per kilogram
+2019-04,farm,milk,Unprocessed milk from bovine [11612111],728.85,Dollars per kilolitre,0.73,Dollars per litre
+2019-04,farm,egg,Eggs in shell [116111],1.55,Dollars per dozen,1.55,Dollars per dozen
+2019-04,retail,beef,"Beef stewing cuts, per kilogram",13.95,Dollars,13.95,Dollars
+2019-04,retail,beef,"Beef striploin cuts, per kilogram",15.94,Dollars,15.94,Dollars
+2019-04,retail,beef,"Beef top sirloin cuts, per kilogram",13.58,Dollars,13.58,Dollars
+2019-04,retail,beef,"Beef rib cuts, per kilogram",16.48,Dollars,16.48,Dollars
+2019-04,retail,beef,"Ground beef, per kilogram",9.32,Dollars,9.32,Dollars
+2019-04,retail,pork,"Pork loin cuts, per kilogram",7.6,Dollars,7.6,Dollars
+2019-04,retail,pork,"Pork rib cuts, per kilogram",7.86,Dollars,7.86,Dollars
+2019-04,retail,pork,"Pork shoulder cuts, per kilogram",8.22,Dollars,8.22,Dollars
+2019-04,retail,chicken,"Whole chicken, per kilogram",5.15,Dollars,5.15,Dollars
+2019-04,retail,chicken,"Chicken breasts, per kilogram",10.76,Dollars,10.76,Dollars
+2019-04,retail,chicken,"Chicken thigh, per kilogram",10.21,Dollars,10.21,Dollars
+2019-04,retail,chicken,"Chicken drumsticks, per kilogram",7.0,Dollars,7.0,Dollars
+2019-04,retail,pork,"Bacon, 500 grams",5.89,Dollars,11.78,Dollars per kg
+2019-04,retail,milk,"Milk, 1 litre",2.99,Dollars,2.99,Dollars per litre
+2019-04,retail,milk,"Milk, 2 litres",4.46,Dollars,2.23,Dollars per litre
+2019-04,retail,milk,"Milk, 4 litres",4.85,Dollars,1.21,Dollars per litre
+2019-04,retail,egg,"Eggs, 1 dozen",3.2,Dollars,3.2,Dollars
+2019-05,farm,beef,Steers for slaughter [111111113],145.64,Dollars per hundredweight,3.21,Dollars per kg
+2019-05,farm,beef,Heifers for slaughter [111111114],143.46,Dollars per hundredweight,3.16,Dollars per kg
+2019-05,farm,pork,Hogs [111121],108.66,Dollars per hundredweight,2.4,Dollars per kg
+2019-05,farm,chicken,Chickens for meat [11113131],2.06,Dollars per kilogram,2.06,Dollars per kilogram
+2019-05,farm,milk,Unprocessed milk from bovine [11612111],726.21,Dollars per kilolitre,0.73,Dollars per litre
+2019-05,farm,egg,Eggs in shell [116111],1.55,Dollars per dozen,1.55,Dollars per dozen
+2019-05,retail,beef,"Beef stewing cuts, per kilogram",14.64,Dollars,14.64,Dollars
+2019-05,retail,beef,"Beef striploin cuts, per kilogram",17.99,Dollars,17.99,Dollars
+2019-05,retail,beef,"Beef top sirloin cuts, per kilogram",16.82,Dollars,16.82,Dollars
+2019-05,retail,beef,"Beef rib cuts, per kilogram",23.76,Dollars,23.76,Dollars
+2019-05,retail,beef,"Ground beef, per kilogram",9.33,Dollars,9.33,Dollars
+2019-05,retail,pork,"Pork loin cuts, per kilogram",8.09,Dollars,8.09,Dollars
+2019-05,retail,pork,"Pork rib cuts, per kilogram",8.85,Dollars,8.85,Dollars
+2019-05,retail,pork,"Pork shoulder cuts, per kilogram",8.18,Dollars,8.18,Dollars
+2019-05,retail,chicken,"Whole chicken, per kilogram",5.65,Dollars,5.65,Dollars
+2019-05,retail,chicken,"Chicken breasts, per kilogram",10.53,Dollars,10.53,Dollars
+2019-05,retail,chicken,"Chicken thigh, per kilogram",9.29,Dollars,9.29,Dollars
+2019-05,retail,chicken,"Chicken drumsticks, per kilogram",6.31,Dollars,6.31,Dollars
+2019-05,retail,pork,"Bacon, 500 grams",5.44,Dollars,10.88,Dollars per kg
+2019-05,retail,milk,"Milk, 1 litre",2.94,Dollars,2.94,Dollars per litre
+2019-05,retail,milk,"Milk, 2 litres",4.55,Dollars,2.27,Dollars per litre
+2019-05,retail,milk,"Milk, 4 litres",4.85,Dollars,1.21,Dollars per litre
+2019-05,retail,egg,"Eggs, 1 dozen",3.25,Dollars,3.25,Dollars
+2019-06,farm,beef,Steers for slaughter [111111113],142.06,Dollars per hundredweight,3.13,Dollars per kg
+2019-06,farm,beef,Heifers for slaughter [111111114],139.8,Dollars per hundredweight,3.08,Dollars per kg
+2019-06,farm,pork,Hogs [111121],102.08,Dollars per hundredweight,2.25,Dollars per kg
+2019-06,farm,chicken,Chickens for meat [11113131],2.05,Dollars per kilogram,2.05,Dollars per kilogram
+2019-06,farm,milk,Unprocessed milk from bovine [11612111],716.1,Dollars per kilolitre,0.72,Dollars per litre
+2019-06,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2019-06,retail,beef,"Beef stewing cuts, per kilogram",14.92,Dollars,14.92,Dollars
+2019-06,retail,beef,"Beef striploin cuts, per kilogram",19.19,Dollars,19.19,Dollars
+2019-06,retail,beef,"Beef top sirloin cuts, per kilogram",15.68,Dollars,15.68,Dollars
+2019-06,retail,beef,"Beef rib cuts, per kilogram",21.14,Dollars,21.14,Dollars
+2019-06,retail,beef,"Ground beef, per kilogram",9.53,Dollars,9.53,Dollars
+2019-06,retail,pork,"Pork loin cuts, per kilogram",8.86,Dollars,8.86,Dollars
+2019-06,retail,pork,"Pork rib cuts, per kilogram",8.92,Dollars,8.92,Dollars
+2019-06,retail,pork,"Pork shoulder cuts, per kilogram",9.25,Dollars,9.25,Dollars
+2019-06,retail,chicken,"Whole chicken, per kilogram",5.19,Dollars,5.19,Dollars
+2019-06,retail,chicken,"Chicken breasts, per kilogram",11.12,Dollars,11.12,Dollars
+2019-06,retail,chicken,"Chicken thigh, per kilogram",9.08,Dollars,9.08,Dollars
+2019-06,retail,chicken,"Chicken drumsticks, per kilogram",6.21,Dollars,6.21,Dollars
+2019-06,retail,pork,"Bacon, 500 grams",5.84,Dollars,11.68,Dollars per kg
+2019-06,retail,milk,"Milk, 1 litre",3.03,Dollars,3.03,Dollars per litre
+2019-06,retail,milk,"Milk, 2 litres",4.52,Dollars,2.26,Dollars per litre
+2019-06,retail,milk,"Milk, 4 litres",4.83,Dollars,1.21,Dollars per litre
+2019-06,retail,egg,"Eggs, 1 dozen",3.21,Dollars,3.21,Dollars
+2019-07,farm,beef,Steers for slaughter [111111113],140.33,Dollars per hundredweight,3.09,Dollars per kg
+2019-07,farm,beef,Heifers for slaughter [111111114],138.48,Dollars per hundredweight,3.05,Dollars per kg
+2019-07,farm,pork,Hogs [111121],88.0,Dollars per hundredweight,1.94,Dollars per kg
+2019-07,farm,chicken,Chickens for meat [11113131],2.02,Dollars per kilogram,2.02,Dollars per kilogram
+2019-07,farm,milk,Unprocessed milk from bovine [11612111],694.18,Dollars per kilolitre,0.69,Dollars per litre
+2019-07,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2019-07,retail,beef,"Beef stewing cuts, per kilogram",14.44,Dollars,14.44,Dollars
+2019-07,retail,beef,"Beef striploin cuts, per kilogram",19.26,Dollars,19.26,Dollars
+2019-07,retail,beef,"Beef top sirloin cuts, per kilogram",14.97,Dollars,14.97,Dollars
+2019-07,retail,beef,"Beef rib cuts, per kilogram",23.05,Dollars,23.05,Dollars
+2019-07,retail,beef,"Ground beef, per kilogram",9.45,Dollars,9.45,Dollars
+2019-07,retail,pork,"Pork loin cuts, per kilogram",7.26,Dollars,7.26,Dollars
+2019-07,retail,pork,"Pork rib cuts, per kilogram",8.6,Dollars,8.6,Dollars
+2019-07,retail,pork,"Pork shoulder cuts, per kilogram",9.25,Dollars,9.25,Dollars
+2019-07,retail,chicken,"Whole chicken, per kilogram",5.16,Dollars,5.16,Dollars
+2019-07,retail,chicken,"Chicken breasts, per kilogram",11.7,Dollars,11.7,Dollars
+2019-07,retail,chicken,"Chicken thigh, per kilogram",8.31,Dollars,8.31,Dollars
+2019-07,retail,chicken,"Chicken drumsticks, per kilogram",5.6,Dollars,5.6,Dollars
+2019-07,retail,pork,"Bacon, 500 grams",5.77,Dollars,11.54,Dollars per kg
+2019-07,retail,milk,"Milk, 1 litre",3.01,Dollars,3.01,Dollars per litre
+2019-07,retail,milk,"Milk, 2 litres",4.53,Dollars,2.27,Dollars per litre
+2019-07,retail,milk,"Milk, 4 litres",4.86,Dollars,1.22,Dollars per litre
+2019-07,retail,egg,"Eggs, 1 dozen",3.14,Dollars,3.14,Dollars
+2019-08,farm,beef,Steers for slaughter [111111113],137.01,Dollars per hundredweight,3.02,Dollars per kg
+2019-08,farm,beef,Heifers for slaughter [111111114],130.47,Dollars per hundredweight,2.88,Dollars per kg
+2019-08,farm,pork,Hogs [111121],99.33,Dollars per hundredweight,2.19,Dollars per kg
+2019-08,farm,chicken,Chickens for meat [11113131],2.08,Dollars per kilogram,2.08,Dollars per kilogram
+2019-08,farm,milk,Unprocessed milk from bovine [11612111],727.16,Dollars per kilolitre,0.73,Dollars per litre
+2019-08,farm,egg,Eggs in shell [116111],1.42,Dollars per dozen,1.42,Dollars per dozen
+2019-08,retail,beef,"Beef stewing cuts, per kilogram",14.62,Dollars,14.62,Dollars
+2019-08,retail,beef,"Beef striploin cuts, per kilogram",18.42,Dollars,18.42,Dollars
+2019-08,retail,beef,"Beef top sirloin cuts, per kilogram",12.36,Dollars,12.36,Dollars
+2019-08,retail,beef,"Beef rib cuts, per kilogram",22.98,Dollars,22.98,Dollars
+2019-08,retail,beef,"Ground beef, per kilogram",9.73,Dollars,9.73,Dollars
+2019-08,retail,pork,"Pork loin cuts, per kilogram",9.29,Dollars,9.29,Dollars
+2019-08,retail,pork,"Pork rib cuts, per kilogram",8.58,Dollars,8.58,Dollars
+2019-08,retail,pork,"Pork shoulder cuts, per kilogram",9.04,Dollars,9.04,Dollars
+2019-08,retail,chicken,"Whole chicken, per kilogram",4.86,Dollars,4.86,Dollars
+2019-08,retail,chicken,"Chicken breasts, per kilogram",11.43,Dollars,11.43,Dollars
+2019-08,retail,chicken,"Chicken thigh, per kilogram",8.06,Dollars,8.06,Dollars
+2019-08,retail,chicken,"Chicken drumsticks, per kilogram",5.43,Dollars,5.43,Dollars
+2019-08,retail,pork,"Bacon, 500 grams",5.93,Dollars,11.86,Dollars per kg
+2019-08,retail,milk,"Milk, 1 litre",3.02,Dollars,3.02,Dollars per litre
+2019-08,retail,milk,"Milk, 2 litres",4.57,Dollars,2.29,Dollars per litre
+2019-08,retail,milk,"Milk, 4 litres",4.85,Dollars,1.21,Dollars per litre
+2019-08,retail,egg,"Eggs, 1 dozen",3.16,Dollars,3.16,Dollars
+2019-09,farm,beef,Steers for slaughter [111111113],131.39,Dollars per hundredweight,2.9,Dollars per kg
+2019-09,farm,beef,Heifers for slaughter [111111114],127.56,Dollars per hundredweight,2.81,Dollars per kg
+2019-09,farm,pork,Hogs [111121],81.11,Dollars per hundredweight,1.79,Dollars per kg
+2019-09,farm,chicken,Chickens for meat [11113131],2.09,Dollars per kilogram,2.09,Dollars per kilogram
+2019-09,farm,milk,Unprocessed milk from bovine [11612111],746.72,Dollars per kilolitre,0.75,Dollars per litre
+2019-09,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2019-09,retail,beef,"Beef stewing cuts, per kilogram",14.54,Dollars,14.54,Dollars
+2019-09,retail,beef,"Beef striploin cuts, per kilogram",16.94,Dollars,16.94,Dollars
+2019-09,retail,beef,"Beef top sirloin cuts, per kilogram",14.1,Dollars,14.1,Dollars
+2019-09,retail,beef,"Beef rib cuts, per kilogram",23.19,Dollars,23.19,Dollars
+2019-09,retail,beef,"Ground beef, per kilogram",8.63,Dollars,8.63,Dollars
+2019-09,retail,pork,"Pork loin cuts, per kilogram",8.35,Dollars,8.35,Dollars
+2019-09,retail,pork,"Pork rib cuts, per kilogram",6.74,Dollars,6.74,Dollars
+2019-09,retail,pork,"Pork shoulder cuts, per kilogram",8.62,Dollars,8.62,Dollars
+2019-09,retail,chicken,"Whole chicken, per kilogram",5.55,Dollars,5.55,Dollars
+2019-09,retail,chicken,"Chicken breasts, per kilogram",11.54,Dollars,11.54,Dollars
+2019-09,retail,chicken,"Chicken thigh, per kilogram",10.15,Dollars,10.15,Dollars
+2019-09,retail,chicken,"Chicken drumsticks, per kilogram",6.46,Dollars,6.46,Dollars
+2019-09,retail,pork,"Bacon, 500 grams",6.02,Dollars,12.04,Dollars per kg
+2019-09,retail,milk,"Milk, 1 litre",3.04,Dollars,3.04,Dollars per litre
+2019-09,retail,milk,"Milk, 2 litres",4.57,Dollars,2.29,Dollars per litre
+2019-09,retail,milk,"Milk, 4 litres",4.83,Dollars,1.21,Dollars per litre
+2019-09,retail,egg,"Eggs, 1 dozen",3.32,Dollars,3.32,Dollars
+2019-10,farm,beef,Steers for slaughter [111111113],130.3,Dollars per hundredweight,2.87,Dollars per kg
+2019-10,farm,beef,Heifers for slaughter [111111114],125.97,Dollars per hundredweight,2.78,Dollars per kg
+2019-10,farm,pork,Hogs [111121],80.3,Dollars per hundredweight,1.77,Dollars per kg
+2019-10,farm,chicken,Chickens for meat [11113131],2.13,Dollars per kilogram,2.13,Dollars per kilogram
+2019-10,farm,milk,Unprocessed milk from bovine [11612111],763.21,Dollars per kilolitre,0.76,Dollars per litre
+2019-10,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2019-10,retail,beef,"Beef stewing cuts, per kilogram",13.85,Dollars,13.85,Dollars
+2019-10,retail,beef,"Beef striploin cuts, per kilogram",18.9,Dollars,18.9,Dollars
+2019-10,retail,beef,"Beef top sirloin cuts, per kilogram",15.68,Dollars,15.68,Dollars
+2019-10,retail,beef,"Beef rib cuts, per kilogram",14.76,Dollars,14.76,Dollars
+2019-10,retail,beef,"Ground beef, per kilogram",9.66,Dollars,9.66,Dollars
+2019-10,retail,pork,"Pork loin cuts, per kilogram",8.78,Dollars,8.78,Dollars
+2019-10,retail,pork,"Pork rib cuts, per kilogram",7.99,Dollars,7.99,Dollars
+2019-10,retail,pork,"Pork shoulder cuts, per kilogram",5.76,Dollars,5.76,Dollars
+2019-10,retail,chicken,"Whole chicken, per kilogram",5.95,Dollars,5.95,Dollars
+2019-10,retail,chicken,"Chicken breasts, per kilogram",10.85,Dollars,10.85,Dollars
+2019-10,retail,chicken,"Chicken thigh, per kilogram",7.73,Dollars,7.73,Dollars
+2019-10,retail,chicken,"Chicken drumsticks, per kilogram",5.08,Dollars,5.08,Dollars
+2019-10,retail,pork,"Bacon, 500 grams",4.98,Dollars,9.96,Dollars per kg
+2019-10,retail,milk,"Milk, 1 litre",3.07,Dollars,3.07,Dollars per litre
+2019-10,retail,milk,"Milk, 2 litres",4.51,Dollars,2.25,Dollars per litre
+2019-10,retail,milk,"Milk, 4 litres",4.85,Dollars,1.21,Dollars per litre
+2019-10,retail,egg,"Eggs, 1 dozen",3.23,Dollars,3.23,Dollars
+2019-11,farm,beef,Steers for slaughter [111111113],127.78,Dollars per hundredweight,2.82,Dollars per kg
+2019-11,farm,beef,Heifers for slaughter [111111114],122.68,Dollars per hundredweight,2.7,Dollars per kg
+2019-11,farm,pork,Hogs [111121],84.18,Dollars per hundredweight,1.86,Dollars per kg
+2019-11,farm,chicken,Chickens for meat [11113131],2.13,Dollars per kilogram,2.13,Dollars per kilogram
+2019-11,farm,milk,Unprocessed milk from bovine [11612111],782.57,Dollars per kilolitre,0.78,Dollars per litre
+2019-11,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2019-11,retail,beef,"Beef stewing cuts, per kilogram",14.47,Dollars,14.47,Dollars
+2019-11,retail,beef,"Beef striploin cuts, per kilogram",15.49,Dollars,15.49,Dollars
+2019-11,retail,beef,"Beef top sirloin cuts, per kilogram",14.31,Dollars,14.31,Dollars
+2019-11,retail,beef,"Beef rib cuts, per kilogram",21.71,Dollars,21.71,Dollars
+2019-11,retail,beef,"Ground beef, per kilogram",10.56,Dollars,10.56,Dollars
+2019-11,retail,pork,"Pork loin cuts, per kilogram",7.85,Dollars,7.85,Dollars
+2019-11,retail,pork,"Pork rib cuts, per kilogram",8.98,Dollars,8.98,Dollars
+2019-11,retail,pork,"Pork shoulder cuts, per kilogram",7.7,Dollars,7.7,Dollars
+2019-11,retail,chicken,"Whole chicken, per kilogram",5.3,Dollars,5.3,Dollars
+2019-11,retail,chicken,"Chicken breasts, per kilogram",11.75,Dollars,11.75,Dollars
+2019-11,retail,chicken,"Chicken thigh, per kilogram",10.06,Dollars,10.06,Dollars
+2019-11,retail,chicken,"Chicken drumsticks, per kilogram",6.45,Dollars,6.45,Dollars
+2019-11,retail,pork,"Bacon, 500 grams",5.78,Dollars,11.56,Dollars per kg
+2019-11,retail,milk,"Milk, 1 litre",3.07,Dollars,3.07,Dollars per litre
+2019-11,retail,milk,"Milk, 2 litres",4.6,Dollars,2.3,Dollars per litre
+2019-11,retail,milk,"Milk, 4 litres",4.84,Dollars,1.21,Dollars per litre
+2019-11,retail,egg,"Eggs, 1 dozen",3.23,Dollars,3.23,Dollars
+2019-12,farm,beef,Steers for slaughter [111111113],131.64,Dollars per hundredweight,2.9,Dollars per kg
+2019-12,farm,beef,Heifers for slaughter [111111114],129.49,Dollars per hundredweight,2.85,Dollars per kg
+2019-12,farm,pork,Hogs [111121],83.93,Dollars per hundredweight,1.85,Dollars per kg
+2019-12,farm,chicken,Chickens for meat [11113131],2.15,Dollars per kilogram,2.15,Dollars per kilogram
+2019-12,farm,milk,Unprocessed milk from bovine [11612111],772.27,Dollars per kilolitre,0.77,Dollars per litre
+2019-12,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2019-12,retail,beef,"Beef stewing cuts, per kilogram",15.51,Dollars,15.51,Dollars
+2019-12,retail,beef,"Beef striploin cuts, per kilogram",17.67,Dollars,17.67,Dollars
+2019-12,retail,beef,"Beef top sirloin cuts, per kilogram",10.96,Dollars,10.96,Dollars
+2019-12,retail,beef,"Beef rib cuts, per kilogram",13.9,Dollars,13.9,Dollars
+2019-12,retail,beef,"Ground beef, per kilogram",9.55,Dollars,9.55,Dollars
+2019-12,retail,pork,"Pork loin cuts, per kilogram",8.29,Dollars,8.29,Dollars
+2019-12,retail,pork,"Pork rib cuts, per kilogram",8.66,Dollars,8.66,Dollars
+2019-12,retail,pork,"Pork shoulder cuts, per kilogram",7.78,Dollars,7.78,Dollars
+2019-12,retail,chicken,"Whole chicken, per kilogram",6.01,Dollars,6.01,Dollars
+2019-12,retail,chicken,"Chicken breasts, per kilogram",12.21,Dollars,12.21,Dollars
+2019-12,retail,chicken,"Chicken thigh, per kilogram",7.39,Dollars,7.39,Dollars
+2019-12,retail,chicken,"Chicken drumsticks, per kilogram",5.0,Dollars,5.0,Dollars
+2019-12,retail,pork,"Bacon, 500 grams",5.84,Dollars,11.68,Dollars per kg
+2019-12,retail,milk,"Milk, 1 litre",3.07,Dollars,3.07,Dollars per litre
+2019-12,retail,milk,"Milk, 2 litres",4.6,Dollars,2.3,Dollars per litre
+2019-12,retail,milk,"Milk, 4 litres",4.86,Dollars,1.22,Dollars per litre
+2019-12,retail,egg,"Eggs, 1 dozen",3.44,Dollars,3.44,Dollars
+2020-01,farm,beef,Steers for slaughter [111111113],147.99,Dollars per hundredweight,3.26,Dollars per kg
+2020-01,farm,beef,Heifers for slaughter [111111114],146.2,Dollars per hundredweight,3.22,Dollars per kg
+2020-01,farm,pork,Hogs [111121],82.93,Dollars per hundredweight,1.83,Dollars per kg
+2020-01,farm,chicken,Chickens for meat [11113131],2.1,Dollars per kilogram,2.1,Dollars per kilogram
+2020-01,farm,milk,Unprocessed milk from bovine [11612111],749.3,Dollars per kilolitre,0.75,Dollars per litre
+2020-01,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2020-01,retail,beef,"Beef stewing cuts, per kilogram",13.85,Dollars,13.85,Dollars
+2020-01,retail,beef,"Beef striploin cuts, per kilogram",18.74,Dollars,18.74,Dollars
+2020-01,retail,beef,"Beef top sirloin cuts, per kilogram",13.68,Dollars,13.68,Dollars
+2020-01,retail,beef,"Beef rib cuts, per kilogram",22.49,Dollars,22.49,Dollars
+2020-01,retail,beef,"Ground beef, per kilogram",9.48,Dollars,9.48,Dollars
+2020-01,retail,pork,"Pork loin cuts, per kilogram",7.64,Dollars,7.64,Dollars
+2020-01,retail,pork,"Pork rib cuts, per kilogram",9.01,Dollars,9.01,Dollars
+2020-01,retail,pork,"Pork shoulder cuts, per kilogram",4.03,Dollars,4.03,Dollars
+2020-01,retail,chicken,"Whole chicken, per kilogram",5.34,Dollars,5.34,Dollars
+2020-01,retail,chicken,"Chicken breasts, per kilogram",10.91,Dollars,10.91,Dollars
+2020-01,retail,chicken,"Chicken thigh, per kilogram",10.82,Dollars,10.82,Dollars
+2020-01,retail,chicken,"Chicken drumsticks, per kilogram",6.93,Dollars,6.93,Dollars
+2020-01,retail,pork,"Bacon, 500 grams",5.88,Dollars,11.76,Dollars per kg
+2020-01,retail,milk,"Milk, 1 litre",3.08,Dollars,3.08,Dollars per litre
+2020-01,retail,milk,"Milk, 2 litres",4.58,Dollars,2.29,Dollars per litre
+2020-01,retail,milk,"Milk, 4 litres",4.87,Dollars,1.22,Dollars per litre
+2020-01,retail,egg,"Eggs, 1 dozen",3.34,Dollars,3.34,Dollars
+2020-02,farm,beef,Steers for slaughter [111111113],148.49,Dollars per hundredweight,3.27,Dollars per kg
+2020-02,farm,beef,Heifers for slaughter [111111114],147.5,Dollars per hundredweight,3.25,Dollars per kg
+2020-02,farm,pork,Hogs [111121],81.01,Dollars per hundredweight,1.79,Dollars per kg
+2020-02,farm,chicken,Chickens for meat [11113131],2.1,Dollars per kilogram,2.1,Dollars per kilogram
+2020-02,farm,milk,Unprocessed milk from bovine [11612111],773.22,Dollars per kilolitre,0.77,Dollars per litre
+2020-02,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2020-02,retail,beef,"Beef stewing cuts, per kilogram",14.65,Dollars,14.65,Dollars
+2020-02,retail,beef,"Beef striploin cuts, per kilogram",19.5,Dollars,19.5,Dollars
+2020-02,retail,beef,"Beef top sirloin cuts, per kilogram",13.43,Dollars,13.43,Dollars
+2020-02,retail,beef,"Beef rib cuts, per kilogram",26.44,Dollars,26.44,Dollars
+2020-02,retail,beef,"Ground beef, per kilogram",9.54,Dollars,9.54,Dollars
+2020-02,retail,pork,"Pork loin cuts, per kilogram",9.12,Dollars,9.12,Dollars
+2020-02,retail,pork,"Pork rib cuts, per kilogram",6.84,Dollars,6.84,Dollars
+2020-02,retail,pork,"Pork shoulder cuts, per kilogram",3.13,Dollars,3.13,Dollars
+2020-02,retail,chicken,"Whole chicken, per kilogram",5.73,Dollars,5.73,Dollars
+2020-02,retail,chicken,"Chicken breasts, per kilogram",12.41,Dollars,12.41,Dollars
+2020-02,retail,chicken,"Chicken thigh, per kilogram",10.93,Dollars,10.93,Dollars
+2020-02,retail,chicken,"Chicken drumsticks, per kilogram",7.29,Dollars,7.29,Dollars
+2020-02,retail,pork,"Bacon, 500 grams",5.23,Dollars,10.46,Dollars per kg
+2020-02,retail,milk,"Milk, 1 litre",3.07,Dollars,3.07,Dollars per litre
+2020-02,retail,milk,"Milk, 2 litres",4.68,Dollars,2.34,Dollars per litre
+2020-02,retail,milk,"Milk, 4 litres",4.96,Dollars,1.24,Dollars per litre
+2020-02,retail,egg,"Eggs, 1 dozen",3.38,Dollars,3.38,Dollars
+2020-03,farm,beef,Steers for slaughter [111111113],139.37,Dollars per hundredweight,3.07,Dollars per kg
+2020-03,farm,beef,Heifers for slaughter [111111114],141.14,Dollars per hundredweight,3.11,Dollars per kg
+2020-03,farm,pork,Hogs [111121],80.29,Dollars per hundredweight,1.77,Dollars per kg
+2020-03,farm,chicken,Chickens for meat [11113131],2.09,Dollars per kilogram,2.09,Dollars per kilogram
+2020-03,farm,milk,Unprocessed milk from bovine [11612111],771.34,Dollars per kilolitre,0.77,Dollars per litre
+2020-03,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2020-03,retail,beef,"Beef stewing cuts, per kilogram",15.38,Dollars,15.38,Dollars
+2020-03,retail,beef,"Beef striploin cuts, per kilogram",20.24,Dollars,20.24,Dollars
+2020-03,retail,beef,"Beef top sirloin cuts, per kilogram",16.47,Dollars,16.47,Dollars
+2020-03,retail,beef,"Beef rib cuts, per kilogram",20.5,Dollars,20.5,Dollars
+2020-03,retail,beef,"Ground beef, per kilogram",10.01,Dollars,10.01,Dollars
+2020-03,retail,pork,"Pork loin cuts, per kilogram",7.84,Dollars,7.84,Dollars
+2020-03,retail,pork,"Pork rib cuts, per kilogram",8.41,Dollars,8.41,Dollars
+2020-03,retail,pork,"Pork shoulder cuts, per kilogram",6.52,Dollars,6.52,Dollars
+2020-03,retail,chicken,"Whole chicken, per kilogram",5.51,Dollars,5.51,Dollars
+2020-03,retail,chicken,"Chicken breasts, per kilogram",12.9,Dollars,12.9,Dollars
+2020-03,retail,chicken,"Chicken thigh, per kilogram",8.5,Dollars,8.5,Dollars
+2020-03,retail,chicken,"Chicken drumsticks, per kilogram",5.71,Dollars,5.71,Dollars
+2020-03,retail,pork,"Bacon, 500 grams",5.77,Dollars,11.54,Dollars per kg
+2020-03,retail,milk,"Milk, 1 litre",3.06,Dollars,3.06,Dollars per litre
+2020-03,retail,milk,"Milk, 2 litres",4.73,Dollars,2.37,Dollars per litre
+2020-03,retail,milk,"Milk, 4 litres",5.02,Dollars,1.25,Dollars per litre
+2020-03,retail,egg,"Eggs, 1 dozen",3.43,Dollars,3.43,Dollars
+2020-04,farm,beef,Steers for slaughter [111111113],139.55,Dollars per hundredweight,3.08,Dollars per kg
+2020-04,farm,beef,Heifers for slaughter [111111114],137.9,Dollars per hundredweight,3.04,Dollars per kg
+2020-04,farm,pork,Hogs [111121],76.94,Dollars per hundredweight,1.7,Dollars per kg
+2020-04,farm,chicken,Chickens for meat [11113131],2.11,Dollars per kilogram,2.11,Dollars per kilogram
+2020-04,farm,milk,Unprocessed milk from bovine [11612111],725.97,Dollars per kilolitre,0.73,Dollars per litre
+2020-04,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2020-04,retail,beef,"Beef stewing cuts, per kilogram",14.95,Dollars,14.95,Dollars
+2020-04,retail,beef,"Beef striploin cuts, per kilogram",18.3,Dollars,18.3,Dollars
+2020-04,retail,beef,"Beef top sirloin cuts, per kilogram",13.78,Dollars,13.78,Dollars
+2020-04,retail,beef,"Beef rib cuts, per kilogram",17.35,Dollars,17.35,Dollars
+2020-04,retail,beef,"Ground beef, per kilogram",11.05,Dollars,11.05,Dollars
+2020-04,retail,pork,"Pork loin cuts, per kilogram",8.0,Dollars,8.0,Dollars
+2020-04,retail,pork,"Pork rib cuts, per kilogram",9.04,Dollars,9.04,Dollars
+2020-04,retail,pork,"Pork shoulder cuts, per kilogram",6.94,Dollars,6.94,Dollars
+2020-04,retail,chicken,"Whole chicken, per kilogram",5.52,Dollars,5.52,Dollars
+2020-04,retail,chicken,"Chicken breasts, per kilogram",12.66,Dollars,12.66,Dollars
+2020-04,retail,chicken,"Chicken thigh, per kilogram",10.62,Dollars,10.62,Dollars
+2020-04,retail,chicken,"Chicken drumsticks, per kilogram",6.95,Dollars,6.95,Dollars
+2020-04,retail,pork,"Bacon, 500 grams",6.11,Dollars,12.22,Dollars per kg
+2020-04,retail,milk,"Milk, 1 litre",3.15,Dollars,3.15,Dollars per litre
+2020-04,retail,milk,"Milk, 2 litres",4.79,Dollars,2.4,Dollars per litre
+2020-04,retail,milk,"Milk, 4 litres",5.02,Dollars,1.25,Dollars per litre
+2020-04,retail,egg,"Eggs, 1 dozen",3.53,Dollars,3.53,Dollars
+2020-05,farm,beef,Steers for slaughter [111111113],149.61,Dollars per hundredweight,3.3,Dollars per kg
+2020-05,farm,beef,Heifers for slaughter [111111114],148.32,Dollars per hundredweight,3.27,Dollars per kg
+2020-05,farm,pork,Hogs [111121],92.18,Dollars per hundredweight,2.03,Dollars per kg
+2020-05,farm,chicken,Chickens for meat [11113131],2.16,Dollars per kilogram,2.16,Dollars per kilogram
+2020-05,farm,milk,Unprocessed milk from bovine [11612111],699.75,Dollars per kilolitre,0.7,Dollars per litre
+2020-05,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2020-05,retail,beef,"Beef stewing cuts, per kilogram",18.25,Dollars,18.25,Dollars
+2020-05,retail,beef,"Beef striploin cuts, per kilogram",21.32,Dollars,21.32,Dollars
+2020-05,retail,beef,"Beef top sirloin cuts, per kilogram",16.85,Dollars,16.85,Dollars
+2020-05,retail,beef,"Beef rib cuts, per kilogram",23.21,Dollars,23.21,Dollars
+2020-05,retail,beef,"Ground beef, per kilogram",12.04,Dollars,12.04,Dollars
+2020-05,retail,pork,"Pork loin cuts, per kilogram",8.24,Dollars,8.24,Dollars
+2020-05,retail,pork,"Pork rib cuts, per kilogram",9.38,Dollars,9.38,Dollars
+2020-05,retail,pork,"Pork shoulder cuts, per kilogram",4.66,Dollars,4.66,Dollars
+2020-05,retail,chicken,"Whole chicken, per kilogram",5.47,Dollars,5.47,Dollars
+2020-05,retail,chicken,"Chicken breasts, per kilogram",10.59,Dollars,10.59,Dollars
+2020-05,retail,chicken,"Chicken thigh, per kilogram",10.05,Dollars,10.05,Dollars
+2020-05,retail,chicken,"Chicken drumsticks, per kilogram",6.76,Dollars,6.76,Dollars
+2020-05,retail,pork,"Bacon, 500 grams",5.75,Dollars,11.5,Dollars per kg
+2020-05,retail,milk,"Milk, 1 litre",3.14,Dollars,3.14,Dollars per litre
+2020-05,retail,milk,"Milk, 2 litres",4.83,Dollars,2.42,Dollars per litre
+2020-05,retail,milk,"Milk, 4 litres",5.0,Dollars,1.25,Dollars per litre
+2020-05,retail,egg,"Eggs, 1 dozen",3.53,Dollars,3.53,Dollars
+2020-06,farm,beef,Steers for slaughter [111111113],157.82,Dollars per hundredweight,3.48,Dollars per kg
+2020-06,farm,beef,Heifers for slaughter [111111114],148.65,Dollars per hundredweight,3.28,Dollars per kg
+2020-06,farm,pork,Hogs [111121],83.48,Dollars per hundredweight,1.84,Dollars per kg
+2020-06,farm,chicken,Chickens for meat [11113131],2.13,Dollars per kilogram,2.13,Dollars per kilogram
+2020-06,farm,milk,Unprocessed milk from bovine [11612111],700.21,Dollars per kilolitre,0.7,Dollars per litre
+2020-06,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2020-06,retail,beef,"Beef stewing cuts, per kilogram",19.39,Dollars,19.39,Dollars
+2020-06,retail,beef,"Beef striploin cuts, per kilogram",34.02,Dollars,34.02,Dollars
+2020-06,retail,beef,"Beef top sirloin cuts, per kilogram",20.74,Dollars,20.74,Dollars
+2020-06,retail,beef,"Beef rib cuts, per kilogram",22.54,Dollars,22.54,Dollars
+2020-06,retail,beef,"Ground beef, per kilogram",11.12,Dollars,11.12,Dollars
+2020-06,retail,pork,"Pork loin cuts, per kilogram",9.44,Dollars,9.44,Dollars
+2020-06,retail,pork,"Pork rib cuts, per kilogram",10.12,Dollars,10.12,Dollars
+2020-06,retail,pork,"Pork shoulder cuts, per kilogram",4.3,Dollars,4.3,Dollars
+2020-06,retail,chicken,"Whole chicken, per kilogram",5.2,Dollars,5.2,Dollars
+2020-06,retail,chicken,"Chicken breasts, per kilogram",11.18,Dollars,11.18,Dollars
+2020-06,retail,chicken,"Chicken thigh, per kilogram",10.26,Dollars,10.26,Dollars
+2020-06,retail,chicken,"Chicken drumsticks, per kilogram",6.6,Dollars,6.6,Dollars
+2020-06,retail,pork,"Bacon, 500 grams",5.79,Dollars,11.58,Dollars per kg
+2020-06,retail,milk,"Milk, 1 litre",3.14,Dollars,3.14,Dollars per litre
+2020-06,retail,milk,"Milk, 2 litres",4.75,Dollars,2.38,Dollars per litre
+2020-06,retail,milk,"Milk, 4 litres",5.01,Dollars,1.25,Dollars per litre
+2020-06,retail,egg,"Eggs, 1 dozen",3.52,Dollars,3.52,Dollars
+2020-07,farm,beef,Steers for slaughter [111111113],144.45,Dollars per hundredweight,3.18,Dollars per kg
+2020-07,farm,beef,Heifers for slaughter [111111114],142.8,Dollars per hundredweight,3.15,Dollars per kg
+2020-07,farm,pork,Hogs [111121],77.19,Dollars per hundredweight,1.7,Dollars per kg
+2020-07,farm,chicken,Chickens for meat [11113131],2.12,Dollars per kilogram,2.12,Dollars per kilogram
+2020-07,farm,milk,Unprocessed milk from bovine [11612111],684.4,Dollars per kilolitre,0.68,Dollars per litre
+2020-07,farm,egg,Eggs in shell [116111],1.52,Dollars per dozen,1.52,Dollars per dozen
+2020-07,retail,beef,"Beef stewing cuts, per kilogram",18.31,Dollars,18.31,Dollars
+2020-07,retail,beef,"Beef striploin cuts, per kilogram",21.63,Dollars,21.63,Dollars
+2020-07,retail,beef,"Beef top sirloin cuts, per kilogram",16.31,Dollars,16.31,Dollars
+2020-07,retail,beef,"Beef rib cuts, per kilogram",23.95,Dollars,23.95,Dollars
+2020-07,retail,beef,"Ground beef, per kilogram",10.33,Dollars,10.33,Dollars
+2020-07,retail,pork,"Pork loin cuts, per kilogram",7.89,Dollars,7.89,Dollars
+2020-07,retail,pork,"Pork rib cuts, per kilogram",10.15,Dollars,10.15,Dollars
+2020-07,retail,pork,"Pork shoulder cuts, per kilogram",4.36,Dollars,4.36,Dollars
+2020-07,retail,chicken,"Whole chicken, per kilogram",5.32,Dollars,5.32,Dollars
+2020-07,retail,chicken,"Chicken breasts, per kilogram",11.76,Dollars,11.76,Dollars
+2020-07,retail,chicken,"Chicken thigh, per kilogram",10.1,Dollars,10.1,Dollars
+2020-07,retail,chicken,"Chicken drumsticks, per kilogram",6.91,Dollars,6.91,Dollars
+2020-07,retail,pork,"Bacon, 500 grams",6.07,Dollars,12.14,Dollars per kg
+2020-07,retail,milk,"Milk, 1 litre",3.12,Dollars,3.12,Dollars per litre
+2020-07,retail,milk,"Milk, 2 litres",4.79,Dollars,2.4,Dollars per litre
+2020-07,retail,milk,"Milk, 4 litres",4.98,Dollars,1.25,Dollars per litre
+2020-07,retail,egg,"Eggs, 1 dozen",3.62,Dollars,3.62,Dollars
+2020-08,farm,beef,Steers for slaughter [111111113],143.56,Dollars per hundredweight,3.16,Dollars per kg
+2020-08,farm,beef,Heifers for slaughter [111111114],141.99,Dollars per hundredweight,3.13,Dollars per kg
+2020-08,farm,pork,Hogs [111121],80.27,Dollars per hundredweight,1.77,Dollars per kg
+2020-08,farm,chicken,Chickens for meat [11113131],2.11,Dollars per kilogram,2.11,Dollars per kilogram
+2020-08,farm,milk,Unprocessed milk from bovine [11612111],725.35,Dollars per kilolitre,0.73,Dollars per litre
+2020-08,farm,egg,Eggs in shell [116111],1.62,Dollars per dozen,1.62,Dollars per dozen
+2020-08,retail,beef,"Beef stewing cuts, per kilogram",15.84,Dollars,15.84,Dollars
+2020-08,retail,beef,"Beef striploin cuts, per kilogram",24.57,Dollars,24.57,Dollars
+2020-08,retail,beef,"Beef top sirloin cuts, per kilogram",13.98,Dollars,13.98,Dollars
+2020-08,retail,beef,"Beef rib cuts, per kilogram",25.74,Dollars,25.74,Dollars
+2020-08,retail,beef,"Ground beef, per kilogram",8.81,Dollars,8.81,Dollars
+2020-08,retail,pork,"Pork loin cuts, per kilogram",7.98,Dollars,7.98,Dollars
+2020-08,retail,pork,"Pork rib cuts, per kilogram",9.25,Dollars,9.25,Dollars
+2020-08,retail,pork,"Pork shoulder cuts, per kilogram",5.15,Dollars,5.15,Dollars
+2020-08,retail,chicken,"Whole chicken, per kilogram",5.98,Dollars,5.98,Dollars
+2020-08,retail,chicken,"Chicken breasts, per kilogram",11.28,Dollars,11.28,Dollars
+2020-08,retail,chicken,"Chicken thigh, per kilogram",9.98,Dollars,9.98,Dollars
+2020-08,retail,chicken,"Chicken drumsticks, per kilogram",6.53,Dollars,6.53,Dollars
+2020-08,retail,pork,"Bacon, 500 grams",5.86,Dollars,11.72,Dollars per kg
+2020-08,retail,milk,"Milk, 1 litre",3.11,Dollars,3.11,Dollars per litre
+2020-08,retail,milk,"Milk, 2 litres",4.76,Dollars,2.38,Dollars per litre
+2020-08,retail,milk,"Milk, 4 litres",4.95,Dollars,1.24,Dollars per litre
+2020-08,retail,egg,"Eggs, 1 dozen",3.68,Dollars,3.68,Dollars
+2020-09,farm,beef,Steers for slaughter [111111113],138.76,Dollars per hundredweight,3.06,Dollars per kg
+2020-09,farm,beef,Heifers for slaughter [111111114],137.7,Dollars per hundredweight,3.04,Dollars per kg
+2020-09,farm,pork,Hogs [111121],90.56,Dollars per hundredweight,2.0,Dollars per kg
+2020-09,farm,chicken,Chickens for meat [11113131],2.07,Dollars per kilogram,2.07,Dollars per kilogram
+2020-09,farm,milk,Unprocessed milk from bovine [11612111],745.68,Dollars per kilolitre,0.75,Dollars per litre
+2020-09,farm,egg,Eggs in shell [116111],1.62,Dollars per dozen,1.62,Dollars per dozen
+2020-09,retail,beef,"Beef stewing cuts, per kilogram",14.52,Dollars,14.52,Dollars
+2020-09,retail,beef,"Beef striploin cuts, per kilogram",19.17,Dollars,19.17,Dollars
+2020-09,retail,beef,"Beef top sirloin cuts, per kilogram",12.83,Dollars,12.83,Dollars
+2020-09,retail,beef,"Beef rib cuts, per kilogram",25.42,Dollars,25.42,Dollars
+2020-09,retail,beef,"Ground beef, per kilogram",9.01,Dollars,9.01,Dollars
+2020-09,retail,pork,"Pork loin cuts, per kilogram",9.19,Dollars,9.19,Dollars
+2020-09,retail,pork,"Pork rib cuts, per kilogram",9.35,Dollars,9.35,Dollars
+2020-09,retail,pork,"Pork shoulder cuts, per kilogram",6.31,Dollars,6.31,Dollars
+2020-09,retail,chicken,"Whole chicken, per kilogram",5.86,Dollars,5.86,Dollars
+2020-09,retail,chicken,"Chicken breasts, per kilogram",11.84,Dollars,11.84,Dollars
+2020-09,retail,chicken,"Chicken thigh, per kilogram",8.96,Dollars,8.96,Dollars
+2020-09,retail,chicken,"Chicken drumsticks, per kilogram",5.77,Dollars,5.77,Dollars
+2020-09,retail,pork,"Bacon, 500 grams",5.67,Dollars,11.34,Dollars per kg
+2020-09,retail,milk,"Milk, 1 litre",3.12,Dollars,3.12,Dollars per litre
+2020-09,retail,milk,"Milk, 2 litres",4.76,Dollars,2.38,Dollars per litre
+2020-09,retail,milk,"Milk, 4 litres",4.99,Dollars,1.25,Dollars per litre
+2020-09,retail,egg,"Eggs, 1 dozen",3.71,Dollars,3.71,Dollars
+2020-10,farm,beef,Steers for slaughter [111111113],133.47,Dollars per hundredweight,2.94,Dollars per kg
+2020-10,farm,beef,Heifers for slaughter [111111114],127.86,Dollars per hundredweight,2.82,Dollars per kg
+2020-10,farm,pork,Hogs [111121],106.59,Dollars per hundredweight,2.35,Dollars per kg
+2020-10,farm,chicken,Chickens for meat [11113131],2.09,Dollars per kilogram,2.09,Dollars per kilogram
+2020-10,farm,milk,Unprocessed milk from bovine [11612111],774.12,Dollars per kilolitre,0.77,Dollars per litre
+2020-10,farm,egg,Eggs in shell [116111],1.62,Dollars per dozen,1.62,Dollars per dozen
+2020-10,retail,beef,"Beef stewing cuts, per kilogram",15.21,Dollars,15.21,Dollars
+2020-10,retail,beef,"Beef striploin cuts, per kilogram",21.44,Dollars,21.44,Dollars
+2020-10,retail,beef,"Beef top sirloin cuts, per kilogram",10.91,Dollars,10.91,Dollars
+2020-10,retail,beef,"Beef rib cuts, per kilogram",15.6,Dollars,15.6,Dollars
+2020-10,retail,beef,"Ground beef, per kilogram",9.44,Dollars,9.44,Dollars
+2020-10,retail,pork,"Pork loin cuts, per kilogram",6.8,Dollars,6.8,Dollars
+2020-10,retail,pork,"Pork rib cuts, per kilogram",10.5,Dollars,10.5,Dollars
+2020-10,retail,pork,"Pork shoulder cuts, per kilogram",6.77,Dollars,6.77,Dollars
+2020-10,retail,chicken,"Whole chicken, per kilogram",5.3,Dollars,5.3,Dollars
+2020-10,retail,chicken,"Chicken breasts, per kilogram",12.83,Dollars,12.83,Dollars
+2020-10,retail,chicken,"Chicken thigh, per kilogram",9.06,Dollars,9.06,Dollars
+2020-10,retail,chicken,"Chicken drumsticks, per kilogram",5.7,Dollars,5.7,Dollars
+2020-10,retail,pork,"Bacon, 500 grams",5.62,Dollars,11.24,Dollars per kg
+2020-10,retail,milk,"Milk, 1 litre",3.12,Dollars,3.12,Dollars per litre
+2020-10,retail,milk,"Milk, 2 litres",4.79,Dollars,2.4,Dollars per litre
+2020-10,retail,milk,"Milk, 4 litres",4.97,Dollars,1.24,Dollars per litre
+2020-10,retail,egg,"Eggs, 1 dozen",3.75,Dollars,3.75,Dollars
+2020-11,farm,beef,Steers for slaughter [111111113],133.54,Dollars per hundredweight,2.94,Dollars per kg
+2020-11,farm,beef,Heifers for slaughter [111111114],131.09,Dollars per hundredweight,2.89,Dollars per kg
+2020-11,farm,pork,Hogs [111121],96.99,Dollars per hundredweight,2.14,Dollars per kg
+2020-11,farm,chicken,Chickens for meat [11113131],2.09,Dollars per kilogram,2.09,Dollars per kilogram
+2020-11,farm,milk,Unprocessed milk from bovine [11612111],766.24,Dollars per kilolitre,0.77,Dollars per litre
+2020-11,farm,egg,Eggs in shell [116111],1.62,Dollars per dozen,1.62,Dollars per dozen
+2020-11,retail,beef,"Beef stewing cuts, per kilogram",15.75,Dollars,15.75,Dollars
+2020-11,retail,beef,"Beef striploin cuts, per kilogram",18.59,Dollars,18.59,Dollars
+2020-11,retail,beef,"Beef top sirloin cuts, per kilogram",14.45,Dollars,14.45,Dollars
+2020-11,retail,beef,"Beef rib cuts, per kilogram",23.76,Dollars,23.76,Dollars
+2020-11,retail,beef,"Ground beef, per kilogram",9.53,Dollars,9.53,Dollars
+2020-11,retail,pork,"Pork loin cuts, per kilogram",7.46,Dollars,7.46,Dollars
+2020-11,retail,pork,"Pork rib cuts, per kilogram",9.3,Dollars,9.3,Dollars
+2020-11,retail,pork,"Pork shoulder cuts, per kilogram",7.01,Dollars,7.01,Dollars
+2020-11,retail,chicken,"Whole chicken, per kilogram",5.31,Dollars,5.31,Dollars
+2020-11,retail,chicken,"Chicken breasts, per kilogram",12.26,Dollars,12.26,Dollars
+2020-11,retail,chicken,"Chicken thigh, per kilogram",11.27,Dollars,11.27,Dollars
+2020-11,retail,chicken,"Chicken drumsticks, per kilogram",7.17,Dollars,7.17,Dollars
+2020-11,retail,pork,"Bacon, 500 grams",6.45,Dollars,12.9,Dollars per kg
+2020-11,retail,milk,"Milk, 1 litre",3.11,Dollars,3.11,Dollars per litre
+2020-11,retail,milk,"Milk, 2 litres",4.67,Dollars,2.33,Dollars per litre
+2020-11,retail,milk,"Milk, 4 litres",4.96,Dollars,1.24,Dollars per litre
+2020-11,retail,egg,"Eggs, 1 dozen",3.76,Dollars,3.76,Dollars
+2020-12,farm,beef,Steers for slaughter [111111113],128.2,Dollars per hundredweight,2.83,Dollars per kg
+2020-12,farm,beef,Heifers for slaughter [111111114],124.04,Dollars per hundredweight,2.73,Dollars per kg
+2020-12,farm,pork,Hogs [111121],86.37,Dollars per hundredweight,1.9,Dollars per kg
+2020-12,farm,chicken,Chickens for meat [11113131],2.15,Dollars per kilogram,2.15,Dollars per kilogram
+2020-12,farm,milk,Unprocessed milk from bovine [11612111],773.95,Dollars per kilolitre,0.77,Dollars per litre
+2020-12,farm,egg,Eggs in shell [116111],1.62,Dollars per dozen,1.62,Dollars per dozen
+2020-12,retail,beef,"Beef stewing cuts, per kilogram",15.22,Dollars,15.22,Dollars
+2020-12,retail,beef,"Beef striploin cuts, per kilogram",20.14,Dollars,20.14,Dollars
+2020-12,retail,beef,"Beef top sirloin cuts, per kilogram",11.43,Dollars,11.43,Dollars
+2020-12,retail,beef,"Beef rib cuts, per kilogram",16.53,Dollars,16.53,Dollars
+2020-12,retail,beef,"Ground beef, per kilogram",9.89,Dollars,9.89,Dollars
+2020-12,retail,pork,"Pork loin cuts, per kilogram",8.22,Dollars,8.22,Dollars
+2020-12,retail,pork,"Pork rib cuts, per kilogram",10.68,Dollars,10.68,Dollars
+2020-12,retail,pork,"Pork shoulder cuts, per kilogram",5.14,Dollars,5.14,Dollars
+2020-12,retail,chicken,"Whole chicken, per kilogram",6.99,Dollars,6.99,Dollars
+2020-12,retail,chicken,"Chicken breasts, per kilogram",12.19,Dollars,12.19,Dollars
+2020-12,retail,chicken,"Chicken thigh, per kilogram",8.75,Dollars,8.75,Dollars
+2020-12,retail,chicken,"Chicken drumsticks, per kilogram",5.74,Dollars,5.74,Dollars
+2020-12,retail,pork,"Bacon, 500 grams",6.36,Dollars,12.72,Dollars per kg
+2020-12,retail,milk,"Milk, 1 litre",3.19,Dollars,3.19,Dollars per litre
+2020-12,retail,milk,"Milk, 2 litres",4.78,Dollars,2.39,Dollars per litre
+2020-12,retail,milk,"Milk, 4 litres",4.97,Dollars,1.24,Dollars per litre
+2020-12,retail,egg,"Eggs, 1 dozen",3.75,Dollars,3.75,Dollars
+2021-01,farm,beef,Steers for slaughter [111111113],138.37,Dollars per hundredweight,3.05,Dollars per kg
+2021-01,farm,beef,Heifers for slaughter [111111114],136.97,Dollars per hundredweight,3.02,Dollars per kg
+2021-01,farm,pork,Hogs [111121],83.63,Dollars per hundredweight,1.84,Dollars per kg
+2021-01,farm,chicken,Chickens for meat [11113131],2.21,Dollars per kilogram,2.21,Dollars per kilogram
+2021-01,farm,milk,Unprocessed milk from bovine [11612111],765.36,Dollars per kilolitre,0.77,Dollars per litre
+2021-01,farm,egg,Eggs in shell [116111],1.62,Dollars per dozen,1.62,Dollars per dozen
+2021-01,retail,beef,"Beef stewing cuts, per kilogram",15.19,Dollars,15.19,Dollars
+2021-01,retail,beef,"Beef striploin cuts, per kilogram",20.66,Dollars,20.66,Dollars
+2021-01,retail,beef,"Beef top sirloin cuts, per kilogram",13.88,Dollars,13.88,Dollars
+2021-01,retail,beef,"Beef rib cuts, per kilogram",24.79,Dollars,24.79,Dollars
+2021-01,retail,beef,"Ground beef, per kilogram",9.21,Dollars,9.21,Dollars
+2021-01,retail,pork,"Pork loin cuts, per kilogram",9.02,Dollars,9.02,Dollars
+2021-01,retail,pork,"Pork rib cuts, per kilogram",8.79,Dollars,8.79,Dollars
+2021-01,retail,pork,"Pork shoulder cuts, per kilogram",3.71,Dollars,3.71,Dollars
+2021-01,retail,chicken,"Whole chicken, per kilogram",5.14,Dollars,5.14,Dollars
+2021-01,retail,chicken,"Chicken breasts, per kilogram",12.05,Dollars,12.05,Dollars
+2021-01,retail,chicken,"Chicken thigh, per kilogram",10.44,Dollars,10.44,Dollars
+2021-01,retail,chicken,"Chicken drumsticks, per kilogram",6.77,Dollars,6.77,Dollars
+2021-01,retail,pork,"Bacon, 500 grams",6.01,Dollars,12.02,Dollars per kg
+2021-01,retail,milk,"Milk, 1 litre",3.18,Dollars,3.18,Dollars per litre
+2021-01,retail,milk,"Milk, 2 litres",4.78,Dollars,2.39,Dollars per litre
+2021-01,retail,milk,"Milk, 4 litres",4.98,Dollars,1.25,Dollars per litre
+2021-01,retail,egg,"Eggs, 1 dozen",3.77,Dollars,3.77,Dollars
+2021-02,farm,beef,Steers for slaughter [111111113],140.98,Dollars per hundredweight,3.11,Dollars per kg
+2021-02,farm,beef,Heifers for slaughter [111111114],139.99,Dollars per hundredweight,3.09,Dollars per kg
+2021-02,farm,pork,Hogs [111121],91.21,Dollars per hundredweight,2.01,Dollars per kg
+2021-02,farm,chicken,Chickens for meat [11113131],2.24,Dollars per kilogram,2.24,Dollars per kilogram
+2021-02,farm,milk,Unprocessed milk from bovine [11612111],751.92,Dollars per kilolitre,0.75,Dollars per litre
+2021-02,farm,egg,Eggs in shell [116111],1.62,Dollars per dozen,1.62,Dollars per dozen
+2021-02,retail,beef,"Beef stewing cuts, per kilogram",15.2,Dollars,15.2,Dollars
+2021-02,retail,beef,"Beef striploin cuts, per kilogram",20.7,Dollars,20.7,Dollars
+2021-02,retail,beef,"Beef top sirloin cuts, per kilogram",13.52,Dollars,13.52,Dollars
+2021-02,retail,beef,"Beef rib cuts, per kilogram",22.71,Dollars,22.71,Dollars
+2021-02,retail,beef,"Ground beef, per kilogram",8.42,Dollars,8.42,Dollars
+2021-02,retail,pork,"Pork loin cuts, per kilogram",8.07,Dollars,8.07,Dollars
+2021-02,retail,pork,"Pork rib cuts, per kilogram",9.7,Dollars,9.7,Dollars
+2021-02,retail,pork,"Pork shoulder cuts, per kilogram",3.45,Dollars,3.45,Dollars
+2021-02,retail,chicken,"Whole chicken, per kilogram",5.44,Dollars,5.44,Dollars
+2021-02,retail,chicken,"Chicken breasts, per kilogram",12.19,Dollars,12.19,Dollars
+2021-02,retail,chicken,"Chicken thigh, per kilogram",11.06,Dollars,11.06,Dollars
+2021-02,retail,chicken,"Chicken drumsticks, per kilogram",7.51,Dollars,7.51,Dollars
+2021-02,retail,pork,"Bacon, 500 grams",5.8,Dollars,11.6,Dollars per kg
+2021-02,retail,milk,"Milk, 1 litre",3.24,Dollars,3.24,Dollars per litre
+2021-02,retail,milk,"Milk, 2 litres",4.87,Dollars,2.44,Dollars per litre
+2021-02,retail,milk,"Milk, 4 litres",5.15,Dollars,1.29,Dollars per litre
+2021-02,retail,egg,"Eggs, 1 dozen",3.8,Dollars,3.8,Dollars
+2021-03,farm,beef,Steers for slaughter [111111113],141.21,Dollars per hundredweight,3.11,Dollars per kg
+2021-03,farm,beef,Heifers for slaughter [111111114],139.25,Dollars per hundredweight,3.07,Dollars per kg
+2021-03,farm,pork,Hogs [111121],104.11,Dollars per hundredweight,2.3,Dollars per kg
+2021-03,farm,chicken,Chickens for meat [11113131],2.29,Dollars per kilogram,2.29,Dollars per kilogram
+2021-03,farm,milk,Unprocessed milk from bovine [11612111],769.81,Dollars per kilolitre,0.77,Dollars per litre
+2021-03,farm,egg,Eggs in shell [116111],1.71,Dollars per dozen,1.71,Dollars per dozen
+2021-03,retail,beef,"Beef stewing cuts, per kilogram",14.38,Dollars,14.38,Dollars
+2021-03,retail,beef,"Beef striploin cuts, per kilogram",24.71,Dollars,24.71,Dollars
+2021-03,retail,beef,"Beef top sirloin cuts, per kilogram",14.6,Dollars,14.6,Dollars
+2021-03,retail,beef,"Beef rib cuts, per kilogram",18.58,Dollars,18.58,Dollars
+2021-03,retail,beef,"Ground beef, per kilogram",9.09,Dollars,9.09,Dollars
+2021-03,retail,pork,"Pork loin cuts, per kilogram",6.82,Dollars,6.82,Dollars
+2021-03,retail,pork,"Pork rib cuts, per kilogram",9.37,Dollars,9.37,Dollars
+2021-03,retail,pork,"Pork shoulder cuts, per kilogram",5.17,Dollars,5.17,Dollars
+2021-03,retail,chicken,"Whole chicken, per kilogram",5.32,Dollars,5.32,Dollars
+2021-03,retail,chicken,"Chicken breasts, per kilogram",11.69,Dollars,11.69,Dollars
+2021-03,retail,chicken,"Chicken thigh, per kilogram",8.85,Dollars,8.85,Dollars
+2021-03,retail,chicken,"Chicken drumsticks, per kilogram",5.5,Dollars,5.5,Dollars
+2021-03,retail,pork,"Bacon, 500 grams",6.4,Dollars,12.8,Dollars per kg
+2021-03,retail,milk,"Milk, 1 litre",3.28,Dollars,3.28,Dollars per litre
+2021-03,retail,milk,"Milk, 2 litres",4.89,Dollars,2.44,Dollars per litre
+2021-03,retail,milk,"Milk, 4 litres",5.14,Dollars,1.28,Dollars per litre
+2021-03,retail,egg,"Eggs, 1 dozen",3.97,Dollars,3.97,Dollars
+2021-04,farm,beef,Steers for slaughter [111111113],144.14,Dollars per hundredweight,3.18,Dollars per kg
+2021-04,farm,beef,Heifers for slaughter [111111114],143.06,Dollars per hundredweight,3.15,Dollars per kg
+2021-04,farm,pork,Hogs [111121],117.27,Dollars per hundredweight,2.59,Dollars per kg
+2021-04,farm,chicken,Chickens for meat [11113131],2.4,Dollars per kilogram,2.4,Dollars per kilogram
+2021-04,farm,milk,Unprocessed milk from bovine [11612111],747.91,Dollars per kilolitre,0.75,Dollars per litre
+2021-04,farm,egg,Eggs in shell [116111],1.71,Dollars per dozen,1.71,Dollars per dozen
+2021-04,retail,beef,"Beef stewing cuts, per kilogram",15.54,Dollars,15.54,Dollars
+2021-04,retail,beef,"Beef striploin cuts, per kilogram",22.4,Dollars,22.4,Dollars
+2021-04,retail,beef,"Beef top sirloin cuts, per kilogram",17.24,Dollars,17.24,Dollars
+2021-04,retail,beef,"Beef rib cuts, per kilogram",22.25,Dollars,22.25,Dollars
+2021-04,retail,beef,"Ground beef, per kilogram",8.92,Dollars,8.92,Dollars
+2021-04,retail,pork,"Pork loin cuts, per kilogram",8.82,Dollars,8.82,Dollars
+2021-04,retail,pork,"Pork rib cuts, per kilogram",9.99,Dollars,9.99,Dollars
+2021-04,retail,pork,"Pork shoulder cuts, per kilogram",6.75,Dollars,6.75,Dollars
+2021-04,retail,chicken,"Whole chicken, per kilogram",5.74,Dollars,5.74,Dollars
+2021-04,retail,chicken,"Chicken breasts, per kilogram",13.24,Dollars,13.24,Dollars
+2021-04,retail,chicken,"Chicken thigh, per kilogram",10.87,Dollars,10.87,Dollars
+2021-04,retail,chicken,"Chicken drumsticks, per kilogram",7.27,Dollars,7.27,Dollars
+2021-04,retail,pork,"Bacon, 500 grams",6.18,Dollars,12.36,Dollars per kg
+2021-04,retail,milk,"Milk, 1 litre",3.32,Dollars,3.32,Dollars per litre
+2021-04,retail,milk,"Milk, 2 litres",4.93,Dollars,2.46,Dollars per litre
+2021-04,retail,milk,"Milk, 4 litres",5.13,Dollars,1.28,Dollars per litre
+2021-04,retail,egg,"Eggs, 1 dozen",3.97,Dollars,3.97,Dollars
+2021-05,farm,beef,Steers for slaughter [111111113],148.95,Dollars per hundredweight,3.28,Dollars per kg
+2021-05,farm,beef,Heifers for slaughter [111111114],147.31,Dollars per hundredweight,3.25,Dollars per kg
+2021-05,farm,pork,Hogs [111121],119.44,Dollars per hundredweight,2.63,Dollars per kg
+2021-05,farm,chicken,Chickens for meat [11113131],2.45,Dollars per kilogram,2.45,Dollars per kilogram
+2021-05,farm,milk,Unprocessed milk from bovine [11612111],765.66,Dollars per kilolitre,0.77,Dollars per litre
+2021-05,farm,egg,Eggs in shell [116111],1.71,Dollars per dozen,1.71,Dollars per dozen
+2021-05,retail,beef,"Beef stewing cuts, per kilogram",15.44,Dollars,15.44,Dollars
+2021-05,retail,beef,"Beef striploin cuts, per kilogram",23.17,Dollars,23.17,Dollars
+2021-05,retail,beef,"Beef top sirloin cuts, per kilogram",14.2,Dollars,14.2,Dollars
+2021-05,retail,beef,"Beef rib cuts, per kilogram",29.57,Dollars,29.57,Dollars
+2021-05,retail,beef,"Ground beef, per kilogram",9.12,Dollars,9.12,Dollars
+2021-05,retail,pork,"Pork loin cuts, per kilogram",8.79,Dollars,8.79,Dollars
+2021-05,retail,pork,"Pork rib cuts, per kilogram",9.61,Dollars,9.61,Dollars
+2021-05,retail,pork,"Pork shoulder cuts, per kilogram",6.58,Dollars,6.58,Dollars
+2021-05,retail,chicken,"Whole chicken, per kilogram",5.55,Dollars,5.55,Dollars
+2021-05,retail,chicken,"Chicken breasts, per kilogram",12.56,Dollars,12.56,Dollars
+2021-05,retail,chicken,"Chicken thigh, per kilogram",8.87,Dollars,8.87,Dollars
+2021-05,retail,chicken,"Chicken drumsticks, per kilogram",5.61,Dollars,5.61,Dollars
+2021-05,retail,pork,"Bacon, 500 grams",6.82,Dollars,13.64,Dollars per kg
+2021-05,retail,milk,"Milk, 1 litre",3.31,Dollars,3.31,Dollars per litre
+2021-05,retail,milk,"Milk, 2 litres",4.96,Dollars,2.48,Dollars per litre
+2021-05,retail,milk,"Milk, 4 litres",5.2,Dollars,1.3,Dollars per litre
+2021-05,retail,egg,"Eggs, 1 dozen",3.92,Dollars,3.92,Dollars
+2021-06,farm,beef,Steers for slaughter [111111113],158.35,Dollars per hundredweight,3.49,Dollars per kg
+2021-06,farm,beef,Heifers for slaughter [111111114],156.89,Dollars per hundredweight,3.46,Dollars per kg
+2021-06,farm,pork,Hogs [111121],125.76,Dollars per hundredweight,2.77,Dollars per kg
+2021-06,farm,chicken,Chickens for meat [11113131],2.45,Dollars per kilogram,2.45,Dollars per kilogram
+2021-06,farm,milk,Unprocessed milk from bovine [11612111],732.9,Dollars per kilolitre,0.73,Dollars per litre
+2021-06,farm,egg,Eggs in shell [116111],1.71,Dollars per dozen,1.71,Dollars per dozen
+2021-06,retail,beef,"Beef stewing cuts, per kilogram",16.2,Dollars,16.2,Dollars
+2021-06,retail,beef,"Beef striploin cuts, per kilogram",24.58,Dollars,24.58,Dollars
+2021-06,retail,beef,"Beef top sirloin cuts, per kilogram",18.69,Dollars,18.69,Dollars
+2021-06,retail,beef,"Beef rib cuts, per kilogram",28.29,Dollars,28.29,Dollars
+2021-06,retail,beef,"Ground beef, per kilogram",8.05,Dollars,8.05,Dollars
+2021-06,retail,pork,"Pork loin cuts, per kilogram",8.39,Dollars,8.39,Dollars
+2021-06,retail,pork,"Pork rib cuts, per kilogram",11.29,Dollars,11.29,Dollars
+2021-06,retail,pork,"Pork shoulder cuts, per kilogram",6.08,Dollars,6.08,Dollars
+2021-06,retail,chicken,"Whole chicken, per kilogram",5.19,Dollars,5.19,Dollars
+2021-06,retail,chicken,"Chicken breasts, per kilogram",12.95,Dollars,12.95,Dollars
+2021-06,retail,chicken,"Chicken thigh, per kilogram",9.92,Dollars,9.92,Dollars
+2021-06,retail,chicken,"Chicken drumsticks, per kilogram",6.4,Dollars,6.4,Dollars
+2021-06,retail,pork,"Bacon, 500 grams",6.27,Dollars,12.54,Dollars per kg
+2021-06,retail,milk,"Milk, 1 litre",3.32,Dollars,3.32,Dollars per litre
+2021-06,retail,milk,"Milk, 2 litres",4.92,Dollars,2.46,Dollars per litre
+2021-06,retail,milk,"Milk, 4 litres",5.16,Dollars,1.29,Dollars per litre
+2021-06,retail,egg,"Eggs, 1 dozen",3.94,Dollars,3.94,Dollars
+2021-07,farm,beef,Steers for slaughter [111111113],153.78,Dollars per hundredweight,3.39,Dollars per kg
+2021-07,farm,beef,Heifers for slaughter [111111114],151.51,Dollars per hundredweight,3.34,Dollars per kg
+2021-07,farm,pork,Hogs [111121],122.91,Dollars per hundredweight,2.71,Dollars per kg
+2021-07,farm,chicken,Chickens for meat [11113131],2.42,Dollars per kilogram,2.42,Dollars per kilogram
+2021-07,farm,milk,Unprocessed milk from bovine [11612111],716.5,Dollars per kilolitre,0.72,Dollars per litre
+2021-07,farm,egg,Eggs in shell [116111],1.77,Dollars per dozen,1.77,Dollars per dozen
+2021-07,retail,beef,"Beef stewing cuts, per kilogram",16.61,Dollars,16.61,Dollars
+2021-07,retail,beef,"Beef striploin cuts, per kilogram",26.25,Dollars,26.25,Dollars
+2021-07,retail,beef,"Beef top sirloin cuts, per kilogram",16.16,Dollars,16.16,Dollars
+2021-07,retail,beef,"Beef rib cuts, per kilogram",26.14,Dollars,26.14,Dollars
+2021-07,retail,beef,"Ground beef, per kilogram",8.58,Dollars,8.58,Dollars
+2021-07,retail,pork,"Pork loin cuts, per kilogram",10.11,Dollars,10.11,Dollars
+2021-07,retail,pork,"Pork rib cuts, per kilogram",13.19,Dollars,13.19,Dollars
+2021-07,retail,pork,"Pork shoulder cuts, per kilogram",5.42,Dollars,5.42,Dollars
+2021-07,retail,chicken,"Whole chicken, per kilogram",6.79,Dollars,6.79,Dollars
+2021-07,retail,chicken,"Chicken breasts, per kilogram",12.08,Dollars,12.08,Dollars
+2021-07,retail,chicken,"Chicken thigh, per kilogram",8.98,Dollars,8.98,Dollars
+2021-07,retail,chicken,"Chicken drumsticks, per kilogram",5.83,Dollars,5.83,Dollars
+2021-07,retail,pork,"Bacon, 500 grams",6.83,Dollars,13.66,Dollars per kg
+2021-07,retail,milk,"Milk, 1 litre",3.33,Dollars,3.33,Dollars per litre
+2021-07,retail,milk,"Milk, 2 litres",4.97,Dollars,2.48,Dollars per litre
+2021-07,retail,milk,"Milk, 4 litres",5.17,Dollars,1.29,Dollars per litre
+2021-07,retail,egg,"Eggs, 1 dozen",3.91,Dollars,3.91,Dollars
+2021-08,farm,beef,Steers for slaughter [111111113],152.79,Dollars per hundredweight,3.37,Dollars per kg
+2021-08,farm,beef,Heifers for slaughter [111111114],151.39,Dollars per hundredweight,3.34,Dollars per kg
+2021-08,farm,pork,Hogs [111121],124.99,Dollars per hundredweight,2.76,Dollars per kg
+2021-08,farm,chicken,Chickens for meat [11113131],2.51,Dollars per kilogram,2.51,Dollars per kilogram
+2021-08,farm,milk,Unprocessed milk from bovine [11612111],719.03,Dollars per kilolitre,0.72,Dollars per litre
+2021-08,farm,egg,Eggs in shell [116111],1.79,Dollars per dozen,1.79,Dollars per dozen
+2021-08,retail,beef,"Beef stewing cuts, per kilogram",16.64,Dollars,16.64,Dollars
+2021-08,retail,beef,"Beef striploin cuts, per kilogram",28.75,Dollars,28.75,Dollars
+2021-08,retail,beef,"Beef top sirloin cuts, per kilogram",18.44,Dollars,18.44,Dollars
+2021-08,retail,beef,"Beef rib cuts, per kilogram",23.68,Dollars,23.68,Dollars
+2021-08,retail,beef,"Ground beef, per kilogram",9.31,Dollars,9.31,Dollars
+2021-08,retail,pork,"Pork loin cuts, per kilogram",8.44,Dollars,8.44,Dollars
+2021-08,retail,pork,"Pork rib cuts, per kilogram",13.74,Dollars,13.74,Dollars
+2021-08,retail,pork,"Pork shoulder cuts, per kilogram",7.07,Dollars,7.07,Dollars
+2021-08,retail,chicken,"Whole chicken, per kilogram",6.5,Dollars,6.5,Dollars
+2021-08,retail,chicken,"Chicken breasts, per kilogram",13.75,Dollars,13.75,Dollars
+2021-08,retail,chicken,"Chicken thigh, per kilogram",9.96,Dollars,9.96,Dollars
+2021-08,retail,chicken,"Chicken drumsticks, per kilogram",6.23,Dollars,6.23,Dollars
+2021-08,retail,pork,"Bacon, 500 grams",7.11,Dollars,14.22,Dollars per kg
+2021-08,retail,milk,"Milk, 1 litre",3.33,Dollars,3.33,Dollars per litre
+2021-08,retail,milk,"Milk, 2 litres",4.95,Dollars,2.48,Dollars per litre
+2021-08,retail,milk,"Milk, 4 litres",5.14,Dollars,1.28,Dollars per litre
+2021-08,retail,egg,"Eggs, 1 dozen",4.06,Dollars,4.06,Dollars
+2021-09,farm,beef,Steers for slaughter [111111113],155.21,Dollars per hundredweight,3.42,Dollars per kg
+2021-09,farm,beef,Heifers for slaughter [111111114],153.28,Dollars per hundredweight,3.38,Dollars per kg
+2021-09,farm,pork,Hogs [111121],110.99,Dollars per hundredweight,2.45,Dollars per kg
+2021-09,farm,chicken,Chickens for meat [11113131],2.5,Dollars per kilogram,2.5,Dollars per kilogram
+2021-09,farm,milk,Unprocessed milk from bovine [11612111],747.78,Dollars per kilolitre,0.75,Dollars per litre
+2021-09,farm,egg,Eggs in shell [116111],1.79,Dollars per dozen,1.79,Dollars per dozen
+2021-09,retail,beef,"Beef stewing cuts, per kilogram",16.4,Dollars,16.4,Dollars
+2021-09,retail,beef,"Beef striploin cuts, per kilogram",21.4,Dollars,21.4,Dollars
+2021-09,retail,beef,"Beef top sirloin cuts, per kilogram",20.71,Dollars,20.71,Dollars
+2021-09,retail,beef,"Beef rib cuts, per kilogram",25.09,Dollars,25.09,Dollars
+2021-09,retail,beef,"Ground beef, per kilogram",9.36,Dollars,9.36,Dollars
+2021-09,retail,pork,"Pork loin cuts, per kilogram",9.72,Dollars,9.72,Dollars
+2021-09,retail,pork,"Pork rib cuts, per kilogram",9.84,Dollars,9.84,Dollars
+2021-09,retail,pork,"Pork shoulder cuts, per kilogram",8.15,Dollars,8.15,Dollars
+2021-09,retail,chicken,"Whole chicken, per kilogram",6.12,Dollars,6.12,Dollars
+2021-09,retail,chicken,"Chicken breasts, per kilogram",12.86,Dollars,12.86,Dollars
+2021-09,retail,chicken,"Chicken thigh, per kilogram",9.83,Dollars,9.83,Dollars
+2021-09,retail,chicken,"Chicken drumsticks, per kilogram",6.27,Dollars,6.27,Dollars
+2021-09,retail,pork,"Bacon, 500 grams",6.81,Dollars,13.62,Dollars per kg
+2021-09,retail,milk,"Milk, 1 litre",3.33,Dollars,3.33,Dollars per litre
+2021-09,retail,milk,"Milk, 2 litres",4.98,Dollars,2.49,Dollars per litre
+2021-09,retail,milk,"Milk, 4 litres",5.16,Dollars,1.29,Dollars per litre
+2021-09,retail,egg,"Eggs, 1 dozen",3.94,Dollars,3.94,Dollars
+2021-10,farm,beef,Steers for slaughter [111111113],158.72,Dollars per hundredweight,3.5,Dollars per kg
+2021-10,farm,beef,Heifers for slaughter [111111114],157.04,Dollars per hundredweight,3.46,Dollars per kg
+2021-10,farm,pork,Hogs [111121],104.17,Dollars per hundredweight,2.3,Dollars per kg
+2021-10,farm,chicken,Chickens for meat [11113131],2.45,Dollars per kilogram,2.45,Dollars per kilogram
+2021-10,farm,milk,Unprocessed milk from bovine [11612111],765.13,Dollars per kilolitre,0.77,Dollars per litre
+2021-10,farm,egg,Eggs in shell [116111],1.79,Dollars per dozen,1.79,Dollars per dozen
+2021-10,retail,beef,"Beef stewing cuts, per kilogram",18.04,Dollars,18.04,Dollars
+2021-10,retail,beef,"Beef striploin cuts, per kilogram",26.85,Dollars,26.85,Dollars
+2021-10,retail,beef,"Beef top sirloin cuts, per kilogram",13.28,Dollars,13.28,Dollars
+2021-10,retail,beef,"Beef rib cuts, per kilogram",19.5,Dollars,19.5,Dollars
+2021-10,retail,beef,"Ground beef, per kilogram",10.03,Dollars,10.03,Dollars
+2021-10,retail,pork,"Pork loin cuts, per kilogram",7.79,Dollars,7.79,Dollars
+2021-10,retail,pork,"Pork rib cuts, per kilogram",11.45,Dollars,11.45,Dollars
+2021-10,retail,pork,"Pork shoulder cuts, per kilogram",7.9,Dollars,7.9,Dollars
+2021-10,retail,chicken,"Whole chicken, per kilogram",6.37,Dollars,6.37,Dollars
+2021-10,retail,chicken,"Chicken breasts, per kilogram",12.61,Dollars,12.61,Dollars
+2021-10,retail,chicken,"Chicken thigh, per kilogram",11.86,Dollars,11.86,Dollars
+2021-10,retail,chicken,"Chicken drumsticks, per kilogram",7.72,Dollars,7.72,Dollars
+2021-10,retail,pork,"Bacon, 500 grams",6.92,Dollars,13.84,Dollars per kg
+2021-10,retail,milk,"Milk, 1 litre",3.33,Dollars,3.33,Dollars per litre
+2021-10,retail,milk,"Milk, 2 litres",4.98,Dollars,2.49,Dollars per litre
+2021-10,retail,milk,"Milk, 4 litres",5.14,Dollars,1.28,Dollars per litre
+2021-10,retail,egg,"Eggs, 1 dozen",4.09,Dollars,4.09,Dollars
+2021-11,farm,beef,Steers for slaughter [111111113],158.69,Dollars per hundredweight,3.5,Dollars per kg
+2021-11,farm,beef,Heifers for slaughter [111111114],156.94,Dollars per hundredweight,3.46,Dollars per kg
+2021-11,farm,pork,Hogs [111121],91.2,Dollars per hundredweight,2.01,Dollars per kg
+2021-11,farm,chicken,Chickens for meat [11113131],2.47,Dollars per kilogram,2.47,Dollars per kilogram
+2021-11,farm,milk,Unprocessed milk from bovine [11612111],766.78,Dollars per kilolitre,0.77,Dollars per litre
+2021-11,farm,egg,Eggs in shell [116111],1.79,Dollars per dozen,1.79,Dollars per dozen
+2021-11,retail,beef,"Beef stewing cuts, per kilogram",17.56,Dollars,17.56,Dollars
+2021-11,retail,beef,"Beef striploin cuts, per kilogram",21.84,Dollars,21.84,Dollars
+2021-11,retail,beef,"Beef top sirloin cuts, per kilogram",18.36,Dollars,18.36,Dollars
+2021-11,retail,beef,"Beef rib cuts, per kilogram",30.13,Dollars,30.13,Dollars
+2021-11,retail,beef,"Ground beef, per kilogram",10.03,Dollars,10.03,Dollars
+2021-11,retail,pork,"Pork loin cuts, per kilogram",9.15,Dollars,9.15,Dollars
+2021-11,retail,pork,"Pork rib cuts, per kilogram",11.8,Dollars,11.8,Dollars
+2021-11,retail,pork,"Pork shoulder cuts, per kilogram",7.98,Dollars,7.98,Dollars
+2021-11,retail,chicken,"Whole chicken, per kilogram",6.05,Dollars,6.05,Dollars
+2021-11,retail,chicken,"Chicken breasts, per kilogram",13.63,Dollars,13.63,Dollars
+2021-11,retail,chicken,"Chicken thigh, per kilogram",9.17,Dollars,9.17,Dollars
+2021-11,retail,chicken,"Chicken drumsticks, per kilogram",5.71,Dollars,5.71,Dollars
+2021-11,retail,pork,"Bacon, 500 grams",7.28,Dollars,14.56,Dollars per kg
+2021-11,retail,milk,"Milk, 1 litre",3.32,Dollars,3.32,Dollars per litre
+2021-11,retail,milk,"Milk, 2 litres",4.85,Dollars,2.42,Dollars per litre
+2021-11,retail,milk,"Milk, 4 litres",5.16,Dollars,1.29,Dollars per litre
+2021-11,retail,egg,"Eggs, 1 dozen",4.06,Dollars,4.06,Dollars
+2021-12,farm,beef,Steers for slaughter [111111113],165.57,Dollars per hundredweight,3.65,Dollars per kg
+2021-12,farm,beef,Heifers for slaughter [111111114],162.81,Dollars per hundredweight,3.59,Dollars per kg
+2021-12,farm,pork,Hogs [111121],87.74,Dollars per hundredweight,1.93,Dollars per kg
+2021-12,farm,chicken,Chickens for meat [11113131],2.44,Dollars per kilogram,2.44,Dollars per kilogram
+2021-12,farm,milk,Unprocessed milk from bovine [11612111],803.72,Dollars per kilolitre,0.8,Dollars per litre
+2021-12,farm,egg,Eggs in shell [116111],1.79,Dollars per dozen,1.79,Dollars per dozen
+2021-12,retail,beef,"Beef stewing cuts, per kilogram",18.93,Dollars,18.93,Dollars
+2021-12,retail,beef,"Beef striploin cuts, per kilogram",20.32,Dollars,20.32,Dollars
+2021-12,retail,beef,"Beef top sirloin cuts, per kilogram",13.29,Dollars,13.29,Dollars
+2021-12,retail,beef,"Beef rib cuts, per kilogram",21.03,Dollars,21.03,Dollars
+2021-12,retail,beef,"Ground beef, per kilogram",9.58,Dollars,9.58,Dollars
+2021-12,retail,pork,"Pork loin cuts, per kilogram",9.08,Dollars,9.08,Dollars
+2021-12,retail,pork,"Pork rib cuts, per kilogram",10.03,Dollars,10.03,Dollars
+2021-12,retail,pork,"Pork shoulder cuts, per kilogram",8.41,Dollars,8.41,Dollars
+2021-12,retail,chicken,"Whole chicken, per kilogram",7.3,Dollars,7.3,Dollars
+2021-12,retail,chicken,"Chicken breasts, per kilogram",14.35,Dollars,14.35,Dollars
+2021-12,retail,chicken,"Chicken thigh, per kilogram",11.96,Dollars,11.96,Dollars
+2021-12,retail,chicken,"Chicken drumsticks, per kilogram",7.63,Dollars,7.63,Dollars
+2021-12,retail,pork,"Bacon, 500 grams",7.26,Dollars,14.52,Dollars per kg
+2021-12,retail,milk,"Milk, 1 litre",3.32,Dollars,3.32,Dollars per litre
+2021-12,retail,milk,"Milk, 2 litres",4.99,Dollars,2.5,Dollars per litre
+2021-12,retail,milk,"Milk, 4 litres",5.19,Dollars,1.3,Dollars per litre
+2021-12,retail,egg,"Eggs, 1 dozen",4.06,Dollars,4.06,Dollars
+2022-01,farm,beef,Steers for slaughter [111111113],171.3,Dollars per hundredweight,3.78,Dollars per kg
+2022-01,farm,beef,Heifers for slaughter [111111114],169.31,Dollars per hundredweight,3.73,Dollars per kg
+2022-01,farm,pork,Hogs [111121],91.46,Dollars per hundredweight,2.02,Dollars per kg
+2022-01,farm,chicken,Chickens for meat [11113131],2.48,Dollars per kilogram,2.48,Dollars per kilogram
+2022-01,farm,milk,Unprocessed milk from bovine [11612111],789.1,Dollars per kilolitre,0.79,Dollars per litre
+2022-01,farm,egg,Eggs in shell [116111],1.79,Dollars per dozen,1.79,Dollars per dozen
+2022-01,retail,beef,"Beef stewing cuts, per kilogram",17.75,Dollars,17.75,Dollars
+2022-01,retail,beef,"Beef striploin cuts, per kilogram",26.55,Dollars,26.55,Dollars
+2022-01,retail,beef,"Beef top sirloin cuts, per kilogram",18.07,Dollars,18.07,Dollars
+2022-01,retail,beef,"Beef rib cuts, per kilogram",29.18,Dollars,29.18,Dollars
+2022-01,retail,beef,"Ground beef, per kilogram",10.31,Dollars,10.31,Dollars
+2022-01,retail,pork,"Pork loin cuts, per kilogram",9.21,Dollars,9.21,Dollars
+2022-01,retail,pork,"Pork rib cuts, per kilogram",10.21,Dollars,10.21,Dollars
+2022-01,retail,pork,"Pork shoulder cuts, per kilogram",4.36,Dollars,4.36,Dollars
+2022-01,retail,chicken,"Whole chicken, per kilogram",5.94,Dollars,5.94,Dollars
+2022-01,retail,chicken,"Chicken breasts, per kilogram",13.57,Dollars,13.57,Dollars
+2022-01,retail,chicken,"Chicken thigh, per kilogram",10.12,Dollars,10.12,Dollars
+2022-01,retail,chicken,"Chicken drumsticks, per kilogram",6.46,Dollars,6.46,Dollars
+2022-01,retail,pork,"Bacon, 500 grams",6.8,Dollars,13.6,Dollars per kg
+2022-01,retail,milk,"Milk, 1 litre",3.3,Dollars,3.3,Dollars per litre
+2022-01,retail,milk,"Milk, 2 litres",5.01,Dollars,2.5,Dollars per litre
+2022-01,retail,milk,"Milk, 4 litres",5.21,Dollars,1.3,Dollars per litre
+2022-01,retail,egg,"Eggs, 1 dozen",4.11,Dollars,4.11,Dollars
+2022-02,farm,beef,Steers for slaughter [111111113],170.64,Dollars per hundredweight,3.76,Dollars per kg
+2022-02,farm,beef,Heifers for slaughter [111111114],168.9,Dollars per hundredweight,3.72,Dollars per kg
+2022-02,farm,pork,Hogs [111121],104.41,Dollars per hundredweight,2.3,Dollars per kg
+2022-02,farm,chicken,Chickens for meat [11113131],2.45,Dollars per kilogram,2.45,Dollars per kilogram
+2022-02,farm,milk,Unprocessed milk from bovine [11612111],889.43,Dollars per kilolitre,0.89,Dollars per litre
+2022-02,farm,egg,Eggs in shell [116111],1.79,Dollars per dozen,1.79,Dollars per dozen
+2022-02,retail,beef,"Beef stewing cuts, per kilogram",16.01,Dollars,16.01,Dollars
+2022-02,retail,beef,"Beef striploin cuts, per kilogram",26.14,Dollars,26.14,Dollars
+2022-02,retail,beef,"Beef top sirloin cuts, per kilogram",17.46,Dollars,17.46,Dollars
+2022-02,retail,beef,"Beef rib cuts, per kilogram",30.55,Dollars,30.55,Dollars
+2022-02,retail,beef,"Ground beef, per kilogram",10.02,Dollars,10.02,Dollars
+2022-02,retail,pork,"Pork loin cuts, per kilogram",7.49,Dollars,7.49,Dollars
+2022-02,retail,pork,"Pork rib cuts, per kilogram",11.25,Dollars,11.25,Dollars
+2022-02,retail,pork,"Pork shoulder cuts, per kilogram",4.12,Dollars,4.12,Dollars
+2022-02,retail,chicken,"Whole chicken, per kilogram",5.81,Dollars,5.81,Dollars
+2022-02,retail,chicken,"Chicken breasts, per kilogram",13.17,Dollars,13.17,Dollars
+2022-02,retail,chicken,"Chicken thigh, per kilogram",10.64,Dollars,10.64,Dollars
+2022-02,retail,chicken,"Chicken drumsticks, per kilogram",6.9,Dollars,6.9,Dollars
+2022-02,retail,pork,"Bacon, 500 grams",7.18,Dollars,14.36,Dollars per kg
+2022-02,retail,milk,"Milk, 1 litre",3.45,Dollars,3.45,Dollars per litre
+2022-02,retail,milk,"Milk, 2 litres",5.26,Dollars,2.63,Dollars per litre
+2022-02,retail,milk,"Milk, 4 litres",5.69,Dollars,1.42,Dollars per litre
+2022-02,retail,egg,"Eggs, 1 dozen",4.09,Dollars,4.09,Dollars
+2022-03,farm,beef,Steers for slaughter [111111113],170.77,Dollars per hundredweight,3.76,Dollars per kg
+2022-03,farm,beef,Heifers for slaughter [111111114],169.0,Dollars per hundredweight,3.73,Dollars per kg
+2022-03,farm,pork,Hogs [111121],113.81,Dollars per hundredweight,2.51,Dollars per kg
+2022-03,farm,chicken,Chickens for meat [11113131],2.48,Dollars per kilogram,2.48,Dollars per kilogram
+2022-03,farm,milk,Unprocessed milk from bovine [11612111],871.52,Dollars per kilolitre,0.87,Dollars per litre
+2022-03,farm,egg,Eggs in shell [116111],1.82,Dollars per dozen,1.82,Dollars per dozen
+2022-03,retail,beef,"Beef stewing cuts, per kilogram",17.78,Dollars,17.78,Dollars
+2022-03,retail,beef,"Beef striploin cuts, per kilogram",33.07,Dollars,33.07,Dollars
+2022-03,retail,beef,"Beef top sirloin cuts, per kilogram",16.26,Dollars,16.26,Dollars
+2022-03,retail,beef,"Beef rib cuts, per kilogram",24.94,Dollars,24.94,Dollars
+2022-03,retail,beef,"Ground beef, per kilogram",10.16,Dollars,10.16,Dollars
+2022-03,retail,pork,"Pork loin cuts, per kilogram",8.01,Dollars,8.01,Dollars
+2022-03,retail,pork,"Pork rib cuts, per kilogram",10.62,Dollars,10.62,Dollars
+2022-03,retail,pork,"Pork shoulder cuts, per kilogram",7.5,Dollars,7.5,Dollars
+2022-03,retail,chicken,"Whole chicken, per kilogram",6.03,Dollars,6.03,Dollars
+2022-03,retail,chicken,"Chicken breasts, per kilogram",14.67,Dollars,14.67,Dollars
+2022-03,retail,chicken,"Chicken thigh, per kilogram",10.44,Dollars,10.44,Dollars
+2022-03,retail,chicken,"Chicken drumsticks, per kilogram",5.48,Dollars,5.48,Dollars
+2022-03,retail,pork,"Bacon, 500 grams",6.88,Dollars,13.76,Dollars per kg
+2022-03,retail,milk,"Milk, 1 litre",3.49,Dollars,3.49,Dollars per litre
+2022-03,retail,milk,"Milk, 2 litres",5.26,Dollars,2.63,Dollars per litre
+2022-03,retail,milk,"Milk, 4 litres",5.77,Dollars,1.44,Dollars per litre
+2022-03,retail,egg,"Eggs, 1 dozen",4.24,Dollars,4.24,Dollars
+2022-04,farm,beef,Steers for slaughter [111111113],171.07,Dollars per hundredweight,3.77,Dollars per kg
+2022-04,farm,beef,Heifers for slaughter [111111114],169.75,Dollars per hundredweight,3.74,Dollars per kg
+2022-04,farm,pork,Hogs [111121],114.85,Dollars per hundredweight,2.53,Dollars per kg
+2022-04,farm,chicken,Chickens for meat [11113131],2.53,Dollars per kilogram,2.53,Dollars per kilogram
+2022-04,farm,milk,Unprocessed milk from bovine [11612111],856.28,Dollars per kilolitre,0.86,Dollars per litre
+2022-04,farm,egg,Eggs in shell [116111],1.83,Dollars per dozen,1.83,Dollars per dozen
+2022-04,retail,beef,"Beef stewing cuts, per kilogram",18.68,Dollars,18.68,Dollars
+2022-04,retail,beef,"Beef striploin cuts, per kilogram",30.63,Dollars,30.63,Dollars
+2022-04,retail,beef,"Beef top sirloin cuts, per kilogram",17.21,Dollars,17.21,Dollars
+2022-04,retail,beef,"Beef rib cuts, per kilogram",20.27,Dollars,20.27,Dollars
+2022-04,retail,beef,"Ground beef, per kilogram",10.47,Dollars,10.47,Dollars
+2022-04,retail,pork,"Pork loin cuts, per kilogram",9.01,Dollars,9.01,Dollars
+2022-04,retail,pork,"Pork rib cuts, per kilogram",11.57,Dollars,11.57,Dollars
+2022-04,retail,pork,"Pork shoulder cuts, per kilogram",8.41,Dollars,8.41,Dollars
+2022-04,retail,chicken,"Whole chicken, per kilogram",5.63,Dollars,5.63,Dollars
+2022-04,retail,chicken,"Chicken breasts, per kilogram",15.81,Dollars,15.81,Dollars
+2022-04,retail,chicken,"Chicken thigh, per kilogram",12.73,Dollars,12.73,Dollars
+2022-04,retail,chicken,"Chicken drumsticks, per kilogram",8.34,Dollars,8.34,Dollars
+2022-04,retail,pork,"Bacon, 500 grams",7.3,Dollars,14.6,Dollars per kg
+2022-04,retail,milk,"Milk, 1 litre",3.52,Dollars,3.52,Dollars per litre
+2022-04,retail,milk,"Milk, 2 litres",5.3,Dollars,2.65,Dollars per litre
+2022-04,retail,milk,"Milk, 4 litres",5.84,Dollars,1.46,Dollars per litre
+2022-04,retail,egg,"Eggs, 1 dozen",4.33,Dollars,4.33,Dollars
+2022-05,farm,beef,Steers for slaughter [111111113],178.87,Dollars per hundredweight,3.94,Dollars per kg
+2022-05,farm,beef,Heifers for slaughter [111111114],177.91,Dollars per hundredweight,3.92,Dollars per kg
+2022-05,farm,pork,Hogs [111121],115.07,Dollars per hundredweight,2.54,Dollars per kg
+2022-05,farm,chicken,Chickens for meat [11113131],2.65,Dollars per kilogram,2.65,Dollars per kilogram
+2022-05,farm,milk,Unprocessed milk from bovine [11612111],859.32,Dollars per kilolitre,0.86,Dollars per litre
+2022-05,farm,egg,Eggs in shell [116111],1.83,Dollars per dozen,1.83,Dollars per dozen
+2022-05,retail,beef,"Beef stewing cuts, per kilogram",18.99,Dollars,18.99,Dollars
+2022-05,retail,beef,"Beef striploin cuts, per kilogram",24.34,Dollars,24.34,Dollars
+2022-05,retail,beef,"Beef top sirloin cuts, per kilogram",17.12,Dollars,17.12,Dollars
+2022-05,retail,beef,"Beef rib cuts, per kilogram",31.97,Dollars,31.97,Dollars
+2022-05,retail,beef,"Ground beef, per kilogram",10.08,Dollars,10.08,Dollars
+2022-05,retail,pork,"Pork loin cuts, per kilogram",8.01,Dollars,8.01,Dollars
+2022-05,retail,pork,"Pork rib cuts, per kilogram",11.98,Dollars,11.98,Dollars
+2022-05,retail,pork,"Pork shoulder cuts, per kilogram",8.17,Dollars,8.17,Dollars
+2022-05,retail,chicken,"Whole chicken, per kilogram",6.63,Dollars,6.63,Dollars
+2022-05,retail,chicken,"Chicken breasts, per kilogram",15.51,Dollars,15.51,Dollars
+2022-05,retail,chicken,"Chicken thigh, per kilogram",12.12,Dollars,12.12,Dollars
+2022-05,retail,chicken,"Chicken drumsticks, per kilogram",5.98,Dollars,5.98,Dollars
+2022-05,retail,pork,"Bacon, 500 grams",7.19,Dollars,14.38,Dollars per kg
+2022-05,retail,milk,"Milk, 1 litre",3.5,Dollars,3.5,Dollars per litre
+2022-05,retail,milk,"Milk, 2 litres",5.26,Dollars,2.63,Dollars per litre
+2022-05,retail,milk,"Milk, 4 litres",5.82,Dollars,1.46,Dollars per litre
+2022-05,retail,egg,"Eggs, 1 dozen",4.35,Dollars,4.35,Dollars
+2022-06,farm,beef,Steers for slaughter [111111113],188.14,Dollars per hundredweight,4.15,Dollars per kg
+2022-06,farm,beef,Heifers for slaughter [111111114],187.24,Dollars per hundredweight,4.13,Dollars per kg
+2022-06,farm,pork,Hogs [111121],121.12,Dollars per hundredweight,2.67,Dollars per kg
+2022-06,farm,chicken,Chickens for meat [11113131],2.7,Dollars per kilogram,2.7,Dollars per kilogram
+2022-06,farm,milk,Unprocessed milk from bovine [11612111],823.1,Dollars per kilolitre,0.82,Dollars per litre
+2022-06,farm,egg,Eggs in shell [116111],2.06,Dollars per dozen,2.06,Dollars per dozen
+2022-06,retail,beef,"Beef stewing cuts, per kilogram",19.09,Dollars,19.09,Dollars
+2022-06,retail,beef,"Beef striploin cuts, per kilogram",22.03,Dollars,22.03,Dollars
+2022-06,retail,beef,"Beef top sirloin cuts, per kilogram",20.18,Dollars,20.18,Dollars
+2022-06,retail,beef,"Beef rib cuts, per kilogram",25.76,Dollars,25.76,Dollars
+2022-06,retail,beef,"Ground beef, per kilogram",9.91,Dollars,9.91,Dollars
+2022-06,retail,pork,"Pork loin cuts, per kilogram",8.71,Dollars,8.71,Dollars
+2022-06,retail,pork,"Pork rib cuts, per kilogram",11.62,Dollars,11.62,Dollars
+2022-06,retail,pork,"Pork shoulder cuts, per kilogram",6.84,Dollars,6.84,Dollars
+2022-06,retail,chicken,"Whole chicken, per kilogram",6.13,Dollars,6.13,Dollars
+2022-06,retail,chicken,"Chicken breasts, per kilogram",14.71,Dollars,14.71,Dollars
+2022-06,retail,chicken,"Chicken thigh, per kilogram",10.34,Dollars,10.34,Dollars
+2022-06,retail,chicken,"Chicken drumsticks, per kilogram",6.32,Dollars,6.32,Dollars
+2022-06,retail,pork,"Bacon, 500 grams",6.97,Dollars,13.94,Dollars per kg
+2022-06,retail,milk,"Milk, 1 litre",3.49,Dollars,3.49,Dollars per litre
+2022-06,retail,milk,"Milk, 2 litres",5.23,Dollars,2.62,Dollars per litre
+2022-06,retail,milk,"Milk, 4 litres",5.77,Dollars,1.44,Dollars per litre
+2022-06,retail,egg,"Eggs, 1 dozen",4.37,Dollars,4.37,Dollars
+2022-07,farm,beef,Steers for slaughter [111111113],183.65,Dollars per hundredweight,4.05,Dollars per kg
+2022-07,farm,beef,Heifers for slaughter [111111114],182.26,Dollars per hundredweight,4.02,Dollars per kg
+2022-07,farm,pork,Hogs [111121],129.27,Dollars per hundredweight,2.85,Dollars per kg
+2022-07,farm,chicken,Chickens for meat [11113131],2.77,Dollars per kilogram,2.77,Dollars per kilogram
+2022-07,farm,milk,Unprocessed milk from bovine [11612111],854.28,Dollars per kilolitre,0.85,Dollars per litre
+2022-07,farm,egg,Eggs in shell [116111],2.06,Dollars per dozen,2.06,Dollars per dozen
+2022-07,retail,beef,"Beef stewing cuts, per kilogram",19.31,Dollars,19.31,Dollars
+2022-07,retail,beef,"Beef striploin cuts, per kilogram",21.87,Dollars,21.87,Dollars
+2022-07,retail,beef,"Beef top sirloin cuts, per kilogram",17.81,Dollars,17.81,Dollars
+2022-07,retail,beef,"Beef rib cuts, per kilogram",31.99,Dollars,31.99,Dollars
+2022-07,retail,beef,"Ground beef, per kilogram",10.48,Dollars,10.48,Dollars
+2022-07,retail,pork,"Pork loin cuts, per kilogram",8.63,Dollars,8.63,Dollars
+2022-07,retail,pork,"Pork rib cuts, per kilogram",11.21,Dollars,11.21,Dollars
+2022-07,retail,pork,"Pork shoulder cuts, per kilogram",5.12,Dollars,5.12,Dollars
+2022-07,retail,chicken,"Whole chicken, per kilogram",5.98,Dollars,5.98,Dollars
+2022-07,retail,chicken,"Chicken breasts, per kilogram",16.37,Dollars,16.37,Dollars
+2022-07,retail,chicken,"Chicken thigh, per kilogram",11.74,Dollars,11.74,Dollars
+2022-07,retail,chicken,"Chicken drumsticks, per kilogram",6.22,Dollars,6.22,Dollars
+2022-07,retail,pork,"Bacon, 500 grams",7.35,Dollars,14.7,Dollars per kg
+2022-07,retail,milk,"Milk, 1 litre",3.49,Dollars,3.49,Dollars per litre
+2022-07,retail,milk,"Milk, 2 litres",5.17,Dollars,2.58,Dollars per litre
+2022-07,retail,milk,"Milk, 4 litres",5.78,Dollars,1.45,Dollars per litre
+2022-07,retail,egg,"Eggs, 1 dozen",4.46,Dollars,4.46,Dollars
+2022-08,farm,beef,Steers for slaughter [111111113],180.2,Dollars per hundredweight,3.97,Dollars per kg
+2022-08,farm,beef,Heifers for slaughter [111111114],178.35,Dollars per hundredweight,3.93,Dollars per kg
+2022-08,farm,pork,Hogs [111121],137.79,Dollars per hundredweight,3.04,Dollars per kg
+2022-08,farm,chicken,Chickens for meat [11113131],2.78,Dollars per kilogram,2.78,Dollars per kilogram
+2022-08,farm,milk,Unprocessed milk from bovine [11612111],821.29,Dollars per kilolitre,0.82,Dollars per litre
+2022-08,farm,egg,Eggs in shell [116111],2.02,Dollars per dozen,2.02,Dollars per dozen
+2022-08,retail,beef,"Beef stewing cuts, per kilogram",19.21,Dollars,19.21,Dollars
+2022-08,retail,beef,"Beef striploin cuts, per kilogram",21.44,Dollars,21.44,Dollars
+2022-08,retail,beef,"Beef top sirloin cuts, per kilogram",19.78,Dollars,19.78,Dollars
+2022-08,retail,beef,"Beef rib cuts, per kilogram",28.33,Dollars,28.33,Dollars
+2022-08,retail,beef,"Ground beef, per kilogram",10.58,Dollars,10.58,Dollars
+2022-08,retail,pork,"Pork loin cuts, per kilogram",7.8,Dollars,7.8,Dollars
+2022-08,retail,pork,"Pork rib cuts, per kilogram",10.61,Dollars,10.61,Dollars
+2022-08,retail,pork,"Pork shoulder cuts, per kilogram",8.34,Dollars,8.34,Dollars
+2022-08,retail,chicken,"Whole chicken, per kilogram",6.07,Dollars,6.07,Dollars
+2022-08,retail,chicken,"Chicken breasts, per kilogram",15.84,Dollars,15.84,Dollars
+2022-08,retail,chicken,"Chicken thigh, per kilogram",12.62,Dollars,12.62,Dollars
+2022-08,retail,chicken,"Chicken drumsticks, per kilogram",6.85,Dollars,6.85,Dollars
+2022-08,retail,pork,"Bacon, 500 grams",7.34,Dollars,14.68,Dollars per kg
+2022-08,retail,milk,"Milk, 1 litre",3.54,Dollars,3.54,Dollars per litre
+2022-08,retail,milk,"Milk, 2 litres",5.25,Dollars,2.63,Dollars per litre
+2022-08,retail,milk,"Milk, 4 litres",5.82,Dollars,1.46,Dollars per litre
+2022-08,retail,egg,"Eggs, 1 dozen",4.53,Dollars,4.53,Dollars
+2022-09,farm,beef,Steers for slaughter [111111113],179.27,Dollars per hundredweight,3.95,Dollars per kg
+2022-09,farm,beef,Heifers for slaughter [111111114],177.46,Dollars per hundredweight,3.91,Dollars per kg
+2022-09,farm,pork,Hogs [111121],118.38,Dollars per hundredweight,2.61,Dollars per kg
+2022-09,farm,chicken,Chickens for meat [11113131],2.8,Dollars per kilogram,2.8,Dollars per kilogram
+2022-09,farm,milk,Unprocessed milk from bovine [11612111],842.86,Dollars per kilolitre,0.84,Dollars per litre
+2022-09,farm,egg,Eggs in shell [116111],2.06,Dollars per dozen,2.06,Dollars per dozen
+2022-09,retail,beef,"Beef stewing cuts, per kilogram",17.91,Dollars,17.91,Dollars
+2022-09,retail,beef,"Beef striploin cuts, per kilogram",26.6,Dollars,26.6,Dollars
+2022-09,retail,beef,"Beef top sirloin cuts, per kilogram",21.96,Dollars,21.96,Dollars
+2022-09,retail,beef,"Beef rib cuts, per kilogram",23.52,Dollars,23.52,Dollars
+2022-09,retail,beef,"Ground beef, per kilogram",11.13,Dollars,11.13,Dollars
+2022-09,retail,pork,"Pork loin cuts, per kilogram",7.66,Dollars,7.66,Dollars
+2022-09,retail,pork,"Pork rib cuts, per kilogram",10.22,Dollars,10.22,Dollars
+2022-09,retail,pork,"Pork shoulder cuts, per kilogram",8.89,Dollars,8.89,Dollars
+2022-09,retail,chicken,"Whole chicken, per kilogram",7.39,Dollars,7.39,Dollars
+2022-09,retail,chicken,"Chicken breasts, per kilogram",15.64,Dollars,15.64,Dollars
+2022-09,retail,chicken,"Chicken thigh, per kilogram",12.84,Dollars,12.84,Dollars
+2022-09,retail,chicken,"Chicken drumsticks, per kilogram",6.74,Dollars,6.74,Dollars
+2022-09,retail,pork,"Bacon, 500 grams",7.15,Dollars,14.3,Dollars per kg
+2022-09,retail,milk,"Milk, 1 litre",3.65,Dollars,3.65,Dollars per litre
+2022-09,retail,milk,"Milk, 2 litres",5.43,Dollars,2.71,Dollars per litre
+2022-09,retail,milk,"Milk, 4 litres",5.99,Dollars,1.5,Dollars per litre
+2022-09,retail,egg,"Eggs, 1 dozen",4.58,Dollars,4.58,Dollars
+2022-10,farm,beef,Steers for slaughter [111111113],178.79,Dollars per hundredweight,3.94,Dollars per kg
+2022-10,farm,beef,Heifers for slaughter [111111114],177.82,Dollars per hundredweight,3.92,Dollars per kg
+2022-10,farm,pork,Hogs [111121],118.2,Dollars per hundredweight,2.61,Dollars per kg
+2022-10,farm,chicken,Chickens for meat [11113131],2.81,Dollars per kilogram,2.81,Dollars per kilogram
+2022-10,farm,milk,Unprocessed milk from bovine [11612111],876.6,Dollars per kilolitre,0.88,Dollars per litre
+2022-10,farm,egg,Eggs in shell [116111],2.06,Dollars per dozen,2.06,Dollars per dozen
+2022-10,retail,beef,"Beef stewing cuts, per kilogram",20.27,Dollars,20.27,Dollars
+2022-10,retail,beef,"Beef striploin cuts, per kilogram",25.05,Dollars,25.05,Dollars
+2022-10,retail,beef,"Beef top sirloin cuts, per kilogram",14.57,Dollars,14.57,Dollars
+2022-10,retail,beef,"Beef rib cuts, per kilogram",18.44,Dollars,18.44,Dollars
+2022-10,retail,beef,"Ground beef, per kilogram",9.85,Dollars,9.85,Dollars
+2022-10,retail,pork,"Pork loin cuts, per kilogram",8.9,Dollars,8.9,Dollars
+2022-10,retail,pork,"Pork rib cuts, per kilogram",9.63,Dollars,9.63,Dollars
+2022-10,retail,pork,"Pork shoulder cuts, per kilogram",4.89,Dollars,4.89,Dollars
+2022-10,retail,chicken,"Whole chicken, per kilogram",6.3,Dollars,6.3,Dollars
+2022-10,retail,chicken,"Chicken breasts, per kilogram",13.18,Dollars,13.18,Dollars
+2022-10,retail,chicken,"Chicken thigh, per kilogram",12.56,Dollars,12.56,Dollars
+2022-10,retail,chicken,"Chicken drumsticks, per kilogram",8.4,Dollars,8.4,Dollars
+2022-10,retail,pork,"Bacon, 500 grams",7.47,Dollars,14.94,Dollars per kg
+2022-10,retail,milk,"Milk, 1 litre",3.65,Dollars,3.65,Dollars per litre
+2022-10,retail,milk,"Milk, 2 litres",5.4,Dollars,2.7,Dollars per litre
+2022-10,retail,milk,"Milk, 4 litres",5.99,Dollars,1.5,Dollars per litre
+2022-10,retail,egg,"Eggs, 1 dozen",4.69,Dollars,4.69,Dollars
+2022-11,farm,beef,Steers for slaughter [111111113],183.69,Dollars per hundredweight,4.05,Dollars per kg
+2022-11,farm,beef,Heifers for slaughter [111111114],182.95,Dollars per hundredweight,4.03,Dollars per kg
+2022-11,farm,pork,Hogs [111121],112.7,Dollars per hundredweight,2.48,Dollars per kg
+2022-11,farm,chicken,Chickens for meat [11113131],2.82,Dollars per kilogram,2.82,Dollars per kilogram
+2022-11,farm,milk,Unprocessed milk from bovine [11612111],887.87,Dollars per kilolitre,0.89,Dollars per litre
+2022-11,farm,egg,Eggs in shell [116111],2.06,Dollars per dozen,2.06,Dollars per dozen
+2022-11,retail,beef,"Beef stewing cuts, per kilogram",19.27,Dollars,19.27,Dollars
+2022-11,retail,beef,"Beef striploin cuts, per kilogram",18.97,Dollars,18.97,Dollars
+2022-11,retail,beef,"Beef top sirloin cuts, per kilogram",18.07,Dollars,18.07,Dollars
+2022-11,retail,beef,"Beef rib cuts, per kilogram",30.69,Dollars,30.69,Dollars
+2022-11,retail,beef,"Ground beef, per kilogram",10.21,Dollars,10.21,Dollars
+2022-11,retail,pork,"Pork loin cuts, per kilogram",7.95,Dollars,7.95,Dollars
+2022-11,retail,pork,"Pork rib cuts, per kilogram",8.04,Dollars,8.04,Dollars
+2022-11,retail,pork,"Pork shoulder cuts, per kilogram",7.3,Dollars,7.3,Dollars
+2022-11,retail,chicken,"Whole chicken, per kilogram",6.02,Dollars,6.02,Dollars
+2022-11,retail,chicken,"Chicken breasts, per kilogram",13.47,Dollars,13.47,Dollars
+2022-11,retail,chicken,"Chicken thigh, per kilogram",12.58,Dollars,12.58,Dollars
+2022-11,retail,chicken,"Chicken drumsticks, per kilogram",6.2,Dollars,6.2,Dollars
+2022-11,retail,pork,"Bacon, 500 grams",7.18,Dollars,14.36,Dollars per kg
+2022-11,retail,milk,"Milk, 1 litre",3.66,Dollars,3.66,Dollars per litre
+2022-11,retail,milk,"Milk, 2 litres",5.42,Dollars,2.71,Dollars per litre
+2022-11,retail,milk,"Milk, 4 litres",6.07,Dollars,1.52,Dollars per litre
+2022-11,retail,egg,"Eggs, 1 dozen",4.57,Dollars,4.57,Dollars
+2022-12,farm,beef,Steers for slaughter [111111113],188.64,Dollars per hundredweight,4.16,Dollars per kg
+2022-12,farm,beef,Heifers for slaughter [111111114],186.89,Dollars per hundredweight,4.12,Dollars per kg
+2022-12,farm,pork,Hogs [111121],102.22,Dollars per hundredweight,2.25,Dollars per kg
+2022-12,farm,chicken,Chickens for meat [11113131],2.85,Dollars per kilogram,2.85,Dollars per kilogram
+2022-12,farm,milk,Unprocessed milk from bovine [11612111],874.23,Dollars per kilolitre,0.87,Dollars per litre
+2022-12,farm,egg,Eggs in shell [116111],2.06,Dollars per dozen,2.06,Dollars per dozen
+2022-12,retail,beef,"Beef stewing cuts, per kilogram",20.96,Dollars,20.96,Dollars
+2022-12,retail,beef,"Beef striploin cuts, per kilogram",19.67,Dollars,19.67,Dollars
+2022-12,retail,beef,"Beef top sirloin cuts, per kilogram",13.69,Dollars,13.69,Dollars
+2022-12,retail,beef,"Beef rib cuts, per kilogram",18.69,Dollars,18.69,Dollars
+2022-12,retail,beef,"Ground beef, per kilogram",10.15,Dollars,10.15,Dollars
+2022-12,retail,pork,"Pork loin cuts, per kilogram",9.0,Dollars,9.0,Dollars
+2022-12,retail,pork,"Pork rib cuts, per kilogram",10.11,Dollars,10.11,Dollars
+2022-12,retail,pork,"Pork shoulder cuts, per kilogram",9.52,Dollars,9.52,Dollars
+2022-12,retail,chicken,"Whole chicken, per kilogram",7.05,Dollars,7.05,Dollars
+2022-12,retail,chicken,"Chicken breasts, per kilogram",15.16,Dollars,15.16,Dollars
+2022-12,retail,chicken,"Chicken thigh, per kilogram",11.93,Dollars,11.93,Dollars
+2022-12,retail,chicken,"Chicken drumsticks, per kilogram",5.83,Dollars,5.83,Dollars
+2022-12,retail,pork,"Bacon, 500 grams",7.66,Dollars,15.32,Dollars per kg
+2022-12,retail,milk,"Milk, 1 litre",3.66,Dollars,3.66,Dollars per litre
+2022-12,retail,milk,"Milk, 2 litres",5.37,Dollars,2.69,Dollars per litre
+2022-12,retail,milk,"Milk, 4 litres",6.1,Dollars,1.52,Dollars per litre
+2022-12,retail,egg,"Eggs, 1 dozen",4.56,Dollars,4.56,Dollars
+2023-01,farm,beef,Steers for slaughter [111111113],191.93,Dollars per hundredweight,4.23,Dollars per kg
+2023-01,farm,beef,Heifers for slaughter [111111114],190.77,Dollars per hundredweight,4.21,Dollars per kg
+2023-01,farm,pork,Hogs [111121],92.79,Dollars per hundredweight,2.05,Dollars per kg
+2023-01,farm,chicken,Chickens for meat [11113131],2.85,Dollars per kilogram,2.85,Dollars per kilogram
+2023-01,farm,milk,Unprocessed milk from bovine [11612111],894.16,Dollars per kilolitre,0.89,Dollars per litre
+2023-01,farm,egg,Eggs in shell [116111],2.06,Dollars per dozen,2.06,Dollars per dozen
+2023-01,retail,beef,"Beef stewing cuts, per kilogram",18.66,Dollars,18.66,Dollars
+2023-01,retail,beef,"Beef striploin cuts, per kilogram",27.78,Dollars,27.78,Dollars
+2023-01,retail,beef,"Beef top sirloin cuts, per kilogram",18.83,Dollars,18.83,Dollars
+2023-01,retail,beef,"Beef rib cuts, per kilogram",31.59,Dollars,31.59,Dollars
+2023-01,retail,beef,"Ground beef, per kilogram",10.13,Dollars,10.13,Dollars
+2023-01,retail,pork,"Pork loin cuts, per kilogram",9.55,Dollars,9.55,Dollars
+2023-01,retail,pork,"Pork rib cuts, per kilogram",8.03,Dollars,8.03,Dollars
+2023-01,retail,pork,"Pork shoulder cuts, per kilogram",4.24,Dollars,4.24,Dollars
+2023-01,retail,chicken,"Whole chicken, per kilogram",5.72,Dollars,5.72,Dollars
+2023-01,retail,chicken,"Chicken breasts, per kilogram",14.07,Dollars,14.07,Dollars
+2023-01,retail,chicken,"Chicken thigh, per kilogram",12.73,Dollars,12.73,Dollars
+2023-01,retail,chicken,"Chicken drumsticks, per kilogram",6.01,Dollars,6.01,Dollars
+2023-01,retail,pork,"Bacon, 500 grams",6.87,Dollars,13.74,Dollars per kg
+2023-01,retail,milk,"Milk, 1 litre",3.64,Dollars,3.64,Dollars per litre
+2023-01,retail,milk,"Milk, 2 litres",5.45,Dollars,2.73,Dollars per litre
+2023-01,retail,milk,"Milk, 4 litres",6.06,Dollars,1.51,Dollars per litre
+2023-01,retail,egg,"Eggs, 1 dozen",4.62,Dollars,4.62,Dollars
+2023-02,farm,beef,Steers for slaughter [111111113],196.5,Dollars per hundredweight,4.33,Dollars per kg
+2023-02,farm,beef,Heifers for slaughter [111111114],194.29,Dollars per hundredweight,4.28,Dollars per kg
+2023-02,farm,pork,Hogs [111121],97.97,Dollars per hundredweight,2.16,Dollars per kg
+2023-02,farm,chicken,Chickens for meat [11113131],2.83,Dollars per kilogram,2.83,Dollars per kilogram
+2023-02,farm,milk,Unprocessed milk from bovine [11612111],893.86,Dollars per kilolitre,0.89,Dollars per litre
+2023-02,farm,egg,Eggs in shell [116111],2.09,Dollars per dozen,2.09,Dollars per dozen
+2023-02,retail,beef,"Beef stewing cuts, per kilogram",18.69,Dollars,18.69,Dollars
+2023-02,retail,beef,"Beef striploin cuts, per kilogram",23.05,Dollars,23.05,Dollars
+2023-02,retail,beef,"Beef top sirloin cuts, per kilogram",18.45,Dollars,18.45,Dollars
+2023-02,retail,beef,"Beef rib cuts, per kilogram",34.62,Dollars,34.62,Dollars
+2023-02,retail,beef,"Ground beef, per kilogram",9.59,Dollars,9.59,Dollars
+2023-02,retail,pork,"Pork loin cuts, per kilogram",7.59,Dollars,7.59,Dollars
+2023-02,retail,pork,"Pork rib cuts, per kilogram",8.25,Dollars,8.25,Dollars
+2023-02,retail,pork,"Pork shoulder cuts, per kilogram",7.11,Dollars,7.11,Dollars
+2023-02,retail,chicken,"Whole chicken, per kilogram",6.84,Dollars,6.84,Dollars
+2023-02,retail,chicken,"Chicken breasts, per kilogram",13.13,Dollars,13.13,Dollars
+2023-02,retail,chicken,"Chicken thigh, per kilogram",10.85,Dollars,10.85,Dollars
+2023-02,retail,chicken,"Chicken drumsticks, per kilogram",6.67,Dollars,6.67,Dollars
+2023-02,retail,pork,"Bacon, 500 grams",6.54,Dollars,13.08,Dollars per kg
+2023-02,retail,milk,"Milk, 1 litre",3.7,Dollars,3.7,Dollars per litre
+2023-02,retail,milk,"Milk, 2 litres",5.61,Dollars,2.81,Dollars per litre
+2023-02,retail,milk,"Milk, 4 litres",6.2,Dollars,1.55,Dollars per litre
+2023-02,retail,egg,"Eggs, 1 dozen",4.64,Dollars,4.64,Dollars
+2023-03,farm,beef,Steers for slaughter [111111113],208.78,Dollars per hundredweight,4.6,Dollars per kg
+2023-03,farm,beef,Heifers for slaughter [111111114],206.05,Dollars per hundredweight,4.54,Dollars per kg
+2023-03,farm,pork,Hogs [111121],98.93,Dollars per hundredweight,2.18,Dollars per kg
+2023-03,farm,chicken,Chickens for meat [11113131],2.81,Dollars per kilogram,2.81,Dollars per kilogram
+2023-03,farm,milk,Unprocessed milk from bovine [11612111],905.6,Dollars per kilolitre,0.91,Dollars per litre
+2023-03,farm,egg,Eggs in shell [116111],2.08,Dollars per dozen,2.08,Dollars per dozen
+2023-03,retail,beef,"Beef stewing cuts, per kilogram",18.73,Dollars,18.73,Dollars
+2023-03,retail,beef,"Beef striploin cuts, per kilogram",30.42,Dollars,30.42,Dollars
+2023-03,retail,beef,"Beef top sirloin cuts, per kilogram",21.21,Dollars,21.21,Dollars
+2023-03,retail,beef,"Beef rib cuts, per kilogram",27.62,Dollars,27.62,Dollars
+2023-03,retail,beef,"Ground beef, per kilogram",10.26,Dollars,10.26,Dollars
+2023-03,retail,pork,"Pork loin cuts, per kilogram",7.09,Dollars,7.09,Dollars
+2023-03,retail,pork,"Pork rib cuts, per kilogram",8.21,Dollars,8.21,Dollars
+2023-03,retail,pork,"Pork shoulder cuts, per kilogram",5.28,Dollars,5.28,Dollars
+2023-03,retail,chicken,"Whole chicken, per kilogram",5.95,Dollars,5.95,Dollars
+2023-03,retail,chicken,"Chicken breasts, per kilogram",14.17,Dollars,14.17,Dollars
+2023-03,retail,chicken,"Chicken thigh, per kilogram",13.14,Dollars,13.14,Dollars
+2023-03,retail,chicken,"Chicken drumsticks, per kilogram",5.83,Dollars,5.83,Dollars
+2023-03,retail,pork,"Bacon, 500 grams",6.82,Dollars,13.64,Dollars per kg
+2023-03,retail,milk,"Milk, 1 litre",3.71,Dollars,3.71,Dollars per litre
+2023-03,retail,milk,"Milk, 2 litres",5.71,Dollars,2.85,Dollars per litre
+2023-03,retail,milk,"Milk, 4 litres",6.25,Dollars,1.56,Dollars per litre
+2023-03,retail,egg,"Eggs, 1 dozen",4.66,Dollars,4.66,Dollars
+2023-04,farm,beef,Steers for slaughter [111111113],219.4,Dollars per hundredweight,4.84,Dollars per kg
+2023-04,farm,beef,Heifers for slaughter [111111114],215.1,Dollars per hundredweight,4.74,Dollars per kg
+2023-04,farm,pork,Hogs [111121],93.73,Dollars per hundredweight,2.07,Dollars per kg
+2023-04,farm,chicken,Chickens for meat [11113131],2.83,Dollars per kilogram,2.83,Dollars per kilogram
+2023-04,farm,milk,Unprocessed milk from bovine [11612111],863.82,Dollars per kilolitre,0.86,Dollars per litre
+2023-04,farm,egg,Eggs in shell [116111],2.08,Dollars per dozen,2.08,Dollars per dozen
+2023-04,retail,beef,"Beef stewing cuts, per kilogram",19.49,Dollars,19.49,Dollars
+2023-04,retail,beef,"Beef striploin cuts, per kilogram",30.29,Dollars,30.29,Dollars
+2023-04,retail,beef,"Beef top sirloin cuts, per kilogram",20.49,Dollars,20.49,Dollars
+2023-04,retail,beef,"Beef rib cuts, per kilogram",21.46,Dollars,21.46,Dollars
+2023-04,retail,beef,"Ground beef, per kilogram",10.47,Dollars,10.47,Dollars
+2023-04,retail,pork,"Pork loin cuts, per kilogram",9.24,Dollars,9.24,Dollars
+2023-04,retail,pork,"Pork rib cuts, per kilogram",7.89,Dollars,7.89,Dollars
+2023-04,retail,pork,"Pork shoulder cuts, per kilogram",6.41,Dollars,6.41,Dollars
+2023-04,retail,chicken,"Whole chicken, per kilogram",6.08,Dollars,6.08,Dollars
+2023-04,retail,chicken,"Chicken breasts, per kilogram",15.83,Dollars,15.83,Dollars
+2023-04,retail,chicken,"Chicken thigh, per kilogram",13.33,Dollars,13.33,Dollars
+2023-04,retail,chicken,"Chicken drumsticks, per kilogram",5.88,Dollars,5.88,Dollars
+2023-04,retail,pork,"Bacon, 500 grams",6.79,Dollars,13.58,Dollars per kg
+2023-04,retail,milk,"Milk, 1 litre",3.74,Dollars,3.74,Dollars per litre
+2023-04,retail,milk,"Milk, 2 litres",5.64,Dollars,2.82,Dollars per litre
+2023-04,retail,milk,"Milk, 4 litres",6.3,Dollars,1.57,Dollars per litre
+2023-04,retail,egg,"Eggs, 1 dozen",4.67,Dollars,4.67,Dollars
+2023-05,farm,beef,Steers for slaughter [111111113],224.76,Dollars per hundredweight,4.96,Dollars per kg
+2023-05,farm,beef,Heifers for slaughter [111111114],226.17,Dollars per hundredweight,4.99,Dollars per kg
+2023-05,farm,pork,Hogs [111121],96.09,Dollars per hundredweight,2.12,Dollars per kg
+2023-05,farm,chicken,Chickens for meat [11113131],2.85,Dollars per kilogram,2.85,Dollars per kilogram
+2023-05,farm,milk,Unprocessed milk from bovine [11612111],853.96,Dollars per kilolitre,0.85,Dollars per litre
+2023-05,farm,egg,Eggs in shell [116111],2.08,Dollars per dozen,2.08,Dollars per dozen
+2023-05,retail,beef,"Beef stewing cuts, per kilogram",19.32,Dollars,19.32,Dollars
+2023-05,retail,beef,"Beef striploin cuts, per kilogram",24.26,Dollars,24.26,Dollars
+2023-05,retail,beef,"Beef top sirloin cuts, per kilogram",21.89,Dollars,21.89,Dollars
+2023-05,retail,beef,"Beef rib cuts, per kilogram",35.2,Dollars,35.2,Dollars
+2023-05,retail,beef,"Ground beef, per kilogram",10.88,Dollars,10.88,Dollars
+2023-05,retail,pork,"Pork loin cuts, per kilogram",8.32,Dollars,8.32,Dollars
+2023-05,retail,pork,"Pork rib cuts, per kilogram",8.0,Dollars,8.0,Dollars
+2023-05,retail,pork,"Pork shoulder cuts, per kilogram",9.07,Dollars,9.07,Dollars
+2023-05,retail,chicken,"Whole chicken, per kilogram",6.23,Dollars,6.23,Dollars
+2023-05,retail,chicken,"Chicken breasts, per kilogram",13.04,Dollars,13.04,Dollars
+2023-05,retail,chicken,"Chicken thigh, per kilogram",12.81,Dollars,12.81,Dollars
+2023-05,retail,chicken,"Chicken drumsticks, per kilogram",6.19,Dollars,6.19,Dollars
+2023-05,retail,pork,"Bacon, 500 grams",6.1,Dollars,12.2,Dollars per kg
+2023-05,retail,milk,"Milk, 1 litre",3.76,Dollars,3.76,Dollars per litre
+2023-05,retail,milk,"Milk, 2 litres",5.6,Dollars,2.8,Dollars per litre
+2023-05,retail,milk,"Milk, 4 litres",6.26,Dollars,1.56,Dollars per litre
+2023-05,retail,egg,"Eggs, 1 dozen",4.55,Dollars,4.55,Dollars
+2023-06,farm,beef,Steers for slaughter [111111113],243.38,Dollars per hundredweight,5.37,Dollars per kg
+2023-06,farm,beef,Heifers for slaughter [111111114],241.31,Dollars per hundredweight,5.32,Dollars per kg
+2023-06,farm,pork,Hogs [111121],101.82,Dollars per hundredweight,2.24,Dollars per kg
+2023-06,farm,chicken,Chickens for meat [11113131],2.8,Dollars per kilogram,2.8,Dollars per kilogram
+2023-06,farm,milk,Unprocessed milk from bovine [11612111],827.64,Dollars per kilolitre,0.83,Dollars per litre
+2023-06,farm,egg,Eggs in shell [116111],2.09,Dollars per dozen,2.09,Dollars per dozen
+2023-06,retail,beef,"Beef stewing cuts, per kilogram",19.67,Dollars,19.67,Dollars
+2023-06,retail,beef,"Beef striploin cuts, per kilogram",23.57,Dollars,23.57,Dollars
+2023-06,retail,beef,"Beef top sirloin cuts, per kilogram",23.89,Dollars,23.89,Dollars
+2023-06,retail,beef,"Beef rib cuts, per kilogram",32.0,Dollars,32.0,Dollars
+2023-06,retail,beef,"Ground beef, per kilogram",10.51,Dollars,10.51,Dollars
+2023-06,retail,pork,"Pork loin cuts, per kilogram",8.07,Dollars,8.07,Dollars
+2023-06,retail,pork,"Pork rib cuts, per kilogram",7.29,Dollars,7.29,Dollars
+2023-06,retail,pork,"Pork shoulder cuts, per kilogram",9.04,Dollars,9.04,Dollars
+2023-06,retail,chicken,"Whole chicken, per kilogram",6.51,Dollars,6.51,Dollars
+2023-06,retail,chicken,"Chicken breasts, per kilogram",13.91,Dollars,13.91,Dollars
+2023-06,retail,chicken,"Chicken thigh, per kilogram",13.58,Dollars,13.58,Dollars
+2023-06,retail,chicken,"Chicken drumsticks, per kilogram",5.71,Dollars,5.71,Dollars
+2023-06,retail,pork,"Bacon, 500 grams",6.2,Dollars,12.4,Dollars per kg
+2023-06,retail,milk,"Milk, 1 litre",3.76,Dollars,3.76,Dollars per litre
+2023-06,retail,milk,"Milk, 2 litres",5.68,Dollars,2.84,Dollars per litre
+2023-06,retail,milk,"Milk, 4 litres",6.27,Dollars,1.57,Dollars per litre
+2023-06,retail,egg,"Eggs, 1 dozen",4.67,Dollars,4.67,Dollars
+2023-07,farm,beef,Steers for slaughter [111111113],235.36,Dollars per hundredweight,5.19,Dollars per kg
+2023-07,farm,beef,Heifers for slaughter [111111114],230.02,Dollars per hundredweight,5.07,Dollars per kg
+2023-07,farm,pork,Hogs [111121],121.4,Dollars per hundredweight,2.68,Dollars per kg
+2023-07,farm,chicken,Chickens for meat [11113131],2.79,Dollars per kilogram,2.79,Dollars per kilogram
+2023-07,farm,milk,Unprocessed milk from bovine [11612111],831.43,Dollars per kilolitre,0.83,Dollars per litre
+2023-07,farm,egg,Eggs in shell [116111],2.09,Dollars per dozen,2.09,Dollars per dozen
+2023-07,retail,beef,"Beef stewing cuts, per kilogram",19.91,Dollars,19.91,Dollars
+2023-07,retail,beef,"Beef striploin cuts, per kilogram",28.9,Dollars,28.9,Dollars
+2023-07,retail,beef,"Beef top sirloin cuts, per kilogram",22.68,Dollars,22.68,Dollars
+2023-07,retail,beef,"Beef rib cuts, per kilogram",31.2,Dollars,31.2,Dollars
+2023-07,retail,beef,"Ground beef, per kilogram",10.6,Dollars,10.6,Dollars
+2023-07,retail,pork,"Pork loin cuts, per kilogram",7.85,Dollars,7.85,Dollars
+2023-07,retail,pork,"Pork rib cuts, per kilogram",8.57,Dollars,8.57,Dollars
+2023-07,retail,pork,"Pork shoulder cuts, per kilogram",9.11,Dollars,9.11,Dollars
+2023-07,retail,chicken,"Whole chicken, per kilogram",6.45,Dollars,6.45,Dollars
+2023-07,retail,chicken,"Chicken breasts, per kilogram",14.15,Dollars,14.15,Dollars
+2023-07,retail,chicken,"Chicken thigh, per kilogram",12.44,Dollars,12.44,Dollars
+2023-07,retail,chicken,"Chicken drumsticks, per kilogram",6.51,Dollars,6.51,Dollars
+2023-07,retail,pork,"Bacon, 500 grams",6.3,Dollars,12.6,Dollars per kg
+2023-07,retail,milk,"Milk, 1 litre",3.76,Dollars,3.76,Dollars per litre
+2023-07,retail,milk,"Milk, 2 litres",5.7,Dollars,2.85,Dollars per litre
+2023-07,retail,milk,"Milk, 4 litres",6.26,Dollars,1.56,Dollars per litre
+2023-07,retail,egg,"Eggs, 1 dozen",4.75,Dollars,4.75,Dollars
+2023-08,farm,beef,Steers for slaughter [111111113],229.96,Dollars per hundredweight,5.07,Dollars per kg
+2023-08,farm,beef,Heifers for slaughter [111111114],227.88,Dollars per hundredweight,5.02,Dollars per kg
+2023-08,farm,pork,Hogs [111121],126.41,Dollars per hundredweight,2.79,Dollars per kg
+2023-08,farm,chicken,Chickens for meat [11113131],2.71,Dollars per kilogram,2.71,Dollars per kilogram
+2023-08,farm,milk,Unprocessed milk from bovine [11612111],858.25,Dollars per kilolitre,0.86,Dollars per litre
+2023-08,farm,egg,Eggs in shell [116111],2.09,Dollars per dozen,2.09,Dollars per dozen
+2023-08,retail,beef,"Beef stewing cuts, per kilogram",20.29,Dollars,20.29,Dollars
+2023-08,retail,beef,"Beef striploin cuts, per kilogram",24.74,Dollars,24.74,Dollars
+2023-08,retail,beef,"Beef top sirloin cuts, per kilogram",28.33,Dollars,28.33,Dollars
+2023-08,retail,beef,"Beef rib cuts, per kilogram",32.3,Dollars,32.3,Dollars
+2023-08,retail,beef,"Ground beef, per kilogram",10.62,Dollars,10.62,Dollars
+2023-08,retail,pork,"Pork loin cuts, per kilogram",9.39,Dollars,9.39,Dollars
+2023-08,retail,pork,"Pork rib cuts, per kilogram",8.87,Dollars,8.87,Dollars
+2023-08,retail,pork,"Pork shoulder cuts, per kilogram",9.38,Dollars,9.38,Dollars
+2023-08,retail,chicken,"Whole chicken, per kilogram",7.03,Dollars,7.03,Dollars
+2023-08,retail,chicken,"Chicken breasts, per kilogram",14.38,Dollars,14.38,Dollars
+2023-08,retail,chicken,"Chicken thigh, per kilogram",13.44,Dollars,13.44,Dollars
+2023-08,retail,chicken,"Chicken drumsticks, per kilogram",7.25,Dollars,7.25,Dollars
+2023-08,retail,pork,"Bacon, 500 grams",6.44,Dollars,12.88,Dollars per kg
+2023-08,retail,milk,"Milk, 1 litre",3.77,Dollars,3.77,Dollars per litre
+2023-08,retail,milk,"Milk, 2 litres",5.63,Dollars,2.81,Dollars per litre
+2023-08,retail,milk,"Milk, 4 litres",6.28,Dollars,1.57,Dollars per litre
+2023-08,retail,egg,"Eggs, 1 dozen",4.75,Dollars,4.75,Dollars
+2023-09,farm,beef,Steers for slaughter [111111113],232.44,Dollars per hundredweight,5.12,Dollars per kg
+2023-09,farm,beef,Heifers for slaughter [111111114],230.31,Dollars per hundredweight,5.08,Dollars per kg
+2023-09,farm,pork,Hogs [111121],111.98,Dollars per hundredweight,2.47,Dollars per kg
+2023-09,farm,chicken,Chickens for meat [11113131],2.69,Dollars per kilogram,2.69,Dollars per kilogram
+2023-09,farm,milk,Unprocessed milk from bovine [11612111],866.02,Dollars per kilolitre,0.87,Dollars per litre
+2023-09,farm,egg,Eggs in shell [116111],2.09,Dollars per dozen,2.09,Dollars per dozen
+2023-09,retail,beef,"Beef stewing cuts, per kilogram",19.55,Dollars,19.55,Dollars
+2023-09,retail,beef,"Beef striploin cuts, per kilogram",26.2,Dollars,26.2,Dollars
+2023-09,retail,beef,"Beef top sirloin cuts, per kilogram",28.58,Dollars,28.58,Dollars
+2023-09,retail,beef,"Beef rib cuts, per kilogram",28.49,Dollars,28.49,Dollars
+2023-09,retail,beef,"Ground beef, per kilogram",11.3,Dollars,11.3,Dollars
+2023-09,retail,pork,"Pork loin cuts, per kilogram",8.82,Dollars,8.82,Dollars
+2023-09,retail,pork,"Pork rib cuts, per kilogram",7.89,Dollars,7.89,Dollars
+2023-09,retail,pork,"Pork shoulder cuts, per kilogram",9.47,Dollars,9.47,Dollars
+2023-09,retail,chicken,"Whole chicken, per kilogram",6.71,Dollars,6.71,Dollars
+2023-09,retail,chicken,"Chicken breasts, per kilogram",15.33,Dollars,15.33,Dollars
+2023-09,retail,chicken,"Chicken thigh, per kilogram",13.72,Dollars,13.72,Dollars
+2023-09,retail,chicken,"Chicken drumsticks, per kilogram",5.46,Dollars,5.46,Dollars
+2023-09,retail,pork,"Bacon, 500 grams",7.3,Dollars,14.6,Dollars per kg
+2023-09,retail,milk,"Milk, 1 litre",3.76,Dollars,3.76,Dollars per litre
+2023-09,retail,milk,"Milk, 2 litres",5.65,Dollars,2.83,Dollars per litre
+2023-09,retail,milk,"Milk, 4 litres",6.2,Dollars,1.55,Dollars per litre
+2023-09,retail,egg,"Eggs, 1 dozen",4.52,Dollars,4.52,Dollars
+2023-10,farm,beef,Steers for slaughter [111111113],233.9,Dollars per hundredweight,5.16,Dollars per kg
+2023-10,farm,beef,Heifers for slaughter [111111114],231.24,Dollars per hundredweight,5.1,Dollars per kg
+2023-10,farm,pork,Hogs [111121],105.71,Dollars per hundredweight,2.33,Dollars per kg
+2023-10,farm,chicken,Chickens for meat [11113131],2.69,Dollars per kilogram,2.69,Dollars per kilogram
+2023-10,farm,milk,Unprocessed milk from bovine [11612111],896.08,Dollars per kilolitre,0.9,Dollars per litre
+2023-10,farm,egg,Eggs in shell [116111],2.09,Dollars per dozen,2.09,Dollars per dozen
+2023-10,retail,beef,"Beef stewing cuts, per kilogram",18.23,Dollars,18.23,Dollars
+2023-10,retail,beef,"Beef striploin cuts, per kilogram",24.85,Dollars,24.85,Dollars
+2023-10,retail,beef,"Beef top sirloin cuts, per kilogram",26.58,Dollars,26.58,Dollars
+2023-10,retail,beef,"Beef rib cuts, per kilogram",20.26,Dollars,20.26,Dollars
+2023-10,retail,beef,"Ground beef, per kilogram",11.49,Dollars,11.49,Dollars
+2023-10,retail,pork,"Pork loin cuts, per kilogram",8.84,Dollars,8.84,Dollars
+2023-10,retail,pork,"Pork rib cuts, per kilogram",7.6,Dollars,7.6,Dollars
+2023-10,retail,pork,"Pork shoulder cuts, per kilogram",5.23,Dollars,5.23,Dollars
+2023-10,retail,chicken,"Whole chicken, per kilogram",6.26,Dollars,6.26,Dollars
+2023-10,retail,chicken,"Chicken breasts, per kilogram",14.18,Dollars,14.18,Dollars
+2023-10,retail,chicken,"Chicken thigh, per kilogram",13.32,Dollars,13.32,Dollars
+2023-10,retail,chicken,"Chicken drumsticks, per kilogram",8.82,Dollars,8.82,Dollars
+2023-10,retail,pork,"Bacon, 500 grams",7.43,Dollars,14.86,Dollars per kg
+2023-10,retail,milk,"Milk, 1 litre",3.75,Dollars,3.75,Dollars per litre
+2023-10,retail,milk,"Milk, 2 litres",5.68,Dollars,2.84,Dollars per litre
+2023-10,retail,milk,"Milk, 4 litres",6.22,Dollars,1.55,Dollars per litre
+2023-10,retail,egg,"Eggs, 1 dozen",4.8,Dollars,4.8,Dollars
+2023-11,farm,beef,Steers for slaughter [111111113],231.89,Dollars per hundredweight,5.11,Dollars per kg
+2023-11,farm,beef,Heifers for slaughter [111111114],230.42,Dollars per hundredweight,5.08,Dollars per kg
+2023-11,farm,pork,Hogs [111121],101.27,Dollars per hundredweight,2.23,Dollars per kg
+2023-11,farm,chicken,Chickens for meat [11113131],2.67,Dollars per kilogram,2.67,Dollars per kilogram
+2023-11,farm,milk,Unprocessed milk from bovine [11612111],938.52,Dollars per kilolitre,0.94,Dollars per litre
+2023-11,farm,egg,Eggs in shell [116111],1.97,Dollars per dozen,1.97,Dollars per dozen
+2023-11,retail,beef,"Beef stewing cuts, per kilogram",21.36,Dollars,21.36,Dollars
+2023-11,retail,beef,"Beef striploin cuts, per kilogram",21.4,Dollars,21.4,Dollars
+2023-11,retail,beef,"Beef top sirloin cuts, per kilogram",20.14,Dollars,20.14,Dollars
+2023-11,retail,beef,"Beef rib cuts, per kilogram",34.95,Dollars,34.95,Dollars
+2023-11,retail,beef,"Ground beef, per kilogram",11.58,Dollars,11.58,Dollars
+2023-11,retail,pork,"Pork loin cuts, per kilogram",7.99,Dollars,7.99,Dollars
+2023-11,retail,pork,"Pork rib cuts, per kilogram",9.08,Dollars,9.08,Dollars
+2023-11,retail,pork,"Pork shoulder cuts, per kilogram",7.75,Dollars,7.75,Dollars
+2023-11,retail,chicken,"Whole chicken, per kilogram",5.72,Dollars,5.72,Dollars
+2023-11,retail,chicken,"Chicken breasts, per kilogram",13.86,Dollars,13.86,Dollars
+2023-11,retail,chicken,"Chicken thigh, per kilogram",10.95,Dollars,10.95,Dollars
+2023-11,retail,chicken,"Chicken drumsticks, per kilogram",7.03,Dollars,7.03,Dollars
+2023-11,retail,pork,"Bacon, 500 grams",6.7,Dollars,13.4,Dollars per kg
+2023-11,retail,milk,"Milk, 1 litre",3.75,Dollars,3.75,Dollars per litre
+2023-11,retail,milk,"Milk, 2 litres",5.7,Dollars,2.85,Dollars per litre
+2023-11,retail,milk,"Milk, 4 litres",6.29,Dollars,1.57,Dollars per litre
+2023-11,retail,egg,"Eggs, 1 dozen",4.74,Dollars,4.74,Dollars
+2023-12,farm,beef,Steers for slaughter [111111113],224.33,Dollars per hundredweight,4.95,Dollars per kg
+2023-12,farm,beef,Heifers for slaughter [111111114],227.2,Dollars per hundredweight,5.01,Dollars per kg
+2023-12,farm,pork,Hogs [111121],93.46,Dollars per hundredweight,2.06,Dollars per kg
+2023-12,farm,chicken,Chickens for meat [11113131],2.69,Dollars per kilogram,2.69,Dollars per kilogram
+2023-12,farm,milk,Unprocessed milk from bovine [11612111],890.1,Dollars per kilolitre,0.89,Dollars per litre
+2023-12,farm,egg,Eggs in shell [116111],1.97,Dollars per dozen,1.97,Dollars per dozen
+2023-12,retail,beef,"Beef stewing cuts, per kilogram",20.8,Dollars,20.8,Dollars
+2023-12,retail,beef,"Beef striploin cuts, per kilogram",19.18,Dollars,19.18,Dollars
+2023-12,retail,beef,"Beef top sirloin cuts, per kilogram",20.83,Dollars,20.83,Dollars
+2023-12,retail,beef,"Beef rib cuts, per kilogram",24.88,Dollars,24.88,Dollars
+2023-12,retail,beef,"Ground beef, per kilogram",12.23,Dollars,12.23,Dollars
+2023-12,retail,pork,"Pork loin cuts, per kilogram",8.88,Dollars,8.88,Dollars
+2023-12,retail,pork,"Pork rib cuts, per kilogram",9.17,Dollars,9.17,Dollars
+2023-12,retail,pork,"Pork shoulder cuts, per kilogram",6.35,Dollars,6.35,Dollars
+2023-12,retail,chicken,"Whole chicken, per kilogram",5.8,Dollars,5.8,Dollars
+2023-12,retail,chicken,"Chicken breasts, per kilogram",12.3,Dollars,12.3,Dollars
+2023-12,retail,chicken,"Chicken thigh, per kilogram",12.46,Dollars,12.46,Dollars
+2023-12,retail,chicken,"Chicken drumsticks, per kilogram",8.09,Dollars,8.09,Dollars
+2023-12,retail,pork,"Bacon, 500 grams",7.06,Dollars,14.12,Dollars per kg
+2023-12,retail,milk,"Milk, 1 litre",3.75,Dollars,3.75,Dollars per litre
+2023-12,retail,milk,"Milk, 2 litres",5.7,Dollars,2.85,Dollars per litre
+2023-12,retail,milk,"Milk, 4 litres",6.28,Dollars,1.57,Dollars per litre
+2023-12,retail,egg,"Eggs, 1 dozen",4.85,Dollars,4.85,Dollars
+2024-01,farm,beef,Steers for slaughter [111111113],223.81,Dollars per hundredweight,4.93,Dollars per kg
+2024-01,farm,beef,Heifers for slaughter [111111114],224.31,Dollars per hundredweight,4.95,Dollars per kg
+2024-01,farm,pork,Hogs [111121],96.06,Dollars per hundredweight,2.12,Dollars per kg
+2024-01,farm,chicken,Chickens for meat [11113131],2.73,Dollars per kilogram,2.73,Dollars per kilogram
+2024-01,farm,milk,Unprocessed milk from bovine [11612111],913.79,Dollars per kilolitre,0.91,Dollars per litre
+2024-01,farm,egg,Eggs in shell [116111],2.05,Dollars per dozen,2.05,Dollars per dozen
+2024-01,retail,beef,"Beef stewing cuts, per kilogram",18.04,Dollars,18.04,Dollars
+2024-01,retail,beef,"Beef striploin cuts, per kilogram",29.86,Dollars,29.86,Dollars
+2024-01,retail,beef,"Beef top sirloin cuts, per kilogram",17.8,Dollars,17.8,Dollars
+2024-01,retail,beef,"Beef rib cuts, per kilogram",33.03,Dollars,33.03,Dollars
+2024-01,retail,beef,"Ground beef, per kilogram",11.06,Dollars,11.06,Dollars
+2024-01,retail,pork,"Pork loin cuts, per kilogram",8.6,Dollars,8.6,Dollars
+2024-01,retail,pork,"Pork rib cuts, per kilogram",7.05,Dollars,7.05,Dollars
+2024-01,retail,pork,"Pork shoulder cuts, per kilogram",4.81,Dollars,4.81,Dollars
+2024-01,retail,chicken,"Whole chicken, per kilogram",5.16,Dollars,5.16,Dollars
+2024-01,retail,chicken,"Chicken breasts, per kilogram",13.68,Dollars,13.68,Dollars
+2024-01,retail,chicken,"Chicken thigh, per kilogram",12.66,Dollars,12.66,Dollars
+2024-01,retail,chicken,"Chicken drumsticks, per kilogram",8.29,Dollars,8.29,Dollars
+2024-01,retail,pork,"Bacon, 500 grams",6.49,Dollars,12.98,Dollars per kg
+2024-01,retail,milk,"Milk, 1 litre",3.71,Dollars,3.71,Dollars per litre
+2024-01,retail,milk,"Milk, 2 litres",5.58,Dollars,2.79,Dollars per litre
+2024-01,retail,milk,"Milk, 4 litres",6.29,Dollars,1.57,Dollars per litre
+2024-01,retail,egg,"Eggs, 1 dozen",4.66,Dollars,4.66,Dollars
+2024-02,farm,beef,Steers for slaughter [111111113],235.7,Dollars per hundredweight,5.2,Dollars per kg
+2024-02,farm,beef,Heifers for slaughter [111111114],233.04,Dollars per hundredweight,5.14,Dollars per kg
+2024-02,farm,pork,Hogs [111121],100.61,Dollars per hundredweight,2.22,Dollars per kg
+2024-02,farm,chicken,Chickens for meat [11113131],2.77,Dollars per kilogram,2.77,Dollars per kilogram
+2024-02,farm,milk,Unprocessed milk from bovine [11612111],898.47,Dollars per kilolitre,0.9,Dollars per litre
+2024-02,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2024-02,retail,beef,"Beef stewing cuts, per kilogram",17.51,Dollars,17.51,Dollars
+2024-02,retail,beef,"Beef striploin cuts, per kilogram",23.48,Dollars,23.48,Dollars
+2024-02,retail,beef,"Beef top sirloin cuts, per kilogram",18.31,Dollars,18.31,Dollars
+2024-02,retail,beef,"Beef rib cuts, per kilogram",25.66,Dollars,25.66,Dollars
+2024-02,retail,beef,"Ground beef, per kilogram",11.09,Dollars,11.09,Dollars
+2024-02,retail,pork,"Pork loin cuts, per kilogram",8.17,Dollars,8.17,Dollars
+2024-02,retail,pork,"Pork rib cuts, per kilogram",7.49,Dollars,7.49,Dollars
+2024-02,retail,pork,"Pork shoulder cuts, per kilogram",5.01,Dollars,5.01,Dollars
+2024-02,retail,chicken,"Whole chicken, per kilogram",5.27,Dollars,5.27,Dollars
+2024-02,retail,chicken,"Chicken breasts, per kilogram",12.62,Dollars,12.62,Dollars
+2024-02,retail,chicken,"Chicken thigh, per kilogram",11.8,Dollars,11.8,Dollars
+2024-02,retail,chicken,"Chicken drumsticks, per kilogram",7.16,Dollars,7.16,Dollars
+2024-02,retail,pork,"Bacon, 500 grams",5.73,Dollars,11.46,Dollars per kg
+2024-02,retail,milk,"Milk, 1 litre",3.72,Dollars,3.72,Dollars per litre
+2024-02,retail,milk,"Milk, 2 litres",5.52,Dollars,2.76,Dollars per litre
+2024-02,retail,milk,"Milk, 4 litres",6.32,Dollars,1.58,Dollars per litre
+2024-02,retail,egg,"Eggs, 1 dozen",4.7,Dollars,4.7,Dollars
+2024-03,farm,beef,Steers for slaughter [111111113],236.65,Dollars per hundredweight,5.22,Dollars per kg
+2024-03,farm,beef,Heifers for slaughter [111111114],234.35,Dollars per hundredweight,5.17,Dollars per kg
+2024-03,farm,pork,Hogs [111121],104.78,Dollars per hundredweight,2.31,Dollars per kg
+2024-03,farm,chicken,Chickens for meat [11113131],2.72,Dollars per kilogram,2.72,Dollars per kilogram
+2024-03,farm,milk,Unprocessed milk from bovine [11612111],895.75,Dollars per kilolitre,0.9,Dollars per litre
+2024-03,farm,egg,Eggs in shell [116111],2.12,Dollars per dozen,2.12,Dollars per dozen
+2024-03,retail,beef,"Beef stewing cuts, per kilogram",16.52,Dollars,16.52,Dollars
+2024-03,retail,beef,"Beef striploin cuts, per kilogram",29.43,Dollars,29.43,Dollars
+2024-03,retail,beef,"Beef top sirloin cuts, per kilogram",20.59,Dollars,20.59,Dollars
+2024-03,retail,beef,"Beef rib cuts, per kilogram",21.16,Dollars,21.16,Dollars
+2024-03,retail,beef,"Ground beef, per kilogram",11.49,Dollars,11.49,Dollars
+2024-03,retail,pork,"Pork loin cuts, per kilogram",9.63,Dollars,9.63,Dollars
+2024-03,retail,pork,"Pork rib cuts, per kilogram",8.93,Dollars,8.93,Dollars
+2024-03,retail,pork,"Pork shoulder cuts, per kilogram",9.32,Dollars,9.32,Dollars
+2024-03,retail,chicken,"Whole chicken, per kilogram",6.2,Dollars,6.2,Dollars
+2024-03,retail,chicken,"Chicken breasts, per kilogram",13.91,Dollars,13.91,Dollars
+2024-03,retail,chicken,"Chicken thigh, per kilogram",9.89,Dollars,9.89,Dollars
+2024-03,retail,chicken,"Chicken drumsticks, per kilogram",5.35,Dollars,5.35,Dollars
+2024-03,retail,pork,"Bacon, 500 grams",5.94,Dollars,11.88,Dollars per kg
+2024-03,retail,milk,"Milk, 1 litre",3.72,Dollars,3.72,Dollars per litre
+2024-03,retail,milk,"Milk, 2 litres",5.58,Dollars,2.79,Dollars per litre
+2024-03,retail,milk,"Milk, 4 litres",6.26,Dollars,1.56,Dollars per litre
+2024-03,retail,egg,"Eggs, 1 dozen",4.53,Dollars,4.53,Dollars
+2024-04,farm,beef,Steers for slaughter [111111113],237.62,Dollars per hundredweight,5.24,Dollars per kg
+2024-04,farm,beef,Heifers for slaughter [111111114],235.12,Dollars per hundredweight,5.18,Dollars per kg
+2024-04,farm,pork,Hogs [111121],112.74,Dollars per hundredweight,2.49,Dollars per kg
+2024-04,farm,chicken,Chickens for meat [11113131],2.69,Dollars per kilogram,2.69,Dollars per kilogram
+2024-04,farm,milk,Unprocessed milk from bovine [11612111],878.63,Dollars per kilolitre,0.88,Dollars per litre
+2024-04,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2024-04,retail,beef,"Beef stewing cuts, per kilogram",18.59,Dollars,18.59,Dollars
+2024-04,retail,beef,"Beef striploin cuts, per kilogram",23.8,Dollars,23.8,Dollars
+2024-04,retail,beef,"Beef top sirloin cuts, per kilogram",18.57,Dollars,18.57,Dollars
+2024-04,retail,beef,"Beef rib cuts, per kilogram",31.09,Dollars,31.09,Dollars
+2024-04,retail,beef,"Ground beef, per kilogram",11.29,Dollars,11.29,Dollars
+2024-04,retail,pork,"Pork loin cuts, per kilogram",9.18,Dollars,9.18,Dollars
+2024-04,retail,pork,"Pork rib cuts, per kilogram",8.08,Dollars,8.08,Dollars
+2024-04,retail,pork,"Pork shoulder cuts, per kilogram",9.53,Dollars,9.53,Dollars
+2024-04,retail,chicken,"Whole chicken, per kilogram",5.86,Dollars,5.86,Dollars
+2024-04,retail,chicken,"Chicken breasts, per kilogram",13.4,Dollars,13.4,Dollars
+2024-04,retail,chicken,"Chicken thigh, per kilogram",11.97,Dollars,11.97,Dollars
+2024-04,retail,chicken,"Chicken drumsticks, per kilogram",7.62,Dollars,7.62,Dollars
+2024-04,retail,pork,"Bacon, 500 grams",6.09,Dollars,12.18,Dollars per kg
+2024-04,retail,milk,"Milk, 1 litre",3.7,Dollars,3.7,Dollars per litre
+2024-04,retail,milk,"Milk, 2 litres",5.5,Dollars,2.75,Dollars per litre
+2024-04,retail,milk,"Milk, 4 litres",6.3,Dollars,1.57,Dollars per litre
+2024-04,retail,egg,"Eggs, 1 dozen",4.76,Dollars,4.76,Dollars
+2024-05,farm,beef,Steers for slaughter [111111113],243.2,Dollars per hundredweight,5.36,Dollars per kg
+2024-05,farm,beef,Heifers for slaughter [111111114],243.55,Dollars per hundredweight,5.37,Dollars per kg
+2024-05,farm,pork,Hogs [111121],114.42,Dollars per hundredweight,2.52,Dollars per kg
+2024-05,farm,chicken,Chickens for meat [11113131],2.67,Dollars per kilogram,2.67,Dollars per kilogram
+2024-05,farm,milk,Unprocessed milk from bovine [11612111],900.15,Dollars per kilolitre,0.9,Dollars per litre
+2024-05,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2024-05,retail,beef,"Beef stewing cuts, per kilogram",20.41,Dollars,20.41,Dollars
+2024-05,retail,beef,"Beef striploin cuts, per kilogram",28.7,Dollars,28.7,Dollars
+2024-05,retail,beef,"Beef top sirloin cuts, per kilogram",21.0,Dollars,21.0,Dollars
+2024-05,retail,beef,"Beef rib cuts, per kilogram",28.76,Dollars,28.76,Dollars
+2024-05,retail,beef,"Ground beef, per kilogram",12.23,Dollars,12.23,Dollars
+2024-05,retail,pork,"Pork loin cuts, per kilogram",8.73,Dollars,8.73,Dollars
+2024-05,retail,pork,"Pork rib cuts, per kilogram",8.66,Dollars,8.66,Dollars
+2024-05,retail,pork,"Pork shoulder cuts, per kilogram",8.97,Dollars,8.97,Dollars
+2024-05,retail,chicken,"Whole chicken, per kilogram",5.75,Dollars,5.75,Dollars
+2024-05,retail,chicken,"Chicken breasts, per kilogram",13.54,Dollars,13.54,Dollars
+2024-05,retail,chicken,"Chicken thigh, per kilogram",10.74,Dollars,10.74,Dollars
+2024-05,retail,chicken,"Chicken drumsticks, per kilogram",5.75,Dollars,5.75,Dollars
+2024-05,retail,pork,"Bacon, 500 grams",5.95,Dollars,11.9,Dollars per kg
+2024-05,retail,milk,"Milk, 1 litre",3.79,Dollars,3.79,Dollars per litre
+2024-05,retail,milk,"Milk, 2 litres",5.62,Dollars,2.81,Dollars per litre
+2024-05,retail,milk,"Milk, 4 litres",6.48,Dollars,1.62,Dollars per litre
+2024-05,retail,egg,"Eggs, 1 dozen",4.79,Dollars,4.79,Dollars
+2024-06,farm,beef,Steers for slaughter [111111113],240.48,Dollars per hundredweight,5.3,Dollars per kg
+2024-06,farm,beef,Heifers for slaughter [111111114],239.31,Dollars per hundredweight,5.28,Dollars per kg
+2024-06,farm,pork,Hogs [111121],116.0,Dollars per hundredweight,2.56,Dollars per kg
+2024-06,farm,chicken,Chickens for meat [11113131],2.65,Dollars per kilogram,2.65,Dollars per kilogram
+2024-06,farm,milk,Unprocessed milk from bovine [11612111],899.13,Dollars per kilolitre,0.9,Dollars per litre
+2024-06,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2024-06,retail,beef,"Beef stewing cuts, per kilogram",20.42,Dollars,20.42,Dollars
+2024-06,retail,beef,"Beef striploin cuts, per kilogram",26.94,Dollars,26.94,Dollars
+2024-06,retail,beef,"Beef top sirloin cuts, per kilogram",22.55,Dollars,22.55,Dollars
+2024-06,retail,beef,"Beef rib cuts, per kilogram",29.05,Dollars,29.05,Dollars
+2024-06,retail,beef,"Ground beef, per kilogram",12.83,Dollars,12.83,Dollars
+2024-06,retail,pork,"Pork loin cuts, per kilogram",8.75,Dollars,8.75,Dollars
+2024-06,retail,pork,"Pork rib cuts, per kilogram",8.66,Dollars,8.66,Dollars
+2024-06,retail,pork,"Pork shoulder cuts, per kilogram",10.37,Dollars,10.37,Dollars
+2024-06,retail,chicken,"Whole chicken, per kilogram",5.19,Dollars,5.19,Dollars
+2024-06,retail,chicken,"Chicken breasts, per kilogram",12.26,Dollars,12.26,Dollars
+2024-06,retail,chicken,"Chicken thigh, per kilogram",8.72,Dollars,8.72,Dollars
+2024-06,retail,chicken,"Chicken drumsticks, per kilogram",5.77,Dollars,5.77,Dollars
+2024-06,retail,pork,"Bacon, 500 grams",6.27,Dollars,12.54,Dollars per kg
+2024-06,retail,milk,"Milk, 1 litre",3.8,Dollars,3.8,Dollars per litre
+2024-06,retail,milk,"Milk, 2 litres",5.72,Dollars,2.86,Dollars per litre
+2024-06,retail,milk,"Milk, 4 litres",6.59,Dollars,1.65,Dollars per litre
+2024-06,retail,egg,"Eggs, 1 dozen",4.53,Dollars,4.53,Dollars
+2024-07,farm,beef,Steers for slaughter [111111113],246.29,Dollars per hundredweight,5.43,Dollars per kg
+2024-07,farm,beef,Heifers for slaughter [111111114],243.94,Dollars per hundredweight,5.38,Dollars per kg
+2024-07,farm,pork,Hogs [111121],112.56,Dollars per hundredweight,2.48,Dollars per kg
+2024-07,farm,chicken,Chickens for meat [11113131],2.67,Dollars per kilogram,2.67,Dollars per kilogram
+2024-07,farm,milk,Unprocessed milk from bovine [11612111],880.06,Dollars per kilolitre,0.88,Dollars per litre
+2024-07,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2024-07,retail,beef,"Beef stewing cuts, per kilogram",20.66,Dollars,20.66,Dollars
+2024-07,retail,beef,"Beef striploin cuts, per kilogram",30.58,Dollars,30.58,Dollars
+2024-07,retail,beef,"Beef top sirloin cuts, per kilogram",22.79,Dollars,22.79,Dollars
+2024-07,retail,beef,"Beef rib cuts, per kilogram",30.36,Dollars,30.36,Dollars
+2024-07,retail,beef,"Ground beef, per kilogram",13.14,Dollars,13.14,Dollars
+2024-07,retail,pork,"Pork loin cuts, per kilogram",8.53,Dollars,8.53,Dollars
+2024-07,retail,pork,"Pork rib cuts, per kilogram",8.48,Dollars,8.48,Dollars
+2024-07,retail,pork,"Pork shoulder cuts, per kilogram",10.26,Dollars,10.26,Dollars
+2024-07,retail,chicken,"Whole chicken, per kilogram",5.4,Dollars,5.4,Dollars
+2024-07,retail,chicken,"Chicken breasts, per kilogram",11.86,Dollars,11.86,Dollars
+2024-07,retail,chicken,"Chicken thigh, per kilogram",10.81,Dollars,10.81,Dollars
+2024-07,retail,chicken,"Chicken drumsticks, per kilogram",7.53,Dollars,7.53,Dollars
+2024-07,retail,pork,"Bacon, 500 grams",6.13,Dollars,12.26,Dollars per kg
+2024-07,retail,milk,"Milk, 1 litre",3.8,Dollars,3.8,Dollars per litre
+2024-07,retail,milk,"Milk, 2 litres",5.77,Dollars,2.88,Dollars per litre
+2024-07,retail,milk,"Milk, 4 litres",6.49,Dollars,1.62,Dollars per litre
+2024-07,retail,egg,"Eggs, 1 dozen",4.73,Dollars,4.73,Dollars
+2024-08,farm,beef,Steers for slaughter [111111113],248.68,Dollars per hundredweight,5.48,Dollars per kg
+2024-08,farm,beef,Heifers for slaughter [111111114],244.48,Dollars per hundredweight,5.39,Dollars per kg
+2024-08,farm,pork,Hogs [111121],117.19,Dollars per hundredweight,2.58,Dollars per kg
+2024-08,farm,chicken,Chickens for meat [11113131],2.66,Dollars per kilogram,2.66,Dollars per kilogram
+2024-08,farm,milk,Unprocessed milk from bovine [11612111],879.18,Dollars per kilolitre,0.88,Dollars per litre
+2024-08,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2024-08,retail,beef,"Beef stewing cuts, per kilogram",22.29,Dollars,22.29,Dollars
+2024-08,retail,beef,"Beef striploin cuts, per kilogram",28.17,Dollars,28.17,Dollars
+2024-08,retail,beef,"Beef top sirloin cuts, per kilogram",22.84,Dollars,22.84,Dollars
+2024-08,retail,beef,"Beef rib cuts, per kilogram",27.9,Dollars,27.9,Dollars
+2024-08,retail,beef,"Ground beef, per kilogram",13.47,Dollars,13.47,Dollars
+2024-08,retail,pork,"Pork loin cuts, per kilogram",8.09,Dollars,8.09,Dollars
+2024-08,retail,pork,"Pork rib cuts, per kilogram",8.28,Dollars,8.28,Dollars
+2024-08,retail,pork,"Pork shoulder cuts, per kilogram",9.83,Dollars,9.83,Dollars
+2024-08,retail,chicken,"Whole chicken, per kilogram",5.51,Dollars,5.51,Dollars
+2024-08,retail,chicken,"Chicken breasts, per kilogram",12.97,Dollars,12.97,Dollars
+2024-08,retail,chicken,"Chicken thigh, per kilogram",8.86,Dollars,8.86,Dollars
+2024-08,retail,chicken,"Chicken drumsticks, per kilogram",5.47,Dollars,5.47,Dollars
+2024-08,retail,pork,"Bacon, 500 grams",6.51,Dollars,13.02,Dollars per kg
+2024-08,retail,milk,"Milk, 1 litre",3.82,Dollars,3.82,Dollars per litre
+2024-08,retail,milk,"Milk, 2 litres",5.71,Dollars,2.85,Dollars per litre
+2024-08,retail,milk,"Milk, 4 litres",6.56,Dollars,1.64,Dollars per litre
+2024-08,retail,egg,"Eggs, 1 dozen",4.82,Dollars,4.82,Dollars
+2024-09,farm,beef,Steers for slaughter [111111113],240.71,Dollars per hundredweight,5.31,Dollars per kg
+2024-09,farm,beef,Heifers for slaughter [111111114],237.98,Dollars per hundredweight,5.25,Dollars per kg
+2024-09,farm,pork,Hogs [111121],108.41,Dollars per hundredweight,2.39,Dollars per kg
+2024-09,farm,chicken,Chickens for meat [11113131],2.7,Dollars per kilogram,2.7,Dollars per kilogram
+2024-09,farm,milk,Unprocessed milk from bovine [11612111],911.97,Dollars per kilolitre,0.91,Dollars per litre
+2024-09,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2024-09,retail,beef,"Beef stewing cuts, per kilogram",21.79,Dollars,21.79,Dollars
+2024-09,retail,beef,"Beef striploin cuts, per kilogram",32.47,Dollars,32.47,Dollars
+2024-09,retail,beef,"Beef top sirloin cuts, per kilogram",22.39,Dollars,22.39,Dollars
+2024-09,retail,beef,"Beef rib cuts, per kilogram",32.88,Dollars,32.88,Dollars
+2024-09,retail,beef,"Ground beef, per kilogram",13.59,Dollars,13.59,Dollars
+2024-09,retail,pork,"Pork loin cuts, per kilogram",9.71,Dollars,9.71,Dollars
+2024-09,retail,pork,"Pork rib cuts, per kilogram",7.92,Dollars,7.92,Dollars
+2024-09,retail,pork,"Pork shoulder cuts, per kilogram",7.06,Dollars,7.06,Dollars
+2024-09,retail,chicken,"Whole chicken, per kilogram",5.55,Dollars,5.55,Dollars
+2024-09,retail,chicken,"Chicken breasts, per kilogram",13.38,Dollars,13.38,Dollars
+2024-09,retail,chicken,"Chicken thigh, per kilogram",11.04,Dollars,11.04,Dollars
+2024-09,retail,chicken,"Chicken drumsticks, per kilogram",7.58,Dollars,7.58,Dollars
+2024-09,retail,pork,"Bacon, 500 grams",6.11,Dollars,12.22,Dollars per kg
+2024-09,retail,milk,"Milk, 1 litre",3.8,Dollars,3.8,Dollars per litre
+2024-09,retail,milk,"Milk, 2 litres",5.79,Dollars,2.9,Dollars per litre
+2024-09,retail,milk,"Milk, 4 litres",6.54,Dollars,1.64,Dollars per litre
+2024-09,retail,egg,"Eggs, 1 dozen",4.85,Dollars,4.85,Dollars
+2024-10,farm,beef,Steers for slaughter [111111113],240.71,Dollars per hundredweight,5.31,Dollars per kg
+2024-10,farm,beef,Heifers for slaughter [111111114],238.37,Dollars per hundredweight,5.26,Dollars per kg
+2024-10,farm,pork,Hogs [111121],108.19,Dollars per hundredweight,2.39,Dollars per kg
+2024-10,farm,chicken,Chickens for meat [11113131],2.67,Dollars per kilogram,2.67,Dollars per kilogram
+2024-10,farm,milk,Unprocessed milk from bovine [11612111],931.69,Dollars per kilolitre,0.93,Dollars per litre
+2024-10,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2024-10,retail,beef,"Beef stewing cuts, per kilogram",20.04,Dollars,20.04,Dollars
+2024-10,retail,beef,"Beef striploin cuts, per kilogram",23.74,Dollars,23.74,Dollars
+2024-10,retail,beef,"Beef top sirloin cuts, per kilogram",24.16,Dollars,24.16,Dollars
+2024-10,retail,beef,"Beef rib cuts, per kilogram",25.29,Dollars,25.29,Dollars
+2024-10,retail,beef,"Ground beef, per kilogram",12.88,Dollars,12.88,Dollars
+2024-10,retail,pork,"Pork loin cuts, per kilogram",8.8,Dollars,8.8,Dollars
+2024-10,retail,pork,"Pork rib cuts, per kilogram",9.12,Dollars,9.12,Dollars
+2024-10,retail,pork,"Pork shoulder cuts, per kilogram",6.57,Dollars,6.57,Dollars
+2024-10,retail,chicken,"Whole chicken, per kilogram",7.23,Dollars,7.23,Dollars
+2024-10,retail,chicken,"Chicken breasts, per kilogram",12.89,Dollars,12.89,Dollars
+2024-10,retail,chicken,"Chicken thigh, per kilogram",12.47,Dollars,12.47,Dollars
+2024-10,retail,chicken,"Chicken drumsticks, per kilogram",6.38,Dollars,6.38,Dollars
+2024-10,retail,pork,"Bacon, 500 grams",6.52,Dollars,13.04,Dollars per kg
+2024-10,retail,milk,"Milk, 1 litre",3.77,Dollars,3.77,Dollars per litre
+2024-10,retail,milk,"Milk, 2 litres",5.77,Dollars,2.88,Dollars per litre
+2024-10,retail,milk,"Milk, 4 litres",6.51,Dollars,1.63,Dollars per litre
+2024-10,retail,egg,"Eggs, 1 dozen",4.87,Dollars,4.87,Dollars
+2024-11,farm,beef,Steers for slaughter [111111113],243.24,Dollars per hundredweight,5.36,Dollars per kg
+2024-11,farm,beef,Heifers for slaughter [111111114],240.86,Dollars per hundredweight,5.31,Dollars per kg
+2024-11,farm,pork,Hogs [111121],114.71,Dollars per hundredweight,2.53,Dollars per kg
+2024-11,farm,chicken,Chickens for meat [11113131],2.68,Dollars per kilogram,2.68,Dollars per kilogram
+2024-11,farm,milk,Unprocessed milk from bovine [11612111],943.73,Dollars per kilolitre,0.94,Dollars per litre
+2024-11,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2024-11,retail,beef,"Beef stewing cuts, per kilogram",17.98,Dollars,17.98,Dollars
+2024-11,retail,beef,"Beef striploin cuts, per kilogram",27.66,Dollars,27.66,Dollars
+2024-11,retail,beef,"Beef top sirloin cuts, per kilogram",22.83,Dollars,22.83,Dollars
+2024-11,retail,beef,"Beef rib cuts, per kilogram",32.28,Dollars,32.28,Dollars
+2024-11,retail,beef,"Ground beef, per kilogram",12.98,Dollars,12.98,Dollars
+2024-11,retail,pork,"Pork loin cuts, per kilogram",9.02,Dollars,9.02,Dollars
+2024-11,retail,pork,"Pork rib cuts, per kilogram",7.83,Dollars,7.83,Dollars
+2024-11,retail,pork,"Pork shoulder cuts, per kilogram",9.97,Dollars,9.97,Dollars
+2024-11,retail,chicken,"Whole chicken, per kilogram",6.51,Dollars,6.51,Dollars
+2024-11,retail,chicken,"Chicken breasts, per kilogram",12.54,Dollars,12.54,Dollars
+2024-11,retail,chicken,"Chicken thigh, per kilogram",11.3,Dollars,11.3,Dollars
+2024-11,retail,chicken,"Chicken drumsticks, per kilogram",5.88,Dollars,5.88,Dollars
+2024-11,retail,pork,"Bacon, 500 grams",6.0,Dollars,12.0,Dollars per kg
+2024-11,retail,milk,"Milk, 1 litre",3.8,Dollars,3.8,Dollars per litre
+2024-11,retail,milk,"Milk, 2 litres",5.68,Dollars,2.84,Dollars per litre
+2024-11,retail,milk,"Milk, 4 litres",6.53,Dollars,1.63,Dollars per litre
+2024-11,retail,egg,"Eggs, 1 dozen",4.81,Dollars,4.81,Dollars
+2024-12,farm,beef,Steers for slaughter [111111113],251.78,Dollars per hundredweight,5.55,Dollars per kg
+2024-12,farm,beef,Heifers for slaughter [111111114],247.83,Dollars per hundredweight,5.46,Dollars per kg
+2024-12,farm,pork,Hogs [111121],109.82,Dollars per hundredweight,2.42,Dollars per kg
+2024-12,farm,chicken,Chickens for meat [11113131],2.67,Dollars per kilogram,2.67,Dollars per kilogram
+2024-12,farm,milk,Unprocessed milk from bovine [11612111],959.55,Dollars per kilolitre,0.96,Dollars per litre
+2024-12,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2024-12,retail,beef,"Beef stewing cuts, per kilogram",21.61,Dollars,21.61,Dollars
+2024-12,retail,beef,"Beef striploin cuts, per kilogram",23.62,Dollars,23.62,Dollars
+2024-12,retail,beef,"Beef top sirloin cuts, per kilogram",20.42,Dollars,20.42,Dollars
+2024-12,retail,beef,"Beef rib cuts, per kilogram",23.2,Dollars,23.2,Dollars
+2024-12,retail,beef,"Ground beef, per kilogram",13.38,Dollars,13.38,Dollars
+2024-12,retail,pork,"Pork loin cuts, per kilogram",8.02,Dollars,8.02,Dollars
+2024-12,retail,pork,"Pork rib cuts, per kilogram",7.91,Dollars,7.91,Dollars
+2024-12,retail,pork,"Pork shoulder cuts, per kilogram",9.15,Dollars,9.15,Dollars
+2024-12,retail,chicken,"Whole chicken, per kilogram",5.95,Dollars,5.95,Dollars
+2024-12,retail,chicken,"Chicken breasts, per kilogram",13.29,Dollars,13.29,Dollars
+2024-12,retail,chicken,"Chicken thigh, per kilogram",11.95,Dollars,11.95,Dollars
+2024-12,retail,chicken,"Chicken drumsticks, per kilogram",7.9,Dollars,7.9,Dollars
+2024-12,retail,pork,"Bacon, 500 grams",6.47,Dollars,12.94,Dollars per kg
+2024-12,retail,milk,"Milk, 1 litre",3.81,Dollars,3.81,Dollars per litre
+2024-12,retail,milk,"Milk, 2 litres",5.77,Dollars,2.88,Dollars per litre
+2024-12,retail,milk,"Milk, 4 litres",6.51,Dollars,1.63,Dollars per litre
+2024-12,retail,egg,"Eggs, 1 dozen",4.8,Dollars,4.8,Dollars
+2025-01,farm,beef,Steers for slaughter [111111113],268.1,Dollars per hundredweight,5.91,Dollars per kg
+2025-01,farm,beef,Heifers for slaughter [111111114],263.61,Dollars per hundredweight,5.81,Dollars per kg
+2025-01,farm,pork,Hogs [111121],109.62,Dollars per hundredweight,2.42,Dollars per kg
+2025-01,farm,chicken,Chickens for meat [11113131],2.64,Dollars per kilogram,2.64,Dollars per kilogram
+2025-01,farm,milk,Unprocessed milk from bovine [11612111],962.25,Dollars per kilolitre,0.96,Dollars per litre
+2025-01,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2025-01,retail,beef,"Beef stewing cuts, per kilogram",18.28,Dollars,18.28,Dollars
+2025-01,retail,beef,"Beef striploin cuts, per kilogram",27.73,Dollars,27.73,Dollars
+2025-01,retail,beef,"Beef top sirloin cuts, per kilogram",23.08,Dollars,23.08,Dollars
+2025-01,retail,beef,"Beef rib cuts, per kilogram",25.5,Dollars,25.5,Dollars
+2025-01,retail,beef,"Ground beef, per kilogram",13.35,Dollars,13.35,Dollars
+2025-01,retail,pork,"Pork loin cuts, per kilogram",8.3,Dollars,8.3,Dollars
+2025-01,retail,pork,"Pork rib cuts, per kilogram",7.56,Dollars,7.56,Dollars
+2025-01,retail,pork,"Pork shoulder cuts, per kilogram",5.14,Dollars,5.14,Dollars
+2025-01,retail,chicken,"Whole chicken, per kilogram",5.66,Dollars,5.66,Dollars
+2025-01,retail,chicken,"Chicken breasts, per kilogram",13.62,Dollars,13.62,Dollars
+2025-01,retail,chicken,"Chicken thigh, per kilogram",12.28,Dollars,12.28,Dollars
+2025-01,retail,chicken,"Chicken drumsticks, per kilogram",7.77,Dollars,7.77,Dollars
+2025-01,retail,pork,"Bacon, 500 grams",6.3,Dollars,12.6,Dollars per kg
+2025-01,retail,milk,"Milk, 1 litre",3.81,Dollars,3.81,Dollars per litre
+2025-01,retail,milk,"Milk, 2 litres",5.76,Dollars,2.88,Dollars per litre
+2025-01,retail,milk,"Milk, 4 litres",6.49,Dollars,1.62,Dollars per litre
+2025-01,retail,egg,"Eggs, 1 dozen",4.87,Dollars,4.87,Dollars
+2025-02,farm,beef,Steers for slaughter [111111113],282.26,Dollars per hundredweight,6.22,Dollars per kg
+2025-02,farm,beef,Heifers for slaughter [111111114],277.89,Dollars per hundredweight,6.13,Dollars per kg
+2025-02,farm,pork,Hogs [111121],113.47,Dollars per hundredweight,2.5,Dollars per kg
+2025-02,farm,chicken,Chickens for meat [11113131],2.68,Dollars per kilogram,2.68,Dollars per kilogram
+2025-02,farm,milk,Unprocessed milk from bovine [11612111],933.89,Dollars per kilolitre,0.93,Dollars per litre
+2025-02,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2025-02,retail,beef,"Beef stewing cuts, per kilogram",19.77,Dollars,19.77,Dollars
+2025-02,retail,beef,"Beef striploin cuts, per kilogram",29.25,Dollars,29.25,Dollars
+2025-02,retail,beef,"Beef top sirloin cuts, per kilogram",27.15,Dollars,27.15,Dollars
+2025-02,retail,beef,"Beef rib cuts, per kilogram",29.29,Dollars,29.29,Dollars
+2025-02,retail,beef,"Ground beef, per kilogram",12.96,Dollars,12.96,Dollars
+2025-02,retail,pork,"Pork loin cuts, per kilogram",7.87,Dollars,7.87,Dollars
+2025-02,retail,pork,"Pork rib cuts, per kilogram",8.04,Dollars,8.04,Dollars
+2025-02,retail,pork,"Pork shoulder cuts, per kilogram",7.35,Dollars,7.35,Dollars
+2025-02,retail,chicken,"Whole chicken, per kilogram",5.97,Dollars,5.97,Dollars
+2025-02,retail,chicken,"Chicken breasts, per kilogram",11.95,Dollars,11.95,Dollars
+2025-02,retail,chicken,"Chicken thigh, per kilogram",11.12,Dollars,11.12,Dollars
+2025-02,retail,chicken,"Chicken drumsticks, per kilogram",6.05,Dollars,6.05,Dollars
+2025-02,retail,pork,"Bacon, 500 grams",6.49,Dollars,12.98,Dollars per kg
+2025-02,retail,milk,"Milk, 1 litre",3.84,Dollars,3.84,Dollars per litre
+2025-02,retail,milk,"Milk, 2 litres",5.81,Dollars,2.9,Dollars per litre
+2025-02,retail,milk,"Milk, 4 litres",6.66,Dollars,1.67,Dollars per litre
+2025-02,retail,egg,"Eggs, 1 dozen",4.83,Dollars,4.83,Dollars
+2025-03,farm,beef,Steers for slaughter [111111113],264.83,Dollars per hundredweight,5.84,Dollars per kg
+2025-03,farm,beef,Heifers for slaughter [111111114],264.09,Dollars per hundredweight,5.82,Dollars per kg
+2025-03,farm,pork,Hogs [111121],116.63,Dollars per hundredweight,2.57,Dollars per kg
+2025-03,farm,chicken,Chickens for meat [11113131],2.71,Dollars per kilogram,2.71,Dollars per kilogram
+2025-03,farm,milk,Unprocessed milk from bovine [11612111],959.34,Dollars per kilolitre,0.96,Dollars per litre
+2025-03,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2025-03,retail,beef,"Beef stewing cuts, per kilogram",21.3,Dollars,21.3,Dollars
+2025-03,retail,beef,"Beef striploin cuts, per kilogram",33.93,Dollars,33.93,Dollars
+2025-03,retail,beef,"Beef top sirloin cuts, per kilogram",22.25,Dollars,22.25,Dollars
+2025-03,retail,beef,"Beef rib cuts, per kilogram",37.56,Dollars,37.56,Dollars
+2025-03,retail,beef,"Ground beef, per kilogram",13.32,Dollars,13.32,Dollars
+2025-03,retail,pork,"Pork loin cuts, per kilogram",7.96,Dollars,7.96,Dollars
+2025-03,retail,pork,"Pork rib cuts, per kilogram",7.7,Dollars,7.7,Dollars
+2025-03,retail,pork,"Pork shoulder cuts, per kilogram",9.3,Dollars,9.3,Dollars
+2025-03,retail,chicken,"Whole chicken, per kilogram",5.81,Dollars,5.81,Dollars
+2025-03,retail,chicken,"Chicken breasts, per kilogram",13.57,Dollars,13.57,Dollars
+2025-03,retail,chicken,"Chicken thigh, per kilogram",10.01,Dollars,10.01,Dollars
+2025-03,retail,chicken,"Chicken drumsticks, per kilogram",5.98,Dollars,5.98,Dollars
+2025-03,retail,pork,"Bacon, 500 grams",6.49,Dollars,12.98,Dollars per kg
+2025-03,retail,milk,"Milk, 1 litre",3.84,Dollars,3.84,Dollars per litre
+2025-03,retail,milk,"Milk, 2 litres",5.8,Dollars,2.9,Dollars per litre
+2025-03,retail,milk,"Milk, 4 litres",6.63,Dollars,1.66,Dollars per litre
+2025-03,retail,egg,"Eggs, 1 dozen",4.83,Dollars,4.83,Dollars
+2025-04,farm,beef,Steers for slaughter [111111113],284.29,Dollars per hundredweight,6.27,Dollars per kg
+2025-04,farm,beef,Heifers for slaughter [111111114],281.76,Dollars per hundredweight,6.21,Dollars per kg
+2025-04,farm,pork,Hogs [111121],111.55,Dollars per hundredweight,2.46,Dollars per kg
+2025-04,farm,chicken,Chickens for meat [11113131],2.71,Dollars per kilogram,2.71,Dollars per kilogram
+2025-04,farm,milk,Unprocessed milk from bovine [11612111],927.31,Dollars per kilolitre,0.93,Dollars per litre
+2025-04,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2025-04,retail,beef,"Beef stewing cuts, per kilogram",22.02,Dollars,22.02,Dollars
+2025-04,retail,beef,"Beef striploin cuts, per kilogram",31.88,Dollars,31.88,Dollars
+2025-04,retail,beef,"Beef top sirloin cuts, per kilogram",26.97,Dollars,26.97,Dollars
+2025-04,retail,beef,"Beef rib cuts, per kilogram",25.37,Dollars,25.37,Dollars
+2025-04,retail,beef,"Ground beef, per kilogram",13.04,Dollars,13.04,Dollars
+2025-04,retail,pork,"Pork loin cuts, per kilogram",10.38,Dollars,10.38,Dollars
+2025-04,retail,pork,"Pork rib cuts, per kilogram",9.61,Dollars,9.61,Dollars
+2025-04,retail,pork,"Pork shoulder cuts, per kilogram",10.42,Dollars,10.42,Dollars
+2025-04,retail,chicken,"Whole chicken, per kilogram",5.74,Dollars,5.74,Dollars
+2025-04,retail,chicken,"Chicken breasts, per kilogram",12.9,Dollars,12.9,Dollars
+2025-04,retail,chicken,"Chicken thigh, per kilogram",12.69,Dollars,12.69,Dollars
+2025-04,retail,chicken,"Chicken drumsticks, per kilogram",6.32,Dollars,6.32,Dollars
+2025-04,retail,pork,"Bacon, 500 grams",6.34,Dollars,12.68,Dollars per kg
+2025-04,retail,milk,"Milk, 1 litre",3.82,Dollars,3.82,Dollars per litre
+2025-04,retail,milk,"Milk, 2 litres",5.8,Dollars,2.9,Dollars per litre
+2025-04,retail,milk,"Milk, 4 litres",6.65,Dollars,1.66,Dollars per litre
+2025-04,retail,egg,"Eggs, 1 dozen",4.82,Dollars,4.82,Dollars
+2025-05,farm,beef,Steers for slaughter [111111113],294.3,Dollars per hundredweight,6.49,Dollars per kg
+2025-05,farm,beef,Heifers for slaughter [111111114],292.1,Dollars per hundredweight,6.44,Dollars per kg
+2025-05,farm,pork,Hogs [111121],115.59,Dollars per hundredweight,2.55,Dollars per kg
+2025-05,farm,chicken,Chickens for meat [11113131],2.74,Dollars per kilogram,2.74,Dollars per kilogram
+2025-05,farm,milk,Unprocessed milk from bovine [11612111],894.2,Dollars per kilolitre,0.89,Dollars per litre
+2025-05,farm,egg,Eggs in shell [116111],2.04,Dollars per dozen,2.04,Dollars per dozen
+2025-05,retail,beef,"Beef stewing cuts, per kilogram",22.91,Dollars,22.91,Dollars
+2025-05,retail,beef,"Beef striploin cuts, per kilogram",31.19,Dollars,31.19,Dollars
+2025-05,retail,beef,"Beef top sirloin cuts, per kilogram",22.99,Dollars,22.99,Dollars
+2025-05,retail,beef,"Beef rib cuts, per kilogram",30.53,Dollars,30.53,Dollars
+2025-05,retail,beef,"Ground beef, per kilogram",14.53,Dollars,14.53,Dollars
+2025-05,retail,pork,"Pork loin cuts, per kilogram",7.72,Dollars,7.72,Dollars
+2025-05,retail,pork,"Pork rib cuts, per kilogram",8.57,Dollars,8.57,Dollars
+2025-05,retail,pork,"Pork shoulder cuts, per kilogram",10.53,Dollars,10.53,Dollars
+2025-05,retail,chicken,"Whole chicken, per kilogram",5.56,Dollars,5.56,Dollars
+2025-05,retail,chicken,"Chicken breasts, per kilogram",13.73,Dollars,13.73,Dollars
+2025-05,retail,chicken,"Chicken thigh, per kilogram",12.93,Dollars,12.93,Dollars
+2025-05,retail,chicken,"Chicken drumsticks, per kilogram",7.97,Dollars,7.97,Dollars
+2025-05,retail,pork,"Bacon, 500 grams",6.75,Dollars,13.5,Dollars per kg
+2025-05,retail,milk,"Milk, 1 litre",3.84,Dollars,3.84,Dollars per litre
+2025-05,retail,milk,"Milk, 2 litres",5.8,Dollars,2.9,Dollars per litre
+2025-05,retail,milk,"Milk, 4 litres",6.68,Dollars,1.67,Dollars per litre
+2025-05,retail,egg,"Eggs, 1 dozen",4.83,Dollars,4.83,Dollars
+2025-06,farm,beef,Steers for slaughter [111111113],310.07,Dollars per hundredweight,6.84,Dollars per kg
+2025-06,farm,beef,Heifers for slaughter [111111114],307.16,Dollars per hundredweight,6.77,Dollars per kg
+2025-06,farm,pork,Hogs [111121],126.61,Dollars per hundredweight,2.79,Dollars per kg
+2025-06,farm,chicken,Chickens for meat [11113131],2.7,Dollars per kilogram,2.7,Dollars per kilogram
+2025-06,farm,milk,Unprocessed milk from bovine [11612111],888.25,Dollars per kilolitre,0.89,Dollars per litre
+2025-06,farm,egg,Eggs in shell [116111],2.05,Dollars per dozen,2.05,Dollars per dozen
+2025-06,retail,beef,"Beef stewing cuts, per kilogram",23.69,Dollars,23.69,Dollars
+2025-06,retail,beef,"Beef striploin cuts, per kilogram",25.67,Dollars,25.67,Dollars
+2025-06,retail,beef,"Beef top sirloin cuts, per kilogram",29.45,Dollars,29.45,Dollars
+2025-06,retail,beef,"Beef rib cuts, per kilogram",34.41,Dollars,34.41,Dollars
+2025-06,retail,beef,"Ground beef, per kilogram",14.77,Dollars,14.77,Dollars
+2025-06,retail,pork,"Pork loin cuts, per kilogram",8.23,Dollars,8.23,Dollars
+2025-06,retail,pork,"Pork rib cuts, per kilogram",10.37,Dollars,10.37,Dollars
+2025-06,retail,pork,"Pork shoulder cuts, per kilogram",10.33,Dollars,10.33,Dollars
+2025-06,retail,chicken,"Whole chicken, per kilogram",6.94,Dollars,6.94,Dollars
+2025-06,retail,chicken,"Chicken breasts, per kilogram",13.07,Dollars,13.07,Dollars
+2025-06,retail,chicken,"Chicken thigh, per kilogram",10.59,Dollars,10.59,Dollars
+2025-06,retail,chicken,"Chicken drumsticks, per kilogram",6.59,Dollars,6.59,Dollars
+2025-06,retail,pork,"Bacon, 500 grams",6.54,Dollars,13.08,Dollars per kg
+2025-06,retail,milk,"Milk, 1 litre",3.85,Dollars,3.85,Dollars per litre
+2025-06,retail,milk,"Milk, 2 litres",5.81,Dollars,2.9,Dollars per litre
+2025-06,retail,milk,"Milk, 4 litres",6.75,Dollars,1.69,Dollars per litre
+2025-06,retail,egg,"Eggs, 1 dozen",4.84,Dollars,4.84,Dollars
+2025-07,farm,beef,Steers for slaughter [111111113],312.16,Dollars per hundredweight,6.88,Dollars per kg
+2025-07,farm,beef,Heifers for slaughter [111111114],309.01,Dollars per hundredweight,6.81,Dollars per kg
+2025-07,farm,pork,Hogs [111121],133.4,Dollars per hundredweight,2.94,Dollars per kg
+2025-07,farm,chicken,Chickens for meat [11113131],2.7,Dollars per kilogram,2.7,Dollars per kilogram
+2025-07,farm,milk,Unprocessed milk from bovine [11612111],880.19,Dollars per kilolitre,0.88,Dollars per litre
+2025-07,farm,egg,Eggs in shell [116111],2.05,Dollars per dozen,2.05,Dollars per dozen
+2025-07,retail,beef,"Beef stewing cuts, per kilogram",23.91,Dollars,23.91,Dollars
+2025-07,retail,beef,"Beef striploin cuts, per kilogram",30.78,Dollars,30.78,Dollars
+2025-07,retail,beef,"Beef top sirloin cuts, per kilogram",28.82,Dollars,28.82,Dollars
+2025-07,retail,beef,"Beef rib cuts, per kilogram",30.3,Dollars,30.3,Dollars
+2025-07,retail,beef,"Ground beef, per kilogram",14.28,Dollars,14.28,Dollars
+2025-07,retail,pork,"Pork loin cuts, per kilogram",7.99,Dollars,7.99,Dollars
+2025-07,retail,pork,"Pork rib cuts, per kilogram",9.76,Dollars,9.76,Dollars
+2025-07,retail,pork,"Pork shoulder cuts, per kilogram",10.37,Dollars,10.37,Dollars
+2025-07,retail,chicken,"Whole chicken, per kilogram",6.4,Dollars,6.4,Dollars
+2025-07,retail,chicken,"Chicken breasts, per kilogram",14.62,Dollars,14.62,Dollars
+2025-07,retail,chicken,"Chicken thigh, per kilogram",12.25,Dollars,12.25,Dollars
+2025-07,retail,chicken,"Chicken drumsticks, per kilogram",6.38,Dollars,6.38,Dollars
+2025-07,retail,pork,"Bacon, 500 grams",6.64,Dollars,13.28,Dollars per kg
+2025-07,retail,milk,"Milk, 1 litre",3.84,Dollars,3.84,Dollars per litre
+2025-07,retail,milk,"Milk, 2 litres",5.81,Dollars,2.9,Dollars per litre
+2025-07,retail,milk,"Milk, 4 litres",6.64,Dollars,1.66,Dollars per litre
+2025-07,retail,egg,"Eggs, 1 dozen",4.85,Dollars,4.85,Dollars
+2025-08,farm,beef,Steers for slaughter [111111113],315.58,Dollars per hundredweight,6.96,Dollars per kg
+2025-08,farm,beef,Heifers for slaughter [111111114],313.53,Dollars per hundredweight,6.91,Dollars per kg
+2025-08,farm,pork,Hogs [111121],137.75,Dollars per hundredweight,3.04,Dollars per kg
+2025-08,farm,chicken,Chickens for meat [11113131],2.7,Dollars per kilogram,2.7,Dollars per kilogram
+2025-08,farm,milk,Unprocessed milk from bovine [11612111],883.01,Dollars per kilolitre,0.88,Dollars per litre
+2025-08,farm,egg,Eggs in shell [116111],2.05,Dollars per dozen,2.05,Dollars per dozen
+2025-08,retail,beef,"Beef stewing cuts, per kilogram",24.8,Dollars,24.8,Dollars
+2025-08,retail,beef,"Beef striploin cuts, per kilogram",34.48,Dollars,34.48,Dollars
+2025-08,retail,beef,"Beef top sirloin cuts, per kilogram",28.59,Dollars,28.59,Dollars
+2025-08,retail,beef,"Beef rib cuts, per kilogram",30.24,Dollars,30.24,Dollars
+2025-08,retail,beef,"Ground beef, per kilogram",14.54,Dollars,14.54,Dollars
+2025-08,retail,pork,"Pork loin cuts, per kilogram",9.23,Dollars,9.23,Dollars
+2025-08,retail,pork,"Pork rib cuts, per kilogram",9.44,Dollars,9.44,Dollars
+2025-08,retail,pork,"Pork shoulder cuts, per kilogram",10.82,Dollars,10.82,Dollars
+2025-08,retail,chicken,"Whole chicken, per kilogram",7.58,Dollars,7.58,Dollars
+2025-08,retail,chicken,"Chicken breasts, per kilogram",13.83,Dollars,13.83,Dollars
+2025-08,retail,chicken,"Chicken thigh, per kilogram",11.82,Dollars,11.82,Dollars
+2025-08,retail,chicken,"Chicken drumsticks, per kilogram",6.32,Dollars,6.32,Dollars
+2025-08,retail,pork,"Bacon, 500 grams",7.23,Dollars,14.46,Dollars per kg
+2025-08,retail,milk,"Milk, 1 litre",3.86,Dollars,3.86,Dollars per litre
+2025-08,retail,milk,"Milk, 2 litres",5.77,Dollars,2.88,Dollars per litre
+2025-08,retail,milk,"Milk, 4 litres",6.66,Dollars,1.67,Dollars per litre
+2025-08,retail,egg,"Eggs, 1 dozen",4.85,Dollars,4.85,Dollars
+2025-09,farm,beef,Steers for slaughter [111111113],321.76,Dollars per hundredweight,7.09,Dollars per kg
+2025-09,farm,beef,Heifers for slaughter [111111114],318.57,Dollars per hundredweight,7.02,Dollars per kg
+2025-09,farm,pork,Hogs [111121],132.32,Dollars per hundredweight,2.92,Dollars per kg
+2025-09,farm,chicken,Chickens for meat [11113131],2.69,Dollars per kilogram,2.69,Dollars per kilogram
+2025-09,farm,milk,Unprocessed milk from bovine [11612111],898.05,Dollars per kilolitre,0.9,Dollars per litre
+2025-09,farm,egg,Eggs in shell [116111],2.05,Dollars per dozen,2.05,Dollars per dozen
+2025-09,retail,beef,"Beef stewing cuts, per kilogram",23.81,Dollars,23.81,Dollars
+2025-09,retail,beef,"Beef striploin cuts, per kilogram",31.64,Dollars,31.64,Dollars
+2025-09,retail,beef,"Beef top sirloin cuts, per kilogram",30.87,Dollars,30.87,Dollars
+2025-09,retail,beef,"Beef rib cuts, per kilogram",31.38,Dollars,31.38,Dollars
+2025-09,retail,beef,"Ground beef, per kilogram",15.09,Dollars,15.09,Dollars
+2025-09,retail,pork,"Pork loin cuts, per kilogram",9.08,Dollars,9.08,Dollars
+2025-09,retail,pork,"Pork rib cuts, per kilogram",9.39,Dollars,9.39,Dollars
+2025-09,retail,pork,"Pork shoulder cuts, per kilogram",10.08,Dollars,10.08,Dollars
+2025-09,retail,chicken,"Whole chicken, per kilogram",6.0,Dollars,6.0,Dollars
+2025-09,retail,chicken,"Chicken breasts, per kilogram",14.82,Dollars,14.82,Dollars
+2025-09,retail,chicken,"Chicken thigh, per kilogram",12.29,Dollars,12.29,Dollars
+2025-09,retail,chicken,"Chicken drumsticks, per kilogram",7.84,Dollars,7.84,Dollars
+2025-09,retail,pork,"Bacon, 500 grams",6.76,Dollars,13.52,Dollars per kg
+2025-09,retail,milk,"Milk, 1 litre",3.84,Dollars,3.84,Dollars per litre
+2025-09,retail,milk,"Milk, 2 litres",5.87,Dollars,2.94,Dollars per litre
+2025-09,retail,milk,"Milk, 4 litres",6.8,Dollars,1.7,Dollars per litre
+2025-09,retail,egg,"Eggs, 1 dozen",4.89,Dollars,4.89,Dollars
+2025-10,farm,beef,Steers for slaughter [111111113],311.11,Dollars per hundredweight,6.86,Dollars per kg
+2025-10,farm,beef,Heifers for slaughter [111111114],309.92,Dollars per hundredweight,6.83,Dollars per kg
+2025-10,farm,pork,Hogs [111121],126.54,Dollars per hundredweight,2.79,Dollars per kg
+2025-10,farm,chicken,Chickens for meat [11113131],2.68,Dollars per kilogram,2.68,Dollars per kilogram
+2025-10,farm,milk,Unprocessed milk from bovine [11612111],893.54,Dollars per kilolitre,0.89,Dollars per litre
+2025-10,farm,egg,Eggs in shell [116111],2.05,Dollars per dozen,2.05,Dollars per dozen
+2025-10,retail,beef,"Beef stewing cuts, per kilogram",21.6,Dollars,21.6,Dollars
+2025-10,retail,beef,"Beef striploin cuts, per kilogram",37.05,Dollars,37.05,Dollars
+2025-10,retail,beef,"Beef top sirloin cuts, per kilogram",29.18,Dollars,29.18,Dollars
+2025-10,retail,beef,"Beef rib cuts, per kilogram",25.89,Dollars,25.89,Dollars
+2025-10,retail,beef,"Ground beef, per kilogram",15.82,Dollars,15.82,Dollars
+2025-10,retail,pork,"Pork loin cuts, per kilogram",8.35,Dollars,8.35,Dollars
+2025-10,retail,pork,"Pork rib cuts, per kilogram",9.84,Dollars,9.84,Dollars
+2025-10,retail,pork,"Pork shoulder cuts, per kilogram",10.78,Dollars,10.78,Dollars
+2025-10,retail,chicken,"Whole chicken, per kilogram",8.67,Dollars,8.67,Dollars
+2025-10,retail,chicken,"Chicken breasts, per kilogram",13.39,Dollars,13.39,Dollars
+2025-10,retail,chicken,"Chicken thigh, per kilogram",12.43,Dollars,12.43,Dollars
+2025-10,retail,chicken,"Chicken drumsticks, per kilogram",6.38,Dollars,6.38,Dollars
+2025-10,retail,pork,"Bacon, 500 grams",7.45,Dollars,14.9,Dollars per kg
+2025-10,retail,milk,"Milk, 1 litre",3.86,Dollars,3.86,Dollars per litre
+2025-10,retail,milk,"Milk, 2 litres",5.85,Dollars,2.92,Dollars per litre
+2025-10,retail,milk,"Milk, 4 litres",6.74,Dollars,1.69,Dollars per litre
+2025-10,retail,egg,"Eggs, 1 dozen",4.94,Dollars,4.94,Dollars
+2025-11,farm,beef,Steers for slaughter [111111113],305.46,Dollars per hundredweight,6.73,Dollars per kg
+2025-11,farm,beef,Heifers for slaughter [111111114],304.41,Dollars per hundredweight,6.71,Dollars per kg
+2025-11,farm,pork,Hogs [111121],116.66,Dollars per hundredweight,2.57,Dollars per kg
+2025-11,farm,chicken,Chickens for meat [11113131],2.68,Dollars per kilogram,2.68,Dollars per kilogram
+2025-11,farm,milk,Unprocessed milk from bovine [11612111],926.33,Dollars per kilolitre,0.93,Dollars per litre
+2025-11,farm,egg,Eggs in shell [116111],2.18,Dollars per dozen,2.18,Dollars per dozen
+2025-11,retail,beef,"Beef stewing cuts, per kilogram",22.92,Dollars,22.92,Dollars
+2025-11,retail,beef,"Beef striploin cuts, per kilogram",35.89,Dollars,35.89,Dollars
+2025-11,retail,beef,"Beef top sirloin cuts, per kilogram",27.03,Dollars,27.03,Dollars
+2025-11,retail,beef,"Beef rib cuts, per kilogram",38.12,Dollars,38.12,Dollars
+2025-11,retail,beef,"Ground beef, per kilogram",15.41,Dollars,15.41,Dollars
+2025-11,retail,pork,"Pork loin cuts, per kilogram",9.05,Dollars,9.05,Dollars
+2025-11,retail,pork,"Pork rib cuts, per kilogram",9.66,Dollars,9.66,Dollars
+2025-11,retail,pork,"Pork shoulder cuts, per kilogram",7.42,Dollars,7.42,Dollars
+2025-11,retail,chicken,"Whole chicken, per kilogram",6.03,Dollars,6.03,Dollars
+2025-11,retail,chicken,"Chicken breasts, per kilogram",15.3,Dollars,15.3,Dollars
+2025-11,retail,chicken,"Chicken thigh, per kilogram",11.22,Dollars,11.22,Dollars
+2025-11,retail,chicken,"Chicken drumsticks, per kilogram",6.65,Dollars,6.65,Dollars
+2025-11,retail,pork,"Bacon, 500 grams",6.82,Dollars,13.64,Dollars per kg
+2025-11,retail,milk,"Milk, 1 litre",3.84,Dollars,3.84,Dollars per litre
+2025-11,retail,milk,"Milk, 2 litres",5.83,Dollars,2.92,Dollars per litre
+2025-11,retail,milk,"Milk, 4 litres",6.75,Dollars,1.69,Dollars per litre
+2025-11,retail,egg,"Eggs, 1 dozen",4.93,Dollars,4.93,Dollars
+2025-12,farm,beef,Steers for slaughter [111111113],298.48,Dollars per hundredweight,6.58,Dollars per kg
+2025-12,farm,beef,Heifers for slaughter [111111114],296.76,Dollars per hundredweight,6.54,Dollars per kg
+2025-12,farm,pork,Hogs [111121],109.06,Dollars per hundredweight,2.4,Dollars per kg
+2025-12,farm,chicken,Chickens for meat [11113131],2.72,Dollars per kilogram,2.72,Dollars per kilogram
+2025-12,farm,milk,Unprocessed milk from bovine [11612111],916.46,Dollars per kilolitre,0.92,Dollars per litre
+2025-12,farm,egg,Eggs in shell [116111],2.18,Dollars per dozen,2.18,Dollars per dozen
+2025-12,retail,beef,"Beef stewing cuts, per kilogram",25.24,Dollars,25.24,Dollars
+2025-12,retail,beef,"Beef striploin cuts, per kilogram",29.82,Dollars,29.82,Dollars
+2025-12,retail,beef,"Beef top sirloin cuts, per kilogram",31.16,Dollars,31.16,Dollars
+2025-12,retail,beef,"Beef rib cuts, per kilogram",26.64,Dollars,26.64,Dollars
+2025-12,retail,beef,"Ground beef, per kilogram",15.23,Dollars,15.23,Dollars
+2025-12,retail,pork,"Pork loin cuts, per kilogram",8.48,Dollars,8.48,Dollars
+2025-12,retail,pork,"Pork rib cuts, per kilogram",10.02,Dollars,10.02,Dollars
+2025-12,retail,pork,"Pork shoulder cuts, per kilogram",7.1,Dollars,7.1,Dollars
+2025-12,retail,chicken,"Whole chicken, per kilogram",9.27,Dollars,9.27,Dollars
+2025-12,retail,chicken,"Chicken breasts, per kilogram",13.63,Dollars,13.63,Dollars
+2025-12,retail,chicken,"Chicken thigh, per kilogram",12.67,Dollars,12.67,Dollars
+2025-12,retail,chicken,"Chicken drumsticks, per kilogram",6.9,Dollars,6.9,Dollars
+2025-12,retail,pork,"Bacon, 500 grams",6.81,Dollars,13.62,Dollars per kg
+2025-12,retail,milk,"Milk, 1 litre",3.85,Dollars,3.85,Dollars per litre
+2025-12,retail,milk,"Milk, 2 litres",5.87,Dollars,2.94,Dollars per litre
+2025-12,retail,milk,"Milk, 4 litres",6.7,Dollars,1.68,Dollars per litre
+2025-12,retail,egg,"Eggs, 1 dozen",4.98,Dollars,4.98,Dollars
+2026-01,farm,beef,Steers for slaughter [111111113],314.71,Dollars per hundredweight,6.94,Dollars per kg
+2026-01,farm,beef,Heifers for slaughter [111111114],311.8,Dollars per hundredweight,6.87,Dollars per kg
+2026-01,farm,pork,Hogs [111121],106.49,Dollars per hundredweight,2.35,Dollars per kg
+2026-01,farm,chicken,Chickens for meat [11113131],2.76,Dollars per kilogram,2.76,Dollars per kilogram
+2026-01,farm,milk,Unprocessed milk from bovine [11612111],937.45,Dollars per kilolitre,0.94,Dollars per litre
+2026-01,farm,egg,Eggs in shell [116111],2.18,Dollars per dozen,2.18,Dollars per dozen
+2026-01,retail,beef,"Beef stewing cuts, per kilogram",24.33,Dollars,24.33,Dollars
+2026-01,retail,beef,"Beef striploin cuts, per kilogram",37.63,Dollars,37.63,Dollars
+2026-01,retail,beef,"Beef top sirloin cuts, per kilogram",25.66,Dollars,25.66,Dollars
+2026-01,retail,beef,"Beef rib cuts, per kilogram",38.18,Dollars,38.18,Dollars
+2026-01,retail,beef,"Ground beef, per kilogram",15.89,Dollars,15.89,Dollars
+2026-01,retail,pork,"Pork loin cuts, per kilogram",8.03,Dollars,8.03,Dollars
+2026-01,retail,pork,"Pork rib cuts, per kilogram",9.55,Dollars,9.55,Dollars
+2026-01,retail,pork,"Pork shoulder cuts, per kilogram",4.96,Dollars,4.96,Dollars
+2026-01,retail,chicken,"Whole chicken, per kilogram",8.66,Dollars,8.66,Dollars
+2026-01,retail,chicken,"Chicken breasts, per kilogram",14.13,Dollars,14.13,Dollars
+2026-01,retail,chicken,"Chicken thigh, per kilogram",12.66,Dollars,12.66,Dollars
+2026-01,retail,chicken,"Chicken drumsticks, per kilogram",8.18,Dollars,8.18,Dollars
+2026-01,retail,pork,"Bacon, 500 grams",6.52,Dollars,13.04,Dollars per kg
+2026-01,retail,milk,"Milk, 1 litre",3.87,Dollars,3.87,Dollars per litre
+2026-01,retail,milk,"Milk, 2 litres",5.84,Dollars,2.92,Dollars per litre
+2026-01,retail,milk,"Milk, 4 litres",6.63,Dollars,1.66,Dollars per litre
+2026-01,retail,egg,"Eggs, 1 dozen",4.93,Dollars,4.93,Dollars
+2026-02,farm,beef,Steers for slaughter [111111113],315.69,Dollars per hundredweight,6.96,Dollars per kg
+2026-02,farm,beef,Heifers for slaughter [111111114],313.62,Dollars per hundredweight,6.91,Dollars per kg
+2026-02,farm,pork,Hogs [111121],108.79,Dollars per hundredweight,2.4,Dollars per kg
+2026-02,farm,chicken,Chickens for meat [11113131],2.77,Dollars per kilogram,2.77,Dollars per kilogram
+2026-02,farm,milk,Unprocessed milk from bovine [11612111],953.42,Dollars per kilolitre,0.95,Dollars per litre
+2026-02,farm,egg,Eggs in shell [116111],2.18,Dollars per dozen,2.18,Dollars per dozen
+2026-02,retail,beef,"Beef stewing cuts, per kilogram",22.81,Dollars,22.81,Dollars
+2026-02,retail,beef,"Beef striploin cuts, per kilogram",44.6,Dollars,44.6,Dollars
+2026-02,retail,beef,"Beef top sirloin cuts, per kilogram",24.59,Dollars,24.59,Dollars
+2026-02,retail,beef,"Beef rib cuts, per kilogram",35.76,Dollars,35.76,Dollars
+2026-02,retail,beef,"Ground beef, per kilogram",16.13,Dollars,16.13,Dollars
+2026-02,retail,pork,"Pork loin cuts, per kilogram",7.71,Dollars,7.71,Dollars
+2026-02,retail,pork,"Pork rib cuts, per kilogram",9.27,Dollars,9.27,Dollars
+2026-02,retail,pork,"Pork shoulder cuts, per kilogram",8.1,Dollars,8.1,Dollars
+2026-02,retail,chicken,"Whole chicken, per kilogram",8.4,Dollars,8.4,Dollars
+2026-02,retail,chicken,"Chicken breasts, per kilogram",12.96,Dollars,12.96,Dollars
+2026-02,retail,chicken,"Chicken thigh, per kilogram",11.36,Dollars,11.36,Dollars
+2026-02,retail,chicken,"Chicken drumsticks, per kilogram",6.82,Dollars,6.82,Dollars
+2026-02,retail,pork,"Bacon, 500 grams",6.61,Dollars,13.22,Dollars per kg
+2026-02,retail,milk,"Milk, 1 litre",3.96,Dollars,3.96,Dollars per litre
+2026-02,retail,milk,"Milk, 2 litres",5.89,Dollars,2.94,Dollars per litre
+2026-02,retail,milk,"Milk, 4 litres",6.84,Dollars,1.71,Dollars per litre
+2026-02,retail,egg,"Eggs, 1 dozen",4.94,Dollars,4.94,Dollars
+2026-03,farm,beef,Steers for slaughter [111111113],315.05,Dollars per hundredweight,6.95,Dollars per kg
+2026-03,farm,beef,Heifers for slaughter [111111114],312.37,Dollars per hundredweight,6.89,Dollars per kg
+2026-03,farm,pork,Hogs [111121],112.61,Dollars per hundredweight,2.48,Dollars per kg
+2026-03,farm,chicken,Chickens for meat [11113131],2.76,Dollars per kilogram,2.76,Dollars per kilogram
+2026-03,farm,milk,Unprocessed milk from bovine [11612111],932.04,Dollars per kilolitre,0.93,Dollars per litre
+2026-03,farm,egg,Eggs in shell [116111],2.18,Dollars per dozen,2.18,Dollars per dozen
+2026-03,retail,beef,"Beef stewing cuts, per kilogram",24.11,Dollars,24.11,Dollars
+2026-03,retail,beef,"Beef striploin cuts, per kilogram",39.48,Dollars,39.48,Dollars
+2026-03,retail,beef,"Beef top sirloin cuts, per kilogram",30.79,Dollars,30.79,Dollars
+2026-03,retail,beef,"Beef rib cuts, per kilogram",32.24,Dollars,32.24,Dollars
+2026-03,retail,beef,"Ground beef, per kilogram",15.26,Dollars,15.26,Dollars
+2026-03,retail,pork,"Pork loin cuts, per kilogram",8.36,Dollars,8.36,Dollars
+2026-03,retail,pork,"Pork rib cuts, per kilogram",9.72,Dollars,9.72,Dollars
+2026-03,retail,pork,"Pork shoulder cuts, per kilogram",8.22,Dollars,8.22,Dollars
+2026-03,retail,chicken,"Whole chicken, per kilogram",8.73,Dollars,8.73,Dollars
+2026-03,retail,chicken,"Chicken breasts, per kilogram",13.52,Dollars,13.52,Dollars
+2026-03,retail,chicken,"Chicken thigh, per kilogram",12.2,Dollars,12.2,Dollars
+2026-03,retail,chicken,"Chicken drumsticks, per kilogram",6.4,Dollars,6.4,Dollars
+2026-03,retail,pork,"Bacon, 500 grams",6.57,Dollars,13.14,Dollars per kg
+2026-03,retail,milk,"Milk, 1 litre",3.95,Dollars,3.95,Dollars per litre
+2026-03,retail,milk,"Milk, 2 litres",5.95,Dollars,2.98,Dollars per litre
+2026-03,retail,milk,"Milk, 4 litres",6.89,Dollars,1.72,Dollars per litre
+2026-03,retail,egg,"Eggs, 1 dozen",4.94,Dollars,4.94,Dollars
+2026-04,farm,beef,Steers for slaughter [111111113],325.79,Dollars per hundredweight,7.18,Dollars per kg
+2026-04,farm,beef,Heifers for slaughter [111111114],323.62,Dollars per hundredweight,7.13,Dollars per kg
+2026-04,farm,pork,Hogs [111121],113.28,Dollars per hundredweight,2.5,Dollars per kg
+2026-04,farm,chicken,Chickens for meat [11113131],2.65,Dollars per kilogram,2.65,Dollars per kilogram
+2026-04,farm,milk,Unprocessed milk from bovine [11612111],940.19,Dollars per kilolitre,0.94,Dollars per litre
+2026-04,farm,egg,Eggs in shell [116111],2.18,Dollars per dozen,2.18,Dollars per dozen
+2026-04,retail,beef,"Beef stewing cuts, per kilogram",21.69,Dollars,21.69,Dollars
+2026-04,retail,beef,"Beef striploin cuts, per kilogram",42.0,Dollars,42.0,Dollars
+2026-04,retail,beef,"Beef top sirloin cuts, per kilogram",27.82,Dollars,27.82,Dollars
+2026-04,retail,beef,"Beef rib cuts, per kilogram",27.48,Dollars,27.48,Dollars
+2026-04,retail,beef,"Ground beef, per kilogram",15.39,Dollars,15.39,Dollars
+2026-04,retail,pork,"Pork loin cuts, per kilogram",8.71,Dollars,8.71,Dollars
+2026-04,retail,pork,"Pork rib cuts, per kilogram",9.4,Dollars,9.4,Dollars
+2026-04,retail,pork,"Pork shoulder cuts, per kilogram",10.01,Dollars,10.01,Dollars
+2026-04,retail,chicken,"Whole chicken, per kilogram",6.53,Dollars,6.53,Dollars
+2026-04,retail,chicken,"Chicken breasts, per kilogram",13.33,Dollars,13.33,Dollars
+2026-04,retail,chicken,"Chicken thigh, per kilogram",10.86,Dollars,10.86,Dollars
+2026-04,retail,chicken,"Chicken drumsticks, per kilogram",6.23,Dollars,6.23,Dollars
+2026-04,retail,pork,"Bacon, 500 grams",7.01,Dollars,14.02,Dollars per kg
+2026-04,retail,milk,"Milk, 1 litre",3.95,Dollars,3.95,Dollars per litre
+2026-04,retail,milk,"Milk, 2 litres",5.82,Dollars,2.91,Dollars per litre
+2026-04,retail,milk,"Milk, 4 litres",6.87,Dollars,1.72,Dollars per litre
+2026-04,retail,egg,"Eggs, 1 dozen",5.0,Dollars,5.0,Dollars
+2026-05,farm,beef,Steers for slaughter [111111113],337.88,Dollars per hundredweight,7.45,Dollars per kg
+2026-05,farm,beef,Heifers for slaughter [111111114],335.33,Dollars per hundredweight,7.39,Dollars per kg
+2026-05,farm,pork,Hogs [111121],112.34,Dollars per hundredweight,2.48,Dollars per kg
+2026-05,farm,chicken,Chickens for meat [11113131],2.68,Dollars per kilogram,2.68,Dollars per kilogram
+2026-05,farm,milk,Unprocessed milk from bovine [11612111],972.89,Dollars per kilolitre,0.97,Dollars per litre
+2026-05,farm,egg,Eggs in shell [116111],2.18,Dollars per dozen,2.18,Dollars per dozen
+2026-05,retail,beef,"Beef stewing cuts, per kilogram",26.1,Dollars,26.1,Dollars
+2026-05,retail,beef,"Beef striploin cuts, per kilogram",38.63,Dollars,38.63,Dollars
+2026-05,retail,beef,"Beef top sirloin cuts, per kilogram",32.99,Dollars,32.99,Dollars
+2026-05,retail,beef,"Beef rib cuts, per kilogram",28.57,Dollars,28.57,Dollars
+2026-05,retail,beef,"Ground beef, per kilogram",16.15,Dollars,16.15,Dollars
+2026-05,retail,pork,"Pork loin cuts, per kilogram",9.0,Dollars,9.0,Dollars
+2026-05,retail,pork,"Pork rib cuts, per kilogram",10.11,Dollars,10.11,Dollars
+2026-05,retail,pork,"Pork shoulder cuts, per kilogram",9.6,Dollars,9.6,Dollars
+2026-05,retail,chicken,"Whole chicken, per kilogram",7.63,Dollars,7.63,Dollars
+2026-05,retail,chicken,"Chicken breasts, per kilogram",14.01,Dollars,14.01,Dollars
+2026-05,retail,chicken,"Chicken thigh, per kilogram",13.82,Dollars,13.82,Dollars
+2026-05,retail,chicken,"Chicken drumsticks, per kilogram",7.86,Dollars,7.86,Dollars
+2026-05,retail,pork,"Bacon, 500 grams",6.77,Dollars,13.54,Dollars per kg
+2026-05,retail,milk,"Milk, 1 litre",3.97,Dollars,3.97,Dollars per litre
+2026-05,retail,milk,"Milk, 2 litres",5.85,Dollars,2.92,Dollars per litre
+2026-05,retail,milk,"Milk, 4 litres",6.88,Dollars,1.72,Dollars per litre
+2026-05,retail,egg,"Eggs, 1 dozen",5.0,Dollars,5.0,Dollars
+2026-06,retail,beef,"Beef stewing cuts, per kilogram",25.4,Dollars,25.4,Dollars
+2026-06,retail,beef,"Beef striploin cuts, per kilogram",39.26,Dollars,39.26,Dollars
+2026-06,retail,beef,"Beef top sirloin cuts, per kilogram",26.63,Dollars,26.63,Dollars
+2026-06,retail,beef,"Beef rib cuts, per kilogram",31.52,Dollars,31.52,Dollars
+2026-06,retail,beef,"Ground beef, per kilogram",16.17,Dollars,16.17,Dollars
+2026-06,retail,pork,"Pork loin cuts, per kilogram",7.94,Dollars,7.94,Dollars
+2026-06,retail,pork,"Pork rib cuts, per kilogram",9.66,Dollars,9.66,Dollars
+2026-06,retail,pork,"Pork shoulder cuts, per kilogram",9.62,Dollars,9.62,Dollars
+2026-06,retail,chicken,"Whole chicken, per kilogram",9.02,Dollars,9.02,Dollars
+2026-06,retail,chicken,"Chicken breasts, per kilogram",14.14,Dollars,14.14,Dollars
+2026-06,retail,chicken,"Chicken thigh, per kilogram",13.69,Dollars,13.69,Dollars
+2026-06,retail,chicken,"Chicken drumsticks, per kilogram",8.45,Dollars,8.45,Dollars
+2026-06,retail,pork,"Bacon, 500 grams",6.15,Dollars,12.3,Dollars per kg
+2026-06,retail,milk,"Milk, 1 litre",3.96,Dollars,3.96,Dollars per litre
+2026-06,retail,milk,"Milk, 2 litres",5.9,Dollars,2.95,Dollars per litre
+2026-06,retail,milk,"Milk, 4 litres",6.99,Dollars,1.75,Dollars per litre
+2026-06,retail,egg,"Eggs, 1 dozen",5.0,Dollars,5.0,Dollars
