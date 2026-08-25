@@ -1,4 +1,4 @@
-from src.db import create_ont_protein_view, piping_prices, view_to_csv
+from db import create_ont_protein_view, piping_prices, view_to_csv
 
 def main():
     piping_prices()
